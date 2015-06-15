@@ -1,0 +1,57 @@
+1	I.K.S. K'Vort
+1	I.K.S. Bortas
+1	Batris
+1	Vekor
+1	Vash (The Next Generation)
+1	Koral (The Next Generation)
+1	Dr. Syrus
+1	Captain Worf
+1	William T. Riker (The Next Generation)
+1	Q'elyn
+1	Commander K'Ehleyr
+1	Kurak
+1	Korris (The Next Generation)
+1	Koroth (The Next Generation)
+1	Konmel (The Next Generation)
+1	Kitrik (The Next Generation)
+1	Kahless (The Next Generation)
+1	K'Temoc
+1	Jean-Luc Picard (The Next Generation)
+1	Duras (Life From Lifelessness)
+1	Heart of Glory
+2	B'Somgh
+2	Get It Done
+2	Surprise Party
+2	Zegov
+2	Losta
+Missions:
+1	Seize Freighter
+1	Intercept Sleeper Ship
+1	Impose Order
+1	Cloaked Mission (Homefront)
+1	Amnesty Talks
+1	Acquire Surplus Ships
+Seed+Dil:
+1	Dignitaries and Witnesses
+1	Magnetic Field Disruptions
+1	Maglock (Homefront)
+1	Warp Bubble Mishap
+1	Microbrain
+1	The Arsenal: Divided
+1	Friendly Fire (Homefront)
+1	Pinned Down
+1	Chula: The Chandra (Homefront)
+1	A Good Day to Lie
+1	Forsaken
+1	Temptation
+1	Dangerous Climb
+1	Picking Up the Pieces
+1	Flim-Flam Artist
+1	Wind Dancer
+1	Triage
+1	Q's Vicious Animal Things (Homefront)
+1	Assign Mission Specialists (The Next Generation)
+1	Continuing Mission
+1	Attention All Hands
+1	Klingon Outpost
+1	Temporal Micro-Wormhole (Homefront II)

@@ -1,0 +1,17 @@
+<uninstall>
+<dateYYMMDD>150412</dateYYMMDD>
+<removepath>sets/setimages/general/SAS_49V.jpg</removepath>
+<removepath>sets/setimages/general/spatialrift.jpg</removepath>
+<removepath>sets/setimages/general/9V-Access-Denied.jpg</removepath>
+<removepath>sets/setimages/general/launchportal.jpg</removepath>
+<removepath>sets/setimages/general/taris.jpg</removepath>
+<removepath>sets/setimages/general/12yourgalaxyisimpure.jpg</removepath>
+<removepath>sets/setimages/general/112reginabarthalomew.jpg</removepath>
+<removepath>sets/setimages/general/29holoprogramthefortressof.jpg</removepath>
+<removepath>sets/setimages/general/lossoforbitalstability.jpg</removepath>
+<removepath>sets/setimages/general/thirdoffive.jpg</removepath>
+<removepath>sets/setimages/general/theweakwillperish.jpg</removepath>
+<removepath>sets/setimages/general/tpolsoongmanuever.jpg</removepath>
+<removepath>sets/setimages/general/tgq_18V.jpg</removepath>
+<removepath>sets/setimages/general/tgq_49V.jpg</removepath>
+</uninstall></removepath>

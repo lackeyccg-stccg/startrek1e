@@ -1,0 +1,7 @@
+<version>
+<lastupdateYYMMDD>150605</lastupdateYYMMDD>
+<quality>HIGH</quality>
+<versionurl>http://lackeyccg-startrek1e.googlecode.com/svn/trunk/startrek1e/version.txt</versionurl>
+<updateurl>http://lackeyccg-startrek1e.googlecode.com/svn/trunk/startrek1e/updatelist.txt</updateurl>
+<message>Plugin version 3.7 HF6 release; see changelog</message>
+</version>

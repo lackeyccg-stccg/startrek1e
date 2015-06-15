@@ -1,0 +1,54 @@
+1	Kurdon
+1	Business Gambit
+1	Will Riker
+1	Vekor
+1	Vash (The Next Generation)
+1	Koral (The Next Generation)
+1	Dr. Syrus
+1	Captain Picard
+1	Quark (The Next Generation)
+1	Daimon Bok
+1	Mordoc (The Next Generation)
+1	Dr. Arridor (The Next Generation)
+1	Kol (The Next Generation)
+1	Kayron
+1	Dr. Reyga (Life From Lifelessness)
+2	Levin
+2	Obol
+2	Rata
+2	Baht
+2	Ferengi Scout Vessel
+2	Get It Done
+2	Gozar
+2	Surprise Party
+Missions:
+1	The Last Outpost
+1	Steal Technology
+1	Search for Weapons
+1	Revenge Plot
+1	Host Metaphasic Shielding Test
+1	Acquire Surplus Ships
+Seed+Dil:
+1	Dignitaries and Witnesses
+1	Magnetic Field Disruptions
+1	Maglock (Homefront)
+1	Radioactive Garbage Scow
+1	Topological Anomaly 4747
+1	Gomtuu Shock Wave
+1	Friendly Fire (Homefront)
+1	Pinned Down
+1	Chula: The Chandra (Homefront)
+1	Linguistic Legerdemain (Homefront II)
+1	Murder Investigation
+1	Chula: The Lights (Homefront)
+1	Dangerous Climb
+1	Picking Up the Pieces
+1	Flim-Flam Artist
+1	Ferengi Ambush
+1	Armus - Skin of Evil
+1	Punishment Box (Homefront)
+1	Assign Mission Specialists (The Next Generation)
+1	Continuing Mission
+1	Attention All Hands
+1	Ferengi Trading Post
+1	Temporal Micro-Wormhole (Homefront II)

@@ -1,0 +1,19 @@
+Pass.
+Proceed.
+Draw to end my turn.
+Your turn.
+Downloading...
+Reporting...
+Beaming...
+Attempting Mission...
+Hold on... Thinking...
+BRB wait please!
+Good Game!
+!dice!/r1
+!Save!/save
+!Load!/load
+!Draw 7!/draw7
+!Save Log!/log
+!Clear Log!/clear
+!Draft to Next!/exchangeclockwise
+!Edit Deck!/copyzonetocardpool

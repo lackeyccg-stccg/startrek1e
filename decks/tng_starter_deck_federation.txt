@@ -1,0 +1,57 @@
+1	Barron
+1	U.S.S. Enterprise (Chain of Command)
+1	Vekor
+1	Vash (The Next Generation)
+1	Koral (The Next Generation)
+1	Dr. Syrus
+1	Tasha Yar - Alternate
+1	Spock
+1	Seth Mendoza
+1	Robert DeSoto
+1	Martin
+1	Beverly
+1	Lian T'su
+1	Kosinski
+1	Jean-Luc Picard (Chain of Command)
+1	Geordi La Forge (The Next Generation)
+1	Dr. Christopher
+1	Deanna Troi (The Next Generation)
+1	Davies
+1	Data (The Next Generation)
+1	Cowboy Diplomacy
+2	U.S.S. Oberth
+2	Get It Done
+2	Surprise Party
+2	Lopez
+2	Daniel Kwan
+Missions:
+1	Salvage Borg Ship
+1	Investigate Destruction
+1	Host Metaphasic Shielding Test
+1	Botanical Research
+1	Avert Solar Implosion
+1	Amnesty Talks
+Seed+Dil:
+1	Dignitaries and Witnesses
+1	Magnetic Field Disruptions
+1	Maglock (Homefront)
+1	Virus
+1	Birth of "Junior"
+1	Dedication to Duty
+1	Friendly Fire (Homefront)
+1	Pinned Down
+1	Chula: The Chandra (Homefront)
+1	Tense Negotiations
+1	Fractured Time
+1	The Arsenal: Separated
+1	Dangerous Climb
+1	Picking Up the Pieces
+1	Flim-Flam Artist
+1	Diplomatic Intervention
+1	Blended (Homefront)
+1	New Essentialists (Homefront)
+1	Assign Mission Specialists (The Next Generation)
+1	Continuing Mission
+1	Attention All Hands
+1	Federation Outpost
+1	Temporal Micro-Wormhole (Homefront II)

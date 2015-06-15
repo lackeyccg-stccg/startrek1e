@@ -1,0 +1,928 @@
+Star Trek CCG 1E Lackey Plugin
+CHANGE LOG
+-------------------------------
+
+1.0
+---
+TBD
+
+
+1.1
+---
+TBD
+
+
+2.0
+--- 
+(sethbroox)
+
+NEW
+- Some missing card images added
+
+UPDATED:
+- Major cleanup of card database
+
+
+2.1
+---
+(Scox)
+
+NEW:
+
+- The cards from Things Past and Chain of Command have been added.
+- Reprinted cards from TwT have been added.
+- Autoupdate added.
+- Extended Card Database with "pure" rarity information, to facilitate adding support for packs (boosterpacks, starters, etc) in future versions of the plugin. This will allow Sealed Deck, Draft, and so on. Goal is that next version of the plugin will have full support for this.
+
+2.1.1
+-----
+(Scox)
+
+NEW
+
+- Added CardMissing.jpg for known unreleased/hidden cards, and for possibility to mask errors/unknown cards in the future, without crashing LackeyUpdater. Add to general and to updatelist.txt, included under version handling/checksum.
+
+UPDATED:
+
+- Missing Card images (added):
+	* Hogan NA (borg, hoganna.jpg) 
+	* Critical Care 2E ()
+	* Jean-Luc Picard, Captain of the Enterprise 2E ()
+	* Founder Leader, Single-Minded 2E ()
+	* Collect Omicron Particles 2E ()
+	* Navigate Argolis Cluster 2E (TV, ST2E-EN12041.jpg)
+	* Secure Strategic Base 2E (TV, ST2E-EN12042.jpg)
+	* Oran, Irritable Gul 2E (TV, ST2E-EN12049.jpg)
+	* Moral Choice 2E (WY, ST2E-EN14007.jpg)
+	* I.K.S. Qel'Poh, H.M.S. Bounty 2E (WY, ST2E-EN14112.jpg)
+	* I.K.S. Qel'Poh, Clandestine Vessel 2E (WY, ST2E-EN14117.jpg)
+	* Neras, Slave Girl [AP] 2E (AP, ST2E-EN0AP12.jpg)
+
+- Missing Card images - not found/db error
+	* jemhadarattackshipattackshipclass - *Removed from ALL_sets.txt and updatelist.txt*
+	* dominionbattleshipbattleshipclass - *Removed from ALL_sets.txt and updatelist.txt*
+	* Stefan DeSeve* - *Case sensitive; Card Image Name changed according to All_sets.txt: IC11V-Stefan-DeSeve -> IC11V-Stefan-Deseve
+
+	
+2.2
+---
+(Scox, Nava)
+
+NEW:
+
+- Virtual promos/AI's VP 7 and VP34 - VP43 added. (Scox)
+- Life from Lifelessness added. (Nava, Scox)
+- Homefront added (Scox)
+- Change log file added (Scox)
+
+UPDATED:
+
+- Plugin name change from "StarTrek1E" to "startrek1e"
+- "Orb of prophecy and change" missing from 1A, added. (Scox)
+- "Benil" listed as DS9, should be RoA, fixed. (Scox)
+- "Captain Kirk" missing from TwT, added. (Scox)
+
+
+2.3
+---
+(Scox, Timo, Nava)
+
+NEW:
+
+- Definitions for Boosters and Starters added. For additional information see the separate README.TXT in the directory packs. (Nava)
+- Cards form the July and September 2010 errata added (Nava)
+
+UPDATED:
+
+- Card info for Savage Operations added (Nava)
+- Re-arrange All_sets.txt into first, second and virtual. Changing set to support OTF, Standard X-list and Voyager only formats. Adding expansion info into newly created Release column instead. (Timo)
+- 2E cards deleted, which were converted to 1E template: (Nava)
+	* Damaged Reputation
+	* Skeleton Crew
+	* Vastly Outnumbered
+	* For the Sisko
+	* The Genesis Effect
+	* Driven
+	* % Emok
+	* % Tholun
+	* James T. Kirk, Original Thinker
+	* Duras, Son of a Traitor
+	* Carol Markus, Intelligent Scientist
+	* David Markus, Young Scientist
+	* Vetar
+	* Personal Duty
+	* Tactical Disadvantage
+	* The Caretakers "Guests"
+	* The Clown: Bitter Medizine
+	* Friction
+	* Getting under your Skin
+	* Prison Compound
+	* Solbor, Faithful Attendant
+	* Rusot, Proud Nationalist
+	* % Founder Architect
+	* Dukat, Pah-Wraith Puppet
+	* Malik, Devious Augment
+	* Data, from the City of Rateg
+	* The Viceroy, Advisor to the Praetor
+	* % Dominion Battleship
+- [Once] icon to the respective 2E cards added (Nava)
+- Card text for Inspection (LfL) corrected (Nava)
+- Images and info entries corrected for: (Nava)
+	* Fifth, Neonatal Drone 
+	* Second, Neonatal Drone
+	* Bajoran Wormhole VP
+	* Bajoran Wormhole: Mirror Universe VP
+- Icons on Ar-Q-ologist and Quandary corrected (Nava)
+- "2E" added to the title of all 2E cards without the 2E title (Nava)
+
+2.3.1
+-----
+(Scox, Timo)
+
+UPDATED:
+- Some double quotes ("") corrected (Timo)
+- Some cards had incorrect set listed (listed as "DOM", which is undefined in setlist => not visible in any filtered view) (Timo)
+
+2.4
+---
+(Scox, Nava)
+
+NEW:
+
+- Added Straight and Steady Expansion (Scox)
+- Virtual promos VP8 Porthos and VP9 Antaak added (Scox)
+
+UPDATED:
+- 2E cards deleted, which were converted to 1E template (SAS): (Scox)
+	* Cargo Pirates
+	* Vulcan Tricorder
+	* Automated Repair Station
+	* Control Plague
+	* D'Nesh, Manipulative Gift
+	* Harrad-Sar, Slave of the Situation
+	* Navaar, Experienced Gift
+	* Dallas
+	* Daniel Leonard, Cautious Admiral
+	* Erika Hernandez, Comparable Captain
+	* Garrid
+	* Hoshi Sato, Uneasy Educator
+	* Jeffrey Pierce, On The Edge
+	* McDermott
+	* T'Pol, Austere Commander
+	* T'Pol, Austere Commander*
+- Extra quotes ("), double quotes ("" and '') and tripple quotes (""") removed /fixed (''->") from first, second.txt and virtual.txt, from the text field (Scox)
+- Pack Definitions for DS9 Starter updated to better match real packing order (Nava)
+- Starfleet icon: [SF] changed to [Sta] (Scox)
+- Added missing tabs: Hajur (NA) and all Borg 1E personnel (Scox)
+
+2.4.1
+-----
+(Scox, Nava)
+
+UPDATED:
+- Fixed issue 22; some packs from packdefinitions2 (OTSD, EP, Prem Starter, SD2) did not work.
+
+2.4.2
+-----
+(Scox)
+
+UPDATED:
+- Corrected Hoshi Sato, Malcom Reed and T'Pol:
+	* added *SAS to name
+	* added Persona info
+- Added Reports info for all SAS personnel
+- Added Class info for all SAS personnel
+
+
+
+2.5
+-----
+(Nava, Scox)
+
+NEW: (Scox)
+- Added Bah! Reprint set.
+
+UPDATED:
+(Nava)
+- Fixed multiple issues:
+	* 28 Card db Names on some outposts
+	* 29 Data *VP should be Engineer
+	* 30 Region missing on some missions
+	* 32 Khazara
+	* 33 Explorer Black Cluster II
+	* 34 Li Seria (NA Ship TMP) has Ent-E icon in the database
+	* 35 Attributes missing from Admiral Riker
+	* 36 Obrakah (Personnel Federation/FC) is not universal
+	* 38 Delta Quadrant missions icon incorrect
+	* 39 Universal indicator missing for SaS personnel missing
+	* 40 T'Pol (SAS) is not tagges as vulcan for species
+	* 41 One (Borg) doesnt show up as a (DQ) Icon Personnel
+	* 42 Data (VP) is listed as MEDICAL should be OFFICER in text field
+	* 43 Some OFT Banned Cards are not removed from filter
+	* 44 2E BC cards with tos/os icon inconsistency
+- Corrected staffing info and icons for SaS and CoC
+- Corrected multiple card texts in first.txt: Adapt: Negate Obstruction, Admiral Riker, Assimilate Planet, Atmospheric Ionisation Auto-Destruct Sequence, Bajoran Resistance Cell, Borg Cube (also Queen's and Locutus'), Female Love Interest, Firestorm, Male's Love Interrest (TWT), Seat of Starfleet, Starfleet Type II Phaser, Transwarp Network Gateway, Winddancer, Zaldan.
+- Corrected images for Atmospheric Ionisation, Bajoran Resistance Cell, Investigate Time Continuum, multiple Outposts, Seat of Starfleet, U.S.S. Oberth.
+- Rewrote plugininfo.txt to comply with new structures(see www.lackeyccg.com)
+- Added ISALLOWINGMULTIPLECARDBACKS:"yes" to allow alternate images when flipping Spacedoor, DS9, Mirror Terok Nor and Empok Nor
+
+(Scox)
+- Added VP9 and VP34 card images, without TrekCC logo, since they are now printable.
+- Jetarn, changed staffing icon from COM to STF.
+- March Erratas updated (images + text)
+- VP U.S.S. Voyager, corrected name; added *VP.
+- VP Starfleet Phaser Pistol, corrected name; added *VP.
+- % Galor, removed \DL/ from text.
+- Benil, removed extra complete game text and \DL/.
+- Corrected game text of ESPIONAGE: ROMULAN ON FEDERATION
+- Corrected game text of ESPIONAGE: ROMULAN ON KLINGON
+- Added images and game text of March 2011 Erratas.
+
+2.6
+-----
+(Nava, Scox)
+
+NEW: 
+- Added Shades of Gray Expansion. (Scox)
+
+UPDATED:
+- Added dilemma seed deck (Nava)
+- Added Promos cards of Phlox (SoG) and Dyson Sphere Door. (Scox)
+- Added missing 2E card Parek (Privileged Legate) (Scox)
+
+2.7
+----
+(Nava, Scox)
+
+NEW:
+- Added new virtual promo "Surprise Party". (Scox)
+
+UPDATED:
+- Added missing image file Virtual Promo 44. (Scox)
+- Corrected Ru'afo species. (Scox) 
+- Corrected Quetsivoo Ship class. (Scox)
+- Corrected MQ icon on First Officer Spock and Mr. Tuvok. (Nava)
+- Corrected OS icon on Vina. (Nava)
+- Changed double-sided missions II's to use the (correct) alternate image when flipped. (Nava)
+- Fixed pack definitions for outposts that had changed name (added %). (Nava)
+
+2.8
+----
+(Nava, Scox)
+
+NEW:
+- Added Homefront 2 (54 cards). (Nava)
+
+UPDATED:
+- Updated plugin according to LackeyCCG feature upates as of LackeyCCG build 2011-08-12. (Nava)
+- Fixed bug of Investigate Anomaly II (front and back images not working). (Scox)
+- Removed double space characters. (issue 63) (Nava)
+- Fixed DS9/Terok Nor Virtual Promos, now possible to flip. (issue 64) (Nava, Scox)
+- Fixed LfL dual side missions, now possible to flip. (issue 65) (Nava)
+- Updated for July CRD (Errata cards, OTF ban list update) (issue 68) (Nava)
+- Fixed Mr Tuvok bug. (issue 69) (Nava)
+- Replaced card images for VP9, VP35-VP44, now without CC-logo. (issue 70) (Scox)
+- Issues reported by commdecker May-August 2011 fixed (issue 71) (Nava)
+	* Stefan Deseve is wrong classification
+	* Filter on icons: holo. All these should have species=Hologram, but some don't. 
+	* Cure Deadly Virus is missing points and span
+	* Explore Black Cluster II is missing span
+	* Captain Koloth is missing his cunning
+	* Data, Loyal Brother is listed as universal 
+	* Temo'zuma's skills include Thot Gor 
+	* HMS Bounty doesn't list any staffing 
+	* SAS missions have no affiliations listed
+	* 1ec Starfleet ships list their class under species, instead of class. (And the VP Enterprise has neither.) 
+	* 23 personnel cards that are 1ec list a skill as "Astrometrics", when it should be "Astrophysics OR Stellar Cartography" 
+	* 38 personnel cards that are 1ec list a skill as "Programming", when it should be "Computer Skill" 
+	* Duras reporting says "High Concil" 
+	* Senator Vrax should say he reports to the Drone Control Room
+
+2.8.1
+-----
+(Scox)
+
+UPDATED:
+- Made correction of DS9 Starter generation (issue 72) (Scox)
+
+
+2.9
+---	
+(Scox, Nava)	
+
+NEW:
+- Resistance is Futile (18 cards). (Nava)
+
+UPDATED:
+- Added November Errata. (Nava)
+- Issue 53 : Missing 2EBC cards
+- Issue 58 : Wrong icons in virtual Spock Fos and Vina
+- Issue 73 : Docking ports is missing DS9 icon
+- Issue 74 : Several virtual cards not appearing after recent patch
+- Issue 75 : Movar should report to OoP, Data Loyal brother not universal, Arak'Taral missing
+- Issue 76 : Jean Luc Picard from Chain of Command no image
+- Issue 78 : Missing icons (Gem and Chang)
+- Issue 79 : Harvest and Synergy Drone should be Universal
+- Issue 80 : Ajur & Boratus errata
+- Issue 81 : Errata November 2011
+- Issue 82 : 2E Jasad and HA Rusot should report to Central Command
+- Issue 83 : LFL Sela and WY Sela free report missing
+- Issue 84 : HMF2 Personnel classification missing, Staffing wrong column
+- Issue 85 : FC Data and Sherlock Holmes are not human species
+- Issue 86 : SAS missions - no planet or space info
+- Issue 87 : HMF2 Dilemmas - Planet/Space info missing
+- Issue 88 : HMF2 Transwarp Hub not listed as universal.
+- Issue 89 : Quadrant info missing for some missions
+
+2.9.1
+-----	
+(Scox)	
+
+UPDATED:
+- Issue 90: A willing companion (RiF) card image is wrong size
+- Issue 91: ajur, boratus, vetar missing images
+- Issue 92: Setlist.txt needed for lackskillz
+
+
+3.0
+-----
+(Nava, Scox, Commdecker, Maelwys e.a.)
+
+RELEASE INFORMATION
+
+NEW:
+- This release changes the complete layout of the data files; columns were dropped and others added. The old column layout was 
+  Name	Set	ImageFile	Rarity	Release	Info	Type	Affil	Class	Int/Rng	Cun/Wpn	Str/Shd	Points	Region	Span	Icons	Staff	Species	Persona	Command	Reports	Text the new one is
+  Name	Set	ImageFile	Release	Info	Property	Printable	Uniqueness	Type	Mission/ Dilemma Type	Affil	Class	Int/Rng	Cun/Wpn	Str/Shd	Points	Region	Quadrant	Span	Icons	Staff	Characteristics/ Keywords	Requires	Persona	Command	Reports	Text
+  Rarity was dropped as well as Species, Property, Printable, Uniqueness, Mission/Dilemma Type, Quadrant, Characteristics/Keywords, Requires were added. The new layout far more resembles the 2e layout.
+- "% " denoting universal ships and personnel was dropped from the name (as well as the "# " for Enigma personnel); this information is now incooperated in the Uniqueness column.
+- All card info is now concurrent with the trekcc info (Nov 2012); only the "Duras-related personnel" information was added by hand. E.g. search for "ENGINEER-related" equipment, "murder-related" dilemma or "capture-related" card is now possible.
+- All information on free reports ("Reports" column) was added by hand. Vital information might be missing though. Available are 
+	Augment Research Facility
+	Camp Khitomer
+	Central Command
+	Chamber of Ministers
+	Continuing Committee
+	Deep Space Station K7
+	Drone Control Room
+	Great Hall
+	Great Link
+	Halkan Council
+	Launch The Phoenix (because there is no other way to search for them)
+	Office of The President
+	Office of The Proconsul
+	Quark's Bar
+	Seat of Starfleet
+	Son'a Observatory
+	Terran Rebellion HQ
+	Tower of Commerce
+	Unicomplex
+	War Council
+- Instead of three files (first, virtual and second) we now use two files (Physical.txt and Virtual.txt).
+- All 2E BC cards which are already converted are deleted from the files.
+- The uninstall.txt should clear most of the superfluous images.
+-  Additional information is available in the texts; card references are enclosed in curly brackets {}, icon references in square brackets [], downloads are denoted by a DL/.
+- All icons are encoded like on the trekcc site:
+	(G>, <G) ...	Nemesis Icons (G - Green, K - Black, L - Blue, S - Silver, Y - Yellow, R - Red)
+	[1],[2] ...,[X]	Count Down
+	[22]	22nd Century
+	[2eTNG]	TNG (2e)
+	[AU]	Alternate Universe
+	[Bar]	Barash
+	[BO]	Borg Only
+	[Cmd]	Command icon 
+	[Com]	Communication icon
+	[Crime]	Crime 
+	[Def]	Defense icon
+	[DQ]	Delta Quadrant
+	[DS9]	DS9 (2E)
+	[E]	Earth (2E)
+	[Ent-E]	Enterprise-E
+	[Fajo]	Fajo icon
+	[Films]	Startrek Films
+	[GQ]	Gamma Quadrant
+	[HA]	Hidden agenda
+	[Holo]	Hologram
+	[KCA]	Alliance
+	[KW]	Ketracel White
+	[Maq]	Maquis
+	[MU]	Mirror universe
+	[Nav]	Navigation icon
+	[OCD]	OCD icon
+	[Orb]	Orb experience
+	[OS]	Startrek Original Series
+	[Pun]	Punishment
+	[Pursuit]	Persuit
+	[Ref]	Referee
+	[Rule]	Rule
+	[Stf]	Staff icon
+	[TE]	Terran Empire
+	[TN]	Terok Nor (2E)
+	[Voy]	Voyager (2E)
+	[WC]	Warp Core
+	<Fed>,<Car> ...	Infiltrator icon- The printable cards are marked with a Y.
+- The distinction between Universal and Unique cards is now available only for personnel; only the universal cards are marked (for easier search).
+- All cards are sorted lexicographically in the info column (by using appropriate trailing zeroes)
+- All hail Maelwys!!!
+
+UPDATES:
+- TNG, TNGSup, Engage, HF3 sets are added.
+
+KNOWN ISSUES: 
+- Pack files do not work properly; we have to wait for a fix from lackeyccg.com
+- Draft mode is not included at the moment.
+- Lackey does not recognize umlauts and entities outside ASCII 127, so some information may be missing or miss-spelled.
+
+DIFFERENCES TO TREKCC:
+- All following cards have a name different from the name at trekcc.org. For the sake of  unique names we have added either the set name (Vovager), (The Borg), (Homefront), (Identity Crisis), (Homefront II), (Homefront III), (The Next Generation), or the release type (Virtual Promo), or - in two cases AP to denote alternative images. So when trying to convert between trekcc.org and lackey these names have to be accounted for!
+	* Decipher era cards:
+	Activate Subcommands (The Borg)
+	Adapt: Modulate Shields (The Borg)
+	Adapt: Negate Obstruction (The Borg)
+	Assassin's Blade (Voyager)
+	Assign Mission Specialists (Voyager)
+	Assimilate Planet (The Borg)
+	Assimilate Starship (The Borg)
+	Auto-Destruct Sequence (Voyager)
+	Awaken (The Borg)
+	Balancing Act (Voyager)
+	Borg Cube (The Borg)
+	Borg Outpost (The Borg)
+	Captain's Log (Voyager)
+	Commandeer Ship (Voyager)
+	Common Thief (Voyager)
+	Crisis (Voyager)
+	Distortion of Space/Time Continuum (Voyager)
+	Eliminate Starship (The Borg)
+	Engineering Kit (Voyager)
+	Engineering Tricorder (Voyager)
+	Escape Pod (Voyager)
+	Establish Gateway (The Borg)
+	Fair Play (Voyager)
+	Female's Love Interest (Voyager)
+	Gravimetric Distortion (Voyager)
+	Hazardous Duty (Voyager)
+	Lack of Preparation (Voyager)
+	Lower Decks (Voyager)
+	Male's Love Interest (Voyager)
+	Matriarchal Society (Voyager)
+	Medical Kit (Voyager)
+	Medical PADD (Voyager)
+	Mission Debriefing (Voyager)
+	Navigational Hazards (Voyager)
+	Radioactive Garbage Scow (Voyager)
+	Ready Room Door (Voyager)
+	Science PADD (Voyager)
+	Starfleet Type II Phaser (Voyager)
+	Starfleet Type III Phaser Rifle (Voyager)
+	The Big Picture (Voyager)
+	Transwarp Network Gateway (The Borg)
+	* Decipher era 2E BC cards:
+	Charvanek Fleet Commander *AP
+	T'Pol Dutiful Commander *AP
+	* Continuing Committee era cards:
+	God (Homefront)
+	Alter Records (Homefront)
+	Blended (Homefront)
+	Central Command (Homefront)
+	Chamber of Ministers (Homefront)
+	Chula: The Chandra (Homefront)
+	Chula: The Lights (Homefront)
+	Cloaked Mission (Homefront)
+	Continuing Committee (Homefront)
+	Dal'Rok (Homefront)
+	Dead End (Homefront)
+	Deliver Message (Homefront)
+	Espionage Mission (Homefront)
+	Expose Covert Supply (Homefront)
+	Friendly Fire (Homefront)
+	Intelligence Operation (Homefront)
+	Maglock (Homefront)
+	New Essentialists (Homefront)
+	Now Would Be a Good Time (Homefront)
+	Office of the President (Homefront)
+	Office of the Proconsul (Homefront)
+	Orb Negotiations (Homefront)
+	Punishment Box (Homefront)
+	Q's Vicious Animal Things (Homefront)
+	Search for Rebels (Homefront)
+	Subspace Shock Wave (Homefront)
+	Azetbur Visionary Chancellor (Virtual Promo)
+	Terran Rebellion HQ (Homefront)
+	B'Elanna Torres Straightforward Engineer (Virtual Promo)
+	The Great Hall (Homefront)
+	The Great Link (Homefront)
+	The Whale Probe (Homefront)
+	Tower of Commerce (Homefront)
+	Unicomplex (Homefront)
+	Ablative Armor (Homefront II)
+	Admiral Janeway (Homefront II)
+	Ambassador Sarek (Homefront II)
+	Borg Nanoprobes (Homefront II)
+	Bribery (Homefront II)
+	Brunt (Homefront II)
+	Chancellor Gowron (Homefront II)
+	Charles Tucker III (Homefront II)
+	Council of Warriors (Homefront II)
+	Founder Leader (Homefront II)
+	Founder Secret (Homefront II)
+	Four of Nine (Homefront II)
+	Gold-Pressed Latinum (Homefront II)
+	Grand Nagus Gint (Homefront II)
+	HQ: War Room (Homefront II)
+	Isomagnetic Disintegrator (Homefront II)
+	Linguistic Legerdemain (Homefront II)
+	Masaka Transformations (Homefront II)
+	Senator Letant (Homefront II)
+	Service the Collective (Homefront II)
+	Shape-Shift (Homefront II)
+	Teero Anaydis (Homefront II)
+	Temporal Micro-Wormhole (Homefront II)
+	Transwarp Hub (Homefront II)
+	22nd-Century San Francisco (Homefront III)
+	A Change of Plans (Homefront III)
+	Balancing Act (Homefront III)
+	Borg Queen (Homefront III)
+	Culluh (Homefront III)
+	Dr. Tolian Soran (Homefront III)
+	Engage Cloak (Homefront III)
+	Fajo's Gallery (Homefront III)
+	Find Hidden Base (Homefront III)
+	Gul Madred (Homefront III)
+	HQ: Defensive Measures (Homefront III)
+	Ja'rod (Homefront III)
+	Kathleen Tonell (Homefront III)
+	Locutus of Borg (Homefront III)
+	Qapla'! (Homefront III)
+	Ready Room Door (Homefront III)
+	Regenerate (Homefront III)
+	Riker Wil (Homefront III)
+	Seat of Starfleet (Homefront III)
+	The Nexus (Homefront III)
+	Tog (Homefront III)
+	Zalkonian Vessel (Homefront III)
+	Aluura (Identity Crisis)
+	Battle Cruiser (Identity Crisis)
+	Cha'Joh (Identity Crisis)
+	Data and Picard (Identity Crisis)
+	Garak (Identity Crisis)
+	Ilon Tandro (Identity Crisis)
+	Jake and Nog (Identity Crisis)
+	Kasidy Yates (Identity Crisis)
+	Kira (Identity Crisis)
+	Klaestron Outpost (Identity Crisis)
+	Kamala The Perfect Mate (Virtual Promo)
+	Koval (Identity Crisis)
+	Leeta (Identity Crisis)
+	Major Rakal (Identity Crisis)
+	Kira Nerys Colonel Kira (Virtual Promo)
+	Mardah (Identity Crisis)
+	Nog (Identity Crisis)
+	Overseer Odo (Identity Crisis)
+	Leeta Rebel Supporter (Virtual Promo)
+	Prot (Identity Crisis)
+	Quark Son of Keldar (Identity Crisis)
+	Rom (Identity Crisis)
+	Stolen Attack Ship (Identity Crisis)
+	The Emissary (Identity Crisis)
+	The Trois (Identity Crisis)
+	Tora Ziyal (Identity Crisis)
+	Bajoran Wormhole: Mirror Universe (Virtual Promo)
+	Assign Mission Specialists (The Next Generation)
+	A Fast Ship Would Be Nice (Virtual Promo)
+	Admiral McCoy (Virtual Promo)
+	Agent Garak (Virtual Promo)
+	Antaak (Virtual Promo)
+	Phlox Alien Physiologist (Virtual Promo)
+	Bajoran Wormhole (Virtual Promo)
+	Barclay's Protomorphosis Disease (Virtual Promo)
+	Betazoid Gift Box (Virtual Promo)
+	Captain Nog (Virtual Promo)
+	Deanna Troi (Virtual Promo)
+	Deep Space 9 (Virtual Promo)
+	Quark Little Green Man (Virtual Promo)
+	Defiant Dedication Plaque (Virtual Promo)
+	Denevan Neural Parasites (Virtual Promo)
+	Ro Laren Headstrong Ensign (Virtual Promo)
+	Dr. McCoy (Virtual Promo)
+	Dyson Sphere Door (Virtual Promo)
+	Enterprise (Virtual Promo)
+	Secret Identity (Virtual Promo)
+	Espionage: Bajoran on Dominion (Virtual Promo)
+	Ezri (Virtual Promo)
+	First Officer Spock (Virtual Promo)
+	Future Enterprise (Virtual Promo)
+	George and Gracie (Virtual Promo)
+	Handshake (Virtual Promo)
+	HQ: Secure Homeworld (Virtual Promo)
+	James T. Kirk (Virtual Promo)
+	Jean-Luc (Virtual Promo)
+	Jean-Luc Picard Chain of Command (Virtual Promo)
+	Morn (Virtual Promo)
+	Mutation (Virtual Promo)
+	Phoenix (Virtual Promo)
+	Porthos (Virtual Promo)
+	Quark (Virtual Promo)
+	Quark's Isolinear Rods (Virtual Promo)
+	Ru'afo (Virtual Promo)
+	Slar (Virtual Promo)
+	Space-Time Portal (Virtual Promo)
+	Spock (Virtual Promo)
+	The Void Alliance (Virtual Promo)
+	Starfleet Phaser Pistol (Virtual Promo)
+	Temporal Shifting (Virtual Promo)
+	Terok Nor (Virtual Promo)
+	The Guardian of Forever (Virtual Promo)
+	U.S.S. Enterprise Earth's Savior(Virtual Promo)
+	U.S.S. Enterprise-J (Virtual Promo)
+	The Pendari Champion (Virtual Promo)
+	U.S.S. (Voyager) (Virtual Promo)
+	Wall of Ships (Virtual Promo)
+	We Are (The Borg) (Virtual Promo)
+	
+Thanks to all players who have contributed to this release: Commdecker for making pack definitions (mostly) working again, Maelwys for his patience and help and all testers!
+
+3.01
+-----
+(Nava)
+
+NEW
+- Virtual Promos printable on 13-01-07 added
+- Virtual Promos from 2e (BC) added
+
+CHANGES
+- Pla-Net should now show the correct image
+- Kira (Identity Crisis) should now show the correct images
+
+3.02
+-----
+(Nava)
+
+NEW
+- Q's Tent: Civil War added
+
+CHANGES
+- Referee Zone now visible to both
+- U.S.S. Danube has now DS9 property icon
+
+3.021
+-----
+(Nava)
+
+CHANGES
+- Stalling for Time (2e) errata included
+
+3.0.3
+-----
+(Nava)
+
+CHANGES
+- March 2013 errata included
+- Images on Full Planet Scan and Ancestral Vision corrected
+- Property logo on Linguistic Legerdemain (DS9) corrected
+- Set info corrected for Swashbuckler at Heart 2E VP and Security Drills 2E VP
+
+3.0.4
+-----
+(Nava)
+
+CHANGES
+- All Facilities now have an affiliation to search for
+- All Non-Aligned V.I.P. indicate now that they may report to War Council
+- All Bartenders and all Rom indicate that they may report to Quarks Bar
+- Evek - Attachée to the Demilitarized Zone 2E was missing and is now added
+- T'Pol Dutiful Commander 2E was missing and is now added
+- The Big Picture, Fair Play and Intermix Ratio are now marked as banned in OTF
+- The image for Vulcan Tricorder is now fixed
+- Linguistic Legerdemain should finally show the correct set information
+- TwT Starters should be fixed now
+
+3.1
+-----
+(Nava)
+
+CHANGES
+- The Sky's The Limit included
+- Evek - Attaché to the Demilitarized Zone added
+- Text on Ensnared (Engage) corrected
+
+3.1.1
+-----
+(Nava)
+
+CHANGES
+- Voyager Starters corrected (again)
+
+3.1.2
+-----
+(Nava)
+
+CHANGES
+- May errata included
+
+3.1.3
+-----
+(Nava)
+
+CHANGES
+- June errata included
+- Some planet names added
+
+3.1.4
+-----
+(Nava)
+
+CHANGES
+- July errata included
+- Virtual promos added
+- Added printable to Cybernetics Expertise, Borg Ship, Docking Pads, Holo Suite
+- Added species for Mezoti* and Marika*
+- Added Non-Aligned to Repurposed Outpost
+- Corrected TWT Fed Starter, Starter Decks II, DS9 Starter
+- Updated Booster definitions
+
+3.1.5
+-----
+(Scox)
+
+CHANGES
+- Homefront 4 added
+- Corrected xlist, removed cards in Referee Reprint and TNG Supplemental
+- Removed black border of FMO errata image
+- Corrected Obelisk of Masaka, changed image to errata image
+
+3.2
+-----
+(Nava)
+
+NEW
+- Emissary and Emissary Supplement included
+
+CHANGES
+- December errata included
+- Images for Oof!, Distortion Field and Ferengi Military Operations changed
+- DS9 Block mode added
+- Rewritten set logic to determine Traditional and Standard (X-List)
+- Added keywords for DS9, Terok Nor, Harvester ea.
+
+3.2a
+-----
+(Nava)
+
+CHANGES
+- Cleaned up hmf4 mess
+
+3.2b
+-----
+(Nava)
+
+CHANGES
+- Issues 116, 117, 118, 119, 133, 135, 136,139, 140 corrected
+- swapped info on Archer, Weyoun, Worf and B'Elanna Torres corrected
+- Matching Commander info added
+- Planet names added (again)
+- Outposr affiliation added (again)
+- Report info added to Emissary
+- Report info added for some War Council personnel
+- Back Room Dealings now added
+- The missing three cards (Ferengi Infestation, Stolen Ship and Kamala) will be added as soon as the images are available
+
+3.3
+-----
+(Nava)
+
+CHANGES
+- March 2014 errata added
+- 3 missing VP and alternate V cards (Ferengi Infestation, Stolen Ship and Kamala) added
+- Corrected text of Security Drills 2E (Virtual Promo)
+- Added Regions to Bajoran Wormholes
+- Corrected reporting info for Vekor, Vash, Zef'No, Vurond, Weyoun, Worf (FC), Zayra Zefram Cochrane, Zefram Cochrane (Virtual Promo), 
+   Weyoun 6 (Virtual Promo), Seven of Nine Reclaimed Drone, Seven of Nine*, Jadzia Dax The Second Heart, Vagh Worf Chief of Security, 
+   Neral, Worf (SoG), Deputy Quark, Quark (Emissary), Brunt (Homefront II), Grand Nagus Gint, Madred and Beyor
+- Corrected wrong text on Deanna Troi (Virtual Promo) and Deanna Troi (The Next Generation)
+
+3.31
+-----
+(Nava)
+
+NEW
+- Warp Pack Emissary added
+
+CHANGES
+- Changed Mirror Terok Nor and Mirror Terok Nor (Virtual Promo) and added Mirror Terok Nor* and Mirror Terok Nor* (Virtual Promo)
+- Tosk now has a [GQ] icon3.31
+
+3.4
+-----
+(Nava)
+
+NEW
+- The Maquis added
+
+CHANGES
+- Added persona information to 12 missions
+- Changed "Reports" column on Valek
+- Changed wrong Tab spacing on Swashbuckler at Heart
+- Changed the set identification for
+	Riva (Warp Pack Emissary)
+	Back Room Dealings
+	Cultural Differences
+	Hard Time
+	Secret Identity
+	Labor Camp
+	Anneli
+	Ben Sisko
+	Borum
+	Dohlem
+	Kira Meru
+	Kira Taban
+	Danar (Emissary)
+	Darhe'el
+	Jasad (Emissary)
+	Jerax
+	Makbar (Emissary
+	Oran
+	Rogesh
+	Hoya
+	Jadzia Dax (Emissary)
+	Paulson
+	Altovar (Emissary)
+	Jakin
+	Tosk
+	Baraka
+	Taken Prisoner
+	Fitting In
+	Captain Spock
+	Dokar
+	Data (The Sky's the Limit)
+	Kamala
+	Antedean Assassin
+	Captain's Holiday
+	Invidium Leak
+	Ornaran Threat
+	Abduction Plot
+	Ensnared
+	Parem (Engage)
+	Deranas
+
+	
+3.5
+-----
+(Tim)
+
+NEW
+- 20th Anniversary Collection added
+
+
+3.6
+-----
+(Nava)
+
+NEW
+- The Gamma Quadrant added
+- VP 96-118 added
+
+CHANGES
+- Ban list updated
+- Added Planet name information to multiple missions
+- Added commander information to multiple people
+- changed wrong image on I.K.S Nguq'Yab
+
+
+3.6.1
+-----
+(Nava)
+
+CHANGES
+- Added April errata
+- Added quotation marks to TMP "God"
+
+
+3.7
+-----
+(Nava)
+
+NEW
+- Homefront VI added
+
+CHANGES
+- In the Zone now banned in OTF
+- Added alternate border images for Maquis set:
+	Ro Laren
+	Tabor
+	Quark
+	M'vil
+- Removed following cards since they were already converted in earlier sets:
+	Riva Respected Mediator 2E
+	Close Call 2E
+	Subspace Accident 2E
+	Dominion Hierarchy 2E
+	Rule of Acquisition #33 2E
+	Enabran Tain 2E
+	Varen'agor 2E
+	Serrola 2E
+	
+------------------------------
+Plugin main maintainer - Scox
+Email: stccg1e.lackeyplugin@scox.se
+TrekCC handle: Scox
