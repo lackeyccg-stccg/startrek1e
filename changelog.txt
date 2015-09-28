@@ -921,6 +921,23 @@ CHANGES
 	Enabran Tain 2E
 	Varen'agor 2E
 	Serrola 2E
+
+
+3.8
+-----
+(Nava)
+
+NEW
+- Crossover and Crossover supplement added
+
+CHANGES
+- Included definitions for Mirror Block
+- Removed the obsolete „Printable“ column
+- Added a „Names“ column, containing Alliance personnel references (more to come)
+- Changed Liberty to reflect the new class
+- Updated Deyos ea. to include the phrase „Internment Camp 371-related personnel“
+- Updated the persona information on multiple missions
+- Moved to git as new hosting provider
 	
 ------------------------------
 Plugin main maintainer - Scox

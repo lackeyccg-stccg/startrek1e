@@ -2,9 +2,9 @@
 Physical.txt
 Virtual.txt
 
-9
+10
 Open/Rev (any)
-20
+30
 main
 main_conv
 otfban
@@ -25,9 +25,19 @@ block_b01_trad
 block_b02
 block_b02_conv
 block_b02_trad
+block_b03
+block_b03_conv
+block_b03_trad
+xlist_block_b03
+xlist_block_b0003
+block_b0003
+block_b0103
+block_b0103_trad
+block_b0003_conv
+block_b0003_trad
 
 Open/Rev (1E)
-19
+29
 main
 main_conv
 otfban
@@ -47,9 +57,19 @@ block_b01_trad
 block_b02
 block_b02_conv
 block_b02_trad
+block_b03
+block_b03_conv
+block_b03_trad
+xlist_block_b03
+xlist_block_b0003
+block_b0003
+block_b0103
+block_b0103_trad
+block_b0003_conv
+block_b0003_trad
 
 OTF
-18
+28
 main
 main_conv
 second
@@ -68,6 +88,16 @@ block_b01_trad
 block_b02
 block_b02_conv
 block_b02_trad
+block_b03
+block_b03_conv
+block_b03_trad
+xlist_block_b03
+xlist_block_b0003
+block_b0003
+block_b0103
+block_b0103_trad
+block_b0003_conv
+block_b0003_trad
 
 
 TNG Block
@@ -99,8 +129,28 @@ block_b02
 block_b02_conv
 block_b02_trad
 
-OTF-1E
+Mirror Block
 17
+xlist_block_core
+block_core
+block_core_trad
+block_core_conv
+block_b02
+block_b02_conv
+block_b02_trad
+block_b03
+block_b03_conv
+block_b03_trad
+xlist_block_b03
+xlist_block_b0003
+block_b0003
+block_b0103
+block_b0103_trad
+block_b0003_conv
+block_b0003_trad
+
+OTF-1E
+27
 main
 main_conv
 xlist
@@ -118,9 +168,19 @@ block_b01_trad
 block_b02
 block_b02_conv
 block_b02_trad
+block_b03
+block_b03_conv
+block_b03_trad
+xlist_block_b03
+xlist_block_b0003
+block_b0003
+block_b0103
+block_b0103_trad
+block_b0003_conv
+block_b0003_trad
 
 Standard-X
-16
+24
 main
 main_conv
 second
@@ -137,9 +197,17 @@ block_b01_trad
 block_b02
 block_b02_conv
 block_b02_trad
+block_b03
+block_b03_conv
+block_b03_trad
+block_b0003
+block_b0103
+block_b0103_trad
+block_b0003_conv
+block_b0003_trad
 
 Standard-X-1E
-14
+22
 main
 main_conv
 block_core
@@ -154,9 +222,17 @@ block_b01_trad
 block_b02
 block_b02_conv
 block_b02_trad
+block_b03
+block_b03_conv
+block_b03_trad
+block_b0003
+block_b0103
+block_b0103_trad
+block_b0003_conv
+block_b0003_trad
 
 Traditional
-16
+21
 main
 main_conv
 second
@@ -173,3 +249,8 @@ block_b01_conv
 block_b01_trad
 block_b02_conv
 block_b02_trad
+block_b03_conv
+block_b03_trad
+block_b0103_trad
+block_b0003_conv
+block_b0003_trad

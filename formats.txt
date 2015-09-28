@@ -19,6 +19,16 @@
 	<set>block_b02</set>
 	<set>block_b02_conv</set>
 	<set>block_b02_trad</set>
+	<set>block_b03</set>
+	<set>block_b03_conv</set>
+	<set>block_b03_trad</set>
+	<set>xlist_block_b03</set>
+	<set>xlist_block_b0003</set>
+	<set>block_b0003</set>
+	<set>block_b0103</set>
+	<set>block_b0103_trad</set>
+	<set>block_b0003_conv</set>
+	<set>block_b0003_trad</set>
 </format>
 <format>
 	<label>TNG Block</label>
@@ -49,6 +59,25 @@
 	<set>block_b02_trad</set>
 </format>
 <format>
+	<label>Mirror Block</label>
+	<set>xlist_block_core</set>
+	<set>block_core</set>
+	<set>block_core_trad</set>
+	<set>block_core_conv</set>
+	<set>block_b02</set>
+	<set>block_b02_conv</set>
+	<set>block_b02_trad</set>
+	<set>block_b03</set>
+	<set>block_b03_conv</set>
+	<set>block_b03_trad</set>
+	<set>xlist_block_b03</set>
+	<set>xlist_block_b0003</set>
+	<set>block_b0003</set>
+	<set>block_b0103</set>
+	<set>block_b0103_trad</set>
+	<set>block_b0003_conv</set>
+	<set>block_b0003_trad</set>
+<format>
 	<label>OTF-1E</label>
 	<set>main</set>
 	<set>main_conv</set>
@@ -67,6 +96,16 @@
 	<set>block_b02</set>
 	<set>block_b02_conv</set>
 	<set>block_b02_trad</set>
+	<set>block_b03</set>
+	<set>block_b03_conv</set>
+	<set>block_b03_trad</set>
+	<set>xlist_block_b03</set>
+	<set>xlist_block_b0003</set>
+	<set>block_b0003</set>
+	<set>block_b0103</set>
+	<set>block_b0103_trad</set>
+	<set>block_b0003_conv</set>
+	<set>block_b0003_trad</set>
 </format>
 <format>
 	<label>Standard-X</label>
@@ -85,8 +124,16 @@
 	<set>block_b01_conv</set>
 	<set>block_b01_trad</set>
 	<set>block_b02</set>
+	<set>block_b03</set>
 	<set>block_b02_conv</set>
 	<set>block_b02_trad</set>
+	<set>block_b03_conv</set>
+	<set>block_b03_trad</set>
+	<set>block_b0003</set>
+	<set>block_b0103</set>
+	<set>block_b0103_trad</set>
+	<set>block_b0003_conv</set>
+	<set>block_b0003_trad</set>
 </format>
 <format>
 	<label>Standard-X-1E</label>
@@ -105,6 +152,13 @@
 	<set>block_b02</set>
 	<set>block_b02_conv</set>
 	<set>block_b02_trad</set>
+	<set>block_b03_conv</set>
+	<set>block_b03_trad</set>
+	<set>block_b0003</set>
+	<set>block_b0103_trad</set>
+	<set>block_b0003_conv</set>
+	<set>block_b0103</set>
+	<set>block_b0003_trad</set>
 </format>
 <format>
 	<label>Traditional</label>
@@ -126,5 +180,16 @@
 	<set>block_b01_trad</set>
 	<set>block_b02_conv</set>
 	<set>block_b02_trad</set>
+	<set>block_b03_conv</set>
+	<set>block_b03_trad</set>
+	<set>block_b0103_trad</set>
+	<set>xlist_block_b03</set>
+	<set>xlist_block_b0003</set>
+	<set>block_b0003_conv</set>
+	<set>block_b0003_trad</set>
+	<set>block_b03_conv</set>
+	<set>block_b03_trad</set>
+	<set>xlist_block_b03</set>
+	<set>xlist_block_b0003</set>
 </format>
 </formatdefinitions>
