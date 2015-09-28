@@ -77,6 +77,7 @@
 	<set>block_b0103_trad</set>
 	<set>block_b0003_conv</set>
 	<set>block_b0003_trad</set>
+</format>
 <format>
 	<label>OTF-1E</label>
 	<set>main</set>

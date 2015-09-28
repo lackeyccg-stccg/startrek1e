@@ -1,6 +1,6 @@
 startrek1e	08-28-15
 plugins/startrek1e/plugininfo.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/plugininfo.txt	531710
-plugins/startrek1e/formats.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/formats.txt	404932
+plugins/startrek1e/formats.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/formats.txt	405750
 plugins/startrek1e/version.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/version.txt	36523
 plugins/startrek1e/uninstall.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/uninstall.txt	0
 plugins/startrek1e/defaultchat.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/defaultchat.txt	25335
