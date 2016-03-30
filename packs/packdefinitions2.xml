@@ -925,7 +925,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Federation Outpost</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Alyssa Ogawa</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Alyssa Ogawa (First Contact)</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>B.G. Robinson</data></crit>

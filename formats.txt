@@ -122,6 +122,7 @@
 	<set>block_b00_conv</set>
 	<set>block_b00_trad</set>
 	<set>block_b01</set>
+	<set>block_b01_otfban</set>
 	<set>block_b01_conv</set>
 	<set>block_b01_trad</set>
 	<set>block_b02</set>

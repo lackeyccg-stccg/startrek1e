@@ -938,6 +938,21 @@ CHANGES
 - Updated Deyos ea. to include the phrase „Internment Camp 371-related personnel“
 - Updated the persona information on multiple missions
 - Moved to git as new hosting provider
+
+
+3.9
+-----
+(Nava)
+
+NEW
+- Through the Lookingglass added
+
+CHANGES
+- Corrected Image for Five of Three (TwT)
+- Changed TwT Fed Starter to contain Alyssa Ogawa (FC)
+- Changed release for Starfleet Phaser Pistol
+- Changed property info for Swashbuckler at Heart (VP)
+- Added Mirror Icon to Overseer Odo (ID Crisis), Selot, Marauder, The Intendant (Crossover), The Regent (Crossover)
 	
 ------------------------------
 Plugin main maintainer - Scox

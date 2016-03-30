@@ -1,7 +1,7 @@
 <version>
-<lastupdateYYMMDD>150928</lastupdateYYMMDD>
+<lastupdateYYMMDD>160330</lastupdateYYMMDD>
 <quality>HIGH</quality>
-<versionurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek-1e/master/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek-1e/master/updatelist.txt</updateurl>
-<message>Plugin version 3.8 Crossover release and move to git; see changelog</message>
+<versionurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/updatelist.txt</updateurl>
+<message>Plugin version 3.9 Through the Lookingglass release and small changes; see changelog https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/changelog.txt</message>
 </version>

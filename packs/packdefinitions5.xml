@@ -1100,3 +1100,200 @@
 	</chance>
 </pack>
 </packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>Terran Empire OS Starter</packtitle>
+	<packimage>Mirror_TEOS</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Sealed Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Mirror Dagger</data></crit>
+	</kind>
+	<kind><qty>2</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Raktajino (Homefront VI)</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Agony Booth</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Wormhole Navigation Schematic</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Reap All the Glory</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Chief Engineer Scott</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Chief Navigator Chekov</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Chief Surgeon McCoy</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Comm Officer Uhura</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Crewman Bredahl</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Crewman Peart</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Crewman Wilson</data></crit>
+	</kind>
+	<kind><qty>2</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Ensign Caggiano</data></crit>
+	</kind>
+	<kind><qty>2</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Ensign Chagwiza</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Ensign Davis</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Ensign Gaffney</data></crit>
+	</kind>
+	<kind><qty>2</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Ensign Kjolholm</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Farrell</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>First Officer Spock</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Haadok</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>James Tiberius Kirk</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Marlena Moreau</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Security Chief Sulu</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Transporter Chief Kyle</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Minister Tharn</data></crit>
+	</kind>
+	<kind><qty>3</qty>
+		<crit><field>Name</field><eval>IS</eval><data>I.S.S. Constitution</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Conduct Crossover Operation</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Enlistment Drive</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Historical Research</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Mine Dilithium</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Secure Supply Lines</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Study Rare Phenomenon</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>A Bad End</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>A Good Day to Lie (Homefront VI)</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Ancient Computer (Homefront VI)</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Climbing the Ranks</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Dangerous Climb</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Dignitaries and Witnesses</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Don't Let It End This Way</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Ensure Their Silence</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Flim-Flam Artist</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>History Repeats Itself</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>It's Green</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Justice or Vengeance</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Occupational Hazards</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Picking Up the Pieces</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Unorthodox Preservation</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Alternate Universe Door (Homefront VI)</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>The First Stable Wormhole</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Terran Outpost</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Call for Reinforcements (Homefront VI)</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Emblem of the Empire</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>New Arrivals (Homefront VI)</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>The Art of Diplomacy</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Assign Support Personnel</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Fear Will Keep Them in Line</data></crit>
+	</kind>
+	<kind><qty>2</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Bajoran Wormhole</data></crit>
+	</kind>
+	<kind><qty>1</qty>
+		<crit><field>Name</field><eval>IS</eval><data>Bajoran Wormhole: Mirror Universe</data></crit>
+	</kind>
+	</chance>
+</pack>
+</packdefinitions>
