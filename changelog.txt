@@ -945,7 +945,7 @@ CHANGES
 (Nava)
 
 NEW
-- Through the Lookingglass added
+- Through the Looking Glass added
 
 CHANGES
 - Corrected Image for Five of Three (TwT)
@@ -953,6 +953,19 @@ CHANGES
 - Changed release for Starfleet Phaser Pistol
 - Changed property info for Swashbuckler at Heart (VP)
 - Added Mirror Icon to Overseer Odo (ID Crisis), Selot, Marauder, The Intendant (Crossover), The Regent (Crossover)
+
+3.9.1
+-----
+(Nava)
+
+CHANGES
+- April errata included
+- Removed converted 2E cards:
+	- Quantum Incursions 2E
+	- Rak’tazan 2E
+	- Sark 2E
+	- Exposed Power Relay 2E
+	- Learning Curve 2E
 	
 ------------------------------
 Plugin main maintainer - Scox
