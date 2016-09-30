@@ -978,6 +978,12 @@ CHANGES
 - Completely reworked  formats (now 3 Block, OTF, X-List, Traditional, OTF-1E, X-List-1E and Traditional-1E)
 - Added I.K.S. Bortas and I.K.S. K'Vort to TNG Supplemental (again)
 
+3.10
+(Nava)
+
+NEW
+- 50th Anniversary set added
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
