@@ -970,19 +970,30 @@ CHANGES
 (Nava)
 
 CHANGES
-- Second April errata included
-- Added 4 alternate image cards for Emissary
-- Deleted Tamal, Technician 2E
-- Added affiliation for Alliance Outpost
-- Changed set information for Worf Chief of Security
-- Completely reworked  formats (now 3 Block, OTF, X-List, Traditional, OTF-1E, X-List-1E and Traditional-1E)
-- Added I.K.S. Bortas and I.K.S. K'Vort to TNG Supplemental (again)
+	- Second April errata included
+	- Added 4 alternate image cards for Emissary
+	- Deleted Tamal, Technician 2E
+	- Added affiliation for Alliance Outpost
+	- Changed set information for Worf Chief of Security
+	- Completely reworked  formats (now 3 Block, OTF, X-List, Traditional,
+	  OTF-1E, X-List-1E and Traditional-1E)
+	- Added I.K.S. Bortas and I.K.S. K'Vort to TNG Supplemental (again)
 
 3.10
+-----
 (Nava)
 
 NEW
-- 50th Anniversary set added
+	- 50th Anniversary set added
+
+3.10.1
+-----
+(Nava)
+
+NEW
+- 175 VP added (League Promo)
+
+
 
 ------------------------------
 Plugin main maintainer - Scox
