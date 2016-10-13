@@ -991,8 +991,15 @@ NEW
 (Nava)
 
 NEW
-- 175 VP added (League Promo)
+	- 175 VP added (League Promo)
 
+
+3.10.2
+-----
+(Nava)
+
+CHANGES
+	- October errata added
 
 
 ------------------------------

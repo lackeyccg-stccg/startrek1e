@@ -1,10 +1,10 @@
-startrek1e	10-01-16
+startrek1e	10-13-16
 plugins/startrek1e/plugininfo.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/plugininfo.txt	531710
 plugins/startrek1e/formats.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/formats.txt	464767
-plugins/startrek1e/version.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/version.txt	43131
+plugins/startrek1e/version.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/version.txt	43372
 plugins/startrek1e/defaultchat.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/defaultchat.txt	25335
 plugins/startrek1e/setlist.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/setlist.txt	308510
-plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/changelog.txt	2436631
+plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/changelog.txt	2440136
 plugins/startrek1e/1e-lackskillz.exe	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/1e-lackskillz.exe	130014
 plugins/startrek1e/1e-lackskillz.ini	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/1e-lackskillz.ini	17603
 images/avatars/bot.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/Lackey/images/avatars/bot.jpg	182854
@@ -75,8 +75,8 @@ plugins/startrek1e/packs/DS9_Dom.jpg	https://raw.githubusercontent.com/lackeyccg
 plugins/startrek1e/packs/Mirror_KCA.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/packs/Mirror_KCA.jpg	5712
 plugins/startrek1e/packs/Mirror_TE.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/packs/Mirror_TE.jpg	74042
 plugins/startrek1e/packs/Mirror_TEOS.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/packs/Mirror_TEOS.jpg	88418
-plugins/startrek1e/sets/Physical.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/Physical.txt	60380340
-plugins/startrek1e/sets/Virtual.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/Virtual.txt	26687090
+plugins/startrek1e/sets/Physical.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/Physical.txt	60390497
+plugins/startrek1e/sets/Virtual.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/Virtual.txt	26689096
 plugins/startrek1e/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/setimages/general/cardback.jpg	222055
 plugins/startrek1e/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/setimages/general/spawned.jpg	236105
 plugins/startrek1e/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/setimages/general/CardMissing.jpg	24053
