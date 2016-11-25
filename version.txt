@@ -1,7 +1,7 @@
 <version>
-<lastupdateYYMMDD>161013</lastupdateYYMMDD>
+<lastupdateYYMMDD>161125</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/updatelist.txt</updateurl>
-<message>Plugin version 3.10.2 October errata added; see changelog https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/changelog.txt</message>
+<message>Plugin version 3.11 Terran Empire added; see changelog https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/changelog.txt</message>
 </version>

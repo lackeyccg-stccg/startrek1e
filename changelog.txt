@@ -1001,6 +1001,16 @@ NEW
 CHANGES
 	- October errata added
 
+3.11
+-----
+(Nava)
+
+NEW
+	- Terran Empire added
+	- 146 VP & 147 VP added
+
+CHANGES
+	-  Changed numeration of VPs and a few virtual cards to make them appear in sorted order.
 
 ------------------------------
 Plugin main maintainer - Scox
