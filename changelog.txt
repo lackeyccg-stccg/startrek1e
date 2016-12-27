@@ -1012,6 +1012,13 @@ NEW
 CHANGES
 	-  Changed numeration of VPs and a few virtual cards to make them appear in sorted order.
 
+3.12
+-----
+(Nava)
+
+CHANGES
+	- December errata added
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
