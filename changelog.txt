@@ -1019,6 +1019,16 @@ CHANGES
 CHANGES
 	- December errata added
 
+3.2
+-----
+(Nava)
+
+NEW
+	- Broken Bow added
+
+CHANGES
+	- Broken Bow errata supplement added
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se

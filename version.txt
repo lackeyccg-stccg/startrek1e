@@ -1,7 +1,7 @@
 <version>
-<lastupdateYYMMDD>161227</lastupdateYYMMDD>
+<lastupdateYYMMDD>170403</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/updatelist.txt</updateurl>
-<message>Plugin version 3.12 December Errata added; see changelog https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/changelog.txt</message>
+<message>Plugin version 3.2 Broken Bow added; see changelog https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/changelog.txt</message>
 </version>
