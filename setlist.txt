@@ -2,9 +2,9 @@
 Physical.txt
 Virtual.txt
 
-10
+11
 Open/Rev (any)
-37
+51
 block_b00
 block_b00_conv
 block_b00_trad
@@ -42,9 +42,24 @@ xlist_block_b03
 xlist_block_b03_trad
 xlist_block_core_trad
 xlist_otfban
+block_b01_core
+block_b03_core
+block_xcore_trad
+block_b00_core
+block_b0003_core
+block_b0003_conv_core
+block_b00_conv_core
+block_b03_conv_core
+block_b01_core
+block_b02_trad_core
+block_v_main_core
+block_core_trad_ban
+block_b04_conv
+block_b04
+
 
 Open/Rev (1E)
-32
+46
 block_b00
 block_b00_conv
 block_b00_trad
@@ -77,9 +92,24 @@ xlist_block_b03
 xlist_block_b03_trad
 xlist_block_core_trad
 xlist_otfban
+block_b01_core
+block_b03_core
+block_xcore_trad
+block_b00_core
+block_b0003_core
+block_b0003_conv_core
+block_b00_conv_core
+block_b03_conv_core
+block_b01_core
+block_b02_trad_core
+block_v_main_core
+block_core_trad_ban
+block_b04_conv
+block_b04
+
 
 OTF
-29
+43
 block_b00
 block_b00_conv
 block_b00_trad
@@ -109,9 +139,23 @@ v_xlist
 xlist
 xlist_block_b03_trad
 xlist_block_core_trad
+block_b01_core
+block_b03_core
+block_xcore_trad
+block_b00_core
+block_b0003_core
+block_b0003_conv_core
+block_b00_conv_core
+block_b03_conv_core
+block_b01_core
+block_b02_trad_core
+block_v_main_core
+block_core_trad_ban
+block_b04_conv
+block_b04
 
 TNG Block
-15
+28
 block_b00
 block_b00_conv
 block_b00_trad
@@ -127,9 +171,22 @@ block_core
 block_core_conv
 block_core_trad
 xlist_block_core_trad
+block_b01_core
+block_b03_core
+block_xcore_trad
+block_b00_core
+block_b0003_core
+block_b0003_conv_core
+block_b00_conv_core
+block_b03_conv_core
+block_b01_core
+block_b02_trad_core
+block_v_main_core
+block_b04_conv
+block_b04
 
 DS9 Block
-13
+36
 block_b01
 block_b01_conv
 block_b01_otfban
@@ -143,9 +200,22 @@ block_core
 block_core_conv
 block_core_trad
 xlist_block_core_trad
+block_b01_core
+block_b03_core
+block_xcore_trad
+block_b00_core
+block_b0003_core
+block_b0003_conv_core
+block_b00_conv_core
+block_b03_conv_core
+block_b01_core
+block_b02_trad_core
+block_v_main_core
+block_b04_conv
+block_b04
 
 Mirror Block
-15
+28
 block_b0003
 block_b0003_conv
 block_b0103
@@ -161,9 +231,52 @@ block_core_conv
 block_core_trad
 xlist_block_b03_trad
 xlist_block_core_trad
+block_b01_core
+block_b03_core
+block_xcore_trad
+block_b00_core
+block_b0003_core
+block_b0003_conv_core
+block_b00_conv_core
+block_b03_conv_core
+block_b01_core
+block_b02_trad_core
+block_v_main_core
+block_b04_conv
+block_b04
+
+22nd Century Block
+27
+block_b0003
+block_b0003_conv
+block_b0103
+block_b0103_trad
+block_b03
+block_b03_conv
+block_b03_trad
+block_core
+block_core_conv
+block_core_trad
+xlist_block_b03_trad
+xlist_block_core_trad
+block_b04
+block_b04_conv
+block_b01_core
+block_b03_core
+block_xcore_trad
+block_b00_core
+block_b0003_core
+block_b0003_conv_core
+block_b00_conv_core
+block_b03_conv_core
+block_b01_core
+block_b02_trad_core
+block_v_main_core
+block_b04_conv
+block_b04
 
 OTF-1E
-27
+41
 block_b00
 block_b00_conv
 block_b00_trad
@@ -191,10 +304,24 @@ v_xlist
 xlist
 xlist_block_b03_trad
 xlist_block_core_trad
+block_b01_core
+block_b03_core
+block_xcore_trad
+block_b00_core
+block_b0003_core
+block_b0003_conv_core
+block_b00_conv_core
+block_b03_conv_core
+block_b01_core
+block_b02_trad_core
+block_v_main_core
+block_core_trad_ban
+block_b04_conv
+block_b04
 
 
 Standard-X
-30
+44
 block_b00
 block_b00_conv
 block_b00_trad
@@ -225,9 +352,23 @@ v_main_conv
 v_main_otfban
 v_second
 v_second_otfban
+block_b01_core
+block_b03_core
+block_xcore_trad
+block_b00_core
+block_b0003_core
+block_b0003_conv_core
+block_b00_conv_core
+block_b03_conv_core
+block_b01_core
+block_b02_trad_core
+block_v_main_core
+block_core_trad_ban
+block_b04_conv
+block_b04
 
 Standard-X-1E
-26
+40
 block_b00
 block_b00_conv
 block_b00_trad
@@ -254,9 +395,23 @@ otfban
 v_main
 v_main_conv
 v_main_otfban
+block_b01_core
+block_b03_core
+block_xcore_trad
+block_b00_core
+block_b0003_core
+block_b0003_conv_core
+block_b00_conv_core
+block_b03_conv_core
+block_b01_core
+block_b02_trad_core
+block_v_main_core
+block_core_trad_ban
+block_b04_conv
+block_b04
 
 Traditional
-22
+29
 block_b00_conv
 block_b00_trad
 block_b0003_conv
@@ -279,3 +434,10 @@ v_main_conv
 xlist
 xlist_block_b03_trad
 xlist_block_core_trad
+block_xcore_trad
+block_b0003_conv_core
+block_b00_conv_core
+block_b03_conv_core
+block_b02_trad_core
+block_core_trad_ban	
+block_b04_conv

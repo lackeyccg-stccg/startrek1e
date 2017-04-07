@@ -28,6 +28,21 @@
 		<set>v_second</set>
 		<set>v_xlist</set>
 		<set>xlist</set>
+		<set>block_b01_core</set>
+		<set>block_b03_core</set>
+		<set>block_xcore_trad</set>
+		<set>block_b00_core</set>
+		<set>block_b0003_core</set>
+		<set>block_b0003_conv_core</set>
+		<set>block_b00_conv_core</set>
+		<set>block_b03_conv_core</set>
+		<set>block_b01_core</set>
+		<set>block_b02_trad_core</set>
+		<set>block_v_main_core</set>
+		<set>block_core_trad_ban</set>
+		<set>block_b04_conv</set>
+		<set>block_b04</set>
+
 	</format>
 	<format>
 		<label>TNG Block</label>
@@ -45,6 +60,17 @@
 		<set>block_core</set>
 		<set>block_core_conv</set>
 		<set>block_core_trad</set>
+		<set>block_b01_core</set>
+		<set>block_b03_core</set>
+		<set>block_xcore_trad</set>
+		<set>block_b00_core</set>
+		<set>block_b0003_core</set>
+		<set>block_b0003_conv_core</set>
+		<set>block_b00_conv_core</set>
+		<set>block_b03_conv_core</set>
+		<set>block_b01_core</set>
+		<set>block_b02_trad_core</set>
+		<set>block_v_main_core</set>
 	</format>
 	<format>
 		<label>DS9 Block</label>
@@ -60,6 +86,17 @@
 		<set>block_core</set>
 		<set>block_core_conv</set>
 		<set>block_core_trad</set>
+		<set>block_b01_core</set>
+		<set>block_b03_core</set>
+		<set>block_xcore_trad</set>
+		<set>block_b00_core</set>
+		<set>block_b0003_core</set>
+		<set>block_b0003_conv_core</set>
+		<set>block_b00_conv_core</set>
+		<set>block_b03_conv_core</set>
+		<set>block_b01_core</set>
+		<set>block_b02_trad_core</set>
+		<set>block_v_main_core</set>
 	</format>
 	<format>
 		<label>Mirror Block</label>
@@ -76,6 +113,43 @@
 		<set>block_core</set>
 		<set>block_core_conv</set>
 		<set>block_core_trad</set>
+		<set>block_b01_core</set>
+		<set>block_b03_core</set>
+		<set>block_xcore_trad</set>
+		<set>block_b00_core</set>
+		<set>block_b0003_core</set>
+		<set>block_b0003_conv_core</set>
+		<set>block_b00_conv_core</set>
+		<set>block_b03_conv_core</set>
+		<set>block_b01_core</set>
+		<set>block_b02_trad_core</set>
+		<set>block_v_main_core</set>
+	</format>
+	<format>
+		<label>22nd Century Block</label>
+		<set>block_b0003</set>
+		<set>block_b0003_conv</set>
+		<set>block_b0103</set>
+		<set>block_b0103_trad</set>
+		<set>block_b03</set>
+		<set>block_b03_conv</set>
+		<set>block_b03_trad</set>
+		<set>block_core</set>
+		<set>block_core_conv</set>
+		<set>block_core_trad</set>
+		<set>block_b04</set>
+		<set>block_b04_conv</set>
+		<set>block_b01_core</set>
+		<set>block_b03_core</set>
+		<set>block_xcore_trad</set>
+		<set>block_b00_core</set>
+		<set>block_b0003_core</set>
+		<set>block_b0003_conv_core</set>
+		<set>block_b00_conv_core</set>
+		<set>block_b03_conv_core</set>
+		<set>block_b01_core</set>
+		<set>block_b02_trad_core</set>
+		<set>block_v_main_core</set>
 	</format>
 	<format>
 		<label>Standard-X</label>
@@ -109,6 +183,20 @@
 		<set>v_main_otfban</set>
 		<set>v_second</set>
 		<set>v_second_otfban</set>
+		<set>block_b01_core</set>
+		<set>block_b03_core</set>
+		<set>block_xcore_trad</set>
+		<set>block_b00_core</set>
+		<set>block_b0003_core</set>
+		<set>block_b0003_conv_core</set>
+		<set>block_b00_conv_core</set>
+		<set>block_b03_conv_core</set>
+		<set>block_b01_core</set>
+		<set>block_b02_trad_core</set>
+		<set>block_v_main_core</set>
+		<set>block_core_trad_ban</set>
+		<set>block_b04_conv</set>
+		<set>block_b04</set>
 	</format>
 	<format>
 		<label>Traditional</label>
@@ -132,6 +220,13 @@
 		<set>second_xlist_otfban</set>
 		<set>v_main_conv</set>
 		<set>xlist</set>
+		<set>block_xcore_trad</set>
+		<set>block_b0003_conv_core</set>
+		<set>block_b00_conv_core</set>
+		<set>block_b03_conv_core</set>
+		<set>block_b02_trad_core</set>
+		<set>block_core_trad_ban</set>	
+		<set>block_b04_conv</set>
 	</format>
 	<format>
 		<label>OTF-1E</label>
@@ -160,6 +255,20 @@
 		<set>v_main_conv</set>
 		<set>v_xlist</set>
 		<set>xlist</set>
+		<set>block_b01_core</set>
+		<set>block_b03_core</set>
+		<set>block_xcore_trad</set>
+		<set>block_b00_core</set>
+		<set>block_b0003_core</set>
+		<set>block_b0003_conv_core</set>
+		<set>block_b00_conv_core</set>
+		<set>block_b03_conv_core</set>
+		<set>block_b01_core</set>
+		<set>block_b02_trad_core</set>
+		<set>block_v_main_core</set>
+		<set>block_core_trad_ban</set>
+		<set>block_b04_conv</set>
+		<set>block_b04</set>
 	</format>
 	<format>
 		<label>Standard-X-1E</label>
@@ -189,6 +298,20 @@
 		<set>v_main</set>
 		<set>v_main_conv</set>
 		<set>v_main_otfban</set>
+		<set>block_b01_core</set>
+		<set>block_b03_core</set>
+		<set>block_xcore_trad</set>
+		<set>block_b00_core</set>
+		<set>block_b0003_core</set>
+		<set>block_b0003_conv_core</set>
+		<set>block_b00_conv_core</set>
+		<set>block_b03_conv_core</set>
+		<set>block_b01_core</set>
+		<set>block_b02_trad_core</set>
+		<set>block_v_main_core</set>
+		<set>block_core_trad_ban</set>
+		<set>block_b04_conv</set>
+		<set>block_b04</set>
 	</format>
 	<format>
 		<label>Traditional-1E</label>
@@ -201,8 +324,11 @@
 		<set>main</set>
 		<set>otfban</set>
 		<set>xlist</set>
+		<set>block_xcore_trad</set>
+		<set>block_b02_trad_core</set>
+		<set>block_core_trad_ban</set>	
 	</format>
-		<format>
+	<format>
 		<label>OTF-Virtual</label>
 		<set>block_b00</set>
 		<set>block_b00_conv</set>
@@ -227,6 +353,18 @@
 		<set>v_main_conv</set>
 		<set>v_second</set>
 		<set>v_xlist</set>
+		<set>block_b01_core</set>
+		<set>block_b03_core</set>
+		<set>block_b00_core</set>
+		<set>block_b0003_core</set>
+		<set>block_b0003_conv_core</set>
+		<set>block_b00_conv_core</set>
+		<set>block_b03_conv_core</set>
+		<set>block_b01_core</set>
+		<set>block_b02_trad_core</set>
+		<set>block_v_main_core</set>
+		<set>block_core_trad_ban</set>
+		<set>block_b04_conv</set>
+		<set>block_b04</set>
 	</format>
-
 </formatdefinitions>

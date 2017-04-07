@@ -1029,6 +1029,14 @@ NEW
 CHANGES
 	- Broken Bow errata supplement added
 
+3.21
+-----
+(Nava)
+
+CHANGES
+	- New Block Core list integrated - now with 22nd Century block
+
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
