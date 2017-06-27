@@ -1036,6 +1036,27 @@ CHANGES
 CHANGES
 	- New Block Core list integrated - now with 22nd Century block
 
+3.3
+-----
+(Nava)
+
+NEW
+	- PreWarp set added
+
+CHANGES
+	- Synchronized all cards with database at trekcc.org
+	- Added June errata 
+	- Added changed images for: 
+		Admiral Janeway
+		Ambassador Sarek
+		Founder Leader
+		Chief Engineer Tucker
+		Crewman Briggs
+		Ensign Kelby
+		The Inner Light
+		Battle of Sector 001
+	- 22nd Century block is now named Enterprise block
+
 
 ------------------------------
 Plugin main maintainer - Scox

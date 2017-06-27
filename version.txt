@@ -3,5 +3,5 @@
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/updatelist.txt</updateurl>
-<message>Plugin version 3.21 New Block Core list integrated; see changelog https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/changelog.txt</message>
+<message>Plugin version 3.3 Pre Warp added; synchronized with TrekCC, added errata…; see changelog https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/changelog.txt</message>
 </version>

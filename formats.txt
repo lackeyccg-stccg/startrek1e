@@ -126,7 +126,7 @@
 		<set>block_v_main_core</set>
 	</format>
 	<format>
-		<label>22nd Century Block</label>
+		<label>Enterprise Block</label>
 		<set>block_b0003</set>
 		<set>block_b0003_conv</set>
 		<set>block_b0103</set>
