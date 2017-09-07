@@ -1057,6 +1057,12 @@ CHANGES
 		Battle of Sector 001
 	- 22nd Century block is now named Enterprise block
 
+3.4
+-----
+(Nava)
+
+NEW
+	- Live Long and Prosper set added
 
 ------------------------------
 Plugin main maintainer - Scox
