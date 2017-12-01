@@ -76,7 +76,7 @@ plugins/startrek1e/packs/Mirror_KCA.jpg	https://raw.githubusercontent.com/lackey
 plugins/startrek1e/packs/Mirror_TE.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/packs/Mirror_TE.jpg	74042
 plugins/startrek1e/packs/Mirror_TEOS.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/packs/Mirror_TEOS.jpg	88418
 plugins/startrek1e/sets/Physical.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/Physical.txt	59739436
-plugins/startrek1e/sets/Virtual.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/Virtual.txt	32192610
+plugins/startrek1e/sets/Virtual.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/Virtual.txt	32211754
 plugins/startrek1e/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/setimages/general/cardback.jpg	222055
 plugins/startrek1e/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/setimages/general/spawned.jpg	236105
 plugins/startrek1e/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/setimages/general/CardMissing.jpg	24053
