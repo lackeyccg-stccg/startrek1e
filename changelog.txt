@@ -1064,6 +1064,17 @@ CHANGES
 NEW
 	- Live Long and Prosper set added
 
+3.4.1
+-----
+(Nava)
+
+NEW
+	- Holiday Warp Pack 2017 added
+	- Virtual Promos added
+
+CHANGES
+	- Added affiliation information to some cards (pre warp pack, VPs and multiple outposts)
+	
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
