@@ -1075,6 +1075,17 @@ NEW
 CHANGES
 	- Added affiliation information to some cards (pre warp pack, VPs and multiple outposts)
 	
+	
+3.5
+-----
+(Nava)
+
+NEW
+	- Coldfront added
+
+CHANGES
+	- Added a few missing errata images
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
