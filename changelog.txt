@@ -1086,6 +1086,14 @@ NEW
 CHANGES
 	- Added a few missing errata images
 
+3.6
+-----
+(Nava)
+
+NEW
+	- Metamorphosis added
+
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
