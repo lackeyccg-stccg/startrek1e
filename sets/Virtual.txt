@@ -1578,3 +1578,32 @@ Thexor	main	metamorphosis_60	metamorpho	60 V	Nem	Universal	Personnel		Romulan	SE
 Kitara	main	metamorphosis_61	metamorpho	61 V	DS9		Ship		Bajoran	Perikian Class	8	8	8						[Cmd][Stf]	Bajoran ship, 						DL/ {Souls of the Dead}
 U.S.S. Valiant	main	metamorphosis_62	metamorpho	62 V	DS9		Ship		Federation	Defiant Class	8	10	9						[Cmd][Cmd]	Federation ship, Tractor Beam, 	Cadet, Shuttlepod, 					Tractor BeamDL/ {Training Cruise}
 Museum of Kyrian Heritage	main	metamorphosis_63	metamorpho	63 V			Time Location														31st-century, 					Seeds on table during facility phase; any play who did not seed {Ocampa planet} may download a non-Borg [DQ] ship here and/or {Holoprogram: The Voyager Encounter}. Native to this timeline: all [DQ][AU] cards with "31st-century" in lore. Once each turn, one such card reporting at this location may report for free.
+Nagilum: Test Subjects	main	comingofage_01	comingofage	1 V		N	Dilemma	Space										[3]								Place on ship. Now and start of each turn, kills one crew member (random selection). Cure with 2 SCIENCE, Diplomacy, and Physics OR {Auto-Destruct Sequence}.
+Klingon Death Yell	main	comingofage_02	comingofage	2 V		N	Interrupt																			Plays on any just killed Klingon with Honor. Yell to warn the dead and earn bonus points. May play only one death yell for each such Klingon. [5]
+Examine Battle Site	main	comingofage_03	comingofage	3 V		N	Mission	Space						40		Alpha	4	[FED] [ROM] [KLI] [FER]								SCIENCE + (Archaeology OR Anthropology) + Physics + CUNNING>40
+Investigate Energy Readings	main	comingofage_04	comingofage	4 V		N	Mission	Planet						35		Alpha	4	[FED] [ROM] [FER]								SECURITY + Anthropology x2 + (CUNNING>38 OR [Bar]) When you solve, may download Barash here.
+Prepare War Game Scenario	main	comingofage_05	comingofage	5 V		N	Mission	Space						40		Alpha	4	[FED] [ROM] [KLI] [FER]								Computer Skill + SECURITY + Leadership x2 + (CUNNING>40 OR Sirna Kolrami)
+Reported Activity	main	comingofage_06	comingofage	6 V		N	Mission	Planet						35		Alpha	3	[FED][KLI]								Navigation + Honor x2 OR Navigation + ENGINEER x2
+Tajor	main	comingofage_07	comingofage	7 V		N	Personnel		Cardassian		6	7	6					[Cmd]		Cardassian; Glinn; Support Personnel; Male;						ENGINEER Diplomacy Archaeology
+Alyssa Ogawa	main	comingofage_08	comingofage	8 V		Y	Personnel		Federation		7	6	4					[Stf]		Human; Mission Specialist; Nurse; Female;						Medical Biology
+Anhaica	main	comingofage_09	comingofage	9 V		N	Personnel		Federation/Non-Aligned		5	7	6					[Stf][Maq]		Human; U.S.S. Enterprise-related personnel; Male;						SECURITY Archaeology Geology Astrophysics ENGINEER, Physics (if with [Maq]).
+Anhaica	main	comingofage_9A	comingofage	9 V		N	Personnel		Non-Aligned/Federation		5	7	6					[Stf][Maq]		Human; U.S.S. Enterprise-related personnel; Male;						SECURITY Archaeology Geology Astrophysics ENGINEER, Physics (if with [Maq]).
+Aletia	main	comingofage_10	comingofage	10 V		N	Personnel		Ferengi/Non-Aligned		4	6	6					[Stf]		Humanoid; Female;						SCIENCE Acquisition Biology Physics
+Aletia	main	comingofage_10A	comingofage	10 V		N	Personnel		Non-Aligned/Ferengi		4	6	6					[Stf]		Humanoid; Female;						SCIENCE Acquisition Biology Physics
+Follis	main	comingofage_11	comingofage	11 V		N	Personnel		Ferengi		5	6	6					[Stf]		Ferengi; Mission Specialist; U.S.S. Enterprise-related personnel; Male;						SECURITY Navigation
+Krunk	main	comingofage_12	comingofage	12 V		N	Personnel		Ferengi		6	6	5					[Stf]		Ferengi; U.S.S. Enterprise-related personnel; Male;						ENGINEER Physics Computer Skill Transporter Skill
+Taar	main	comingofage_13	comingofage	13 V		N	Personnel		Ferengi		7	7	7					[Cmd]		Ferengi; Daimon; Male;						OFFICER Diplomacy Astrophysics May double {Ferengi Attack} faced in same quadrant.
+Divok	main	comingofage_14	comingofage	14 V		N	Personnel		Klingon		6	6	8					[Stf]		Klingon; Support Personnel; Male;						MEDICAL Biology Youth
+J'Ddan	main	comingofage_15	comingofage	15 V		N	Personnel		Klingon		2	6	6					[Stf]		Klingon; Support Personnel; Male;						SCIENCE Exobiology Treachery
+Larg	main	comingofage_16	comingofage	16 V		N	Personnel		Klingon		4	6	8					[Cmd]		Klingon; Captain; Male;						OFFICER Leadership SECURITY Computer Skill Klingon Intelligence
+Qup'ta	main	comingofage_17	comingofage	17 V		N	Personnel		Klingon		7	7	7					[Cmd]		Klingon; High Council; Male;						SCIENCE ENGINEER Archaeology Diplomacy
+Vol'Jin	main	comingofage_18	comingofage	18 V		N	Personnel		Klingon		4	6	8					[Stf]		Klingon; I.K.S. Pagh-related personnel; Male;						MEDICAL Physics Navigation Exobiology
+Aaron Conor	main	comingofage_19	comingofage	19 V		Y	Personnel		Non-Aligned		7	8	8							Human; Male;						CIVILIAN Leadership ENGINEER Biology Honor Doubles {Female's Love Interest}.
+Alexana Devos	main	comingofage_20	comingofage	20 V		Y	Personnel		Non-Aligned		7	8	7					[Stf]		Rutian; Female;						SECURITY Law Leadership MEDICAL Biology Archaeology
+Dacres	main	comingofage_21	comingofage	21 V		N	Personnel		Non-Aligned		4	7	7					[Stf]		Humanoid; Stone of Gol-related personnel; Male;						SECURITY Astrophysics Biology Physics Treachery
+Tayar	main	comingofage_22	comingofage	22 V		N	Personnel		Non-Aligned		5	7	7					[Def]		Borg; The One-related personnel; Male;						MEDICAL Computer Skill Physics Stellar Cartography
+Jacen	main	comingofage_23	comingofage	23 V		N	Personnel		Romulan		6	8	7					[Stf]		Romulan; Romulan underground; Male;						CIVILIAN SECURITY Navigation Computer Skill Astrophysics
+Mengran	main	comingofage_24	comingofage	24 V		N	Personnel		Romulan		8	7	5					[Stf]		Romulan; Romulan underground; Male;						ENGINEER Stellar Cartography Biology Astrophysics Honor
+Nefets	main	comingofage_25	comingofage	25 V		N	Personnel		Romulan		7	6	6					[Cmd]		Romulan; Romulan underground; Male;						OFFICER Honor SCIENCE Leadership Geology
+Palteth	main	comingofage_26	comingofage	26 V		N	Personnel		Romulan		3	8	7					[Stf]		Romulan; Mission Specialist; Male;						ENGINEER Computer Skill
+Kreechta	main	comingofage_27	comingofage	27 V		Y	Ship		Ferengi	D'Kora-Class Marauder	8	9	8						[Cmd][Stf][Stf]	D'Kora-Class Marauder; Holodeck; Tractor Beam; D'Kora-class; Ferengi ship;						Holodeck, Tractor Beam
