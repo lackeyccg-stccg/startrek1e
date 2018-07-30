@@ -1587,7 +1587,7 @@ Reported Activity	main	comingofage_06	comingofage	6 V		N	Mission	Planet						35	
 Tajor	main	comingofage_07	comingofage	7 V		N	Personnel		Cardassian		6	7	6					[Cmd]		Cardassian; Glinn; Support Personnel; Male;						ENGINEER Diplomacy Archaeology
 Alyssa Ogawa	main	comingofage_08	comingofage	8 V		Y	Personnel		Federation		7	6	4					[Stf]		Human; Mission Specialist; Nurse; Female;						Medical Biology
 Anhaica	main	comingofage_09	comingofage	9 V		N	Personnel		Federation/Non-Aligned		5	7	6					[Stf][Maq]		Human; U.S.S. Enterprise-related personnel; Male;						SECURITY Archaeology Geology Astrophysics ENGINEER, Physics (if with [Maq]).
-Anhaica	main	comingofage_9A	comingofage	9 V		N	Personnel		Non-Aligned/Federation		5	7	6					[Stf][Maq]		Human; U.S.S. Enterprise-related personnel; Male;						SECURITY Archaeology Geology Astrophysics ENGINEER, Physics (if with [Maq]).
+Anhaica	main	comingofage_09A	comingofage	9 V		N	Personnel		Non-Aligned/Federation		5	7	6					[Stf][Maq]		Human; U.S.S. Enterprise-related personnel; Male;						SECURITY Archaeology Geology Astrophysics ENGINEER, Physics (if with [Maq]).
 Aletia	main	comingofage_10	comingofage	10 V		N	Personnel		Ferengi/Non-Aligned		4	6	6					[Stf]		Humanoid; Female;						SCIENCE Acquisition Biology Physics
 Aletia	main	comingofage_10A	comingofage	10 V		N	Personnel		Non-Aligned/Ferengi		4	6	6					[Stf]		Humanoid; Female;						SCIENCE Acquisition Biology Physics
 Follis	main	comingofage_11	comingofage	11 V		N	Personnel		Ferengi		5	6	6					[Stf]		Ferengi; Mission Specialist; U.S.S. Enterprise-related personnel; Male;						SECURITY Navigation
