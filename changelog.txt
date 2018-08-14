@@ -1093,6 +1093,15 @@ CHANGES
 NEW
 	- Metamorphosis added
 
+3.7
+-----
+(Nava)
+
+NEW
+	- Coming of Age added
+
+CHANGES
+	- Errata added
 
 ------------------------------
 Plugin main maintainer - Scox
