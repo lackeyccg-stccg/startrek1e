@@ -1103,6 +1103,16 @@ NEW
 CHANGES
 	- Errata added
 
+3.7.1
+-----
+(Eberlems)
+
+NEW
+	- The Gift added
+
+CHANGES
+	- Errata added
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
