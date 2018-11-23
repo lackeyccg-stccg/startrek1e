@@ -1,4 +1,4 @@
-startrek1e	11-23–18
+startrek1e	11-23-18
 plugins/startrek1e/plugininfo.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/plugininfo.txt	531710
 plugins/startrek1e/formats.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/formats.txt	812190
 plugins/startrek1e/version.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/version.txt	43784
@@ -82,3 +82,4 @@ plugins/startrek1e/sets/setimages/general/spawned.jpg	https://raw.githubusercont
 plugins/startrek1e/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/setimages/general/CardMissing.jpg	24053
 CardGeneralURLs:		
 https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/setimages/general/		
+
