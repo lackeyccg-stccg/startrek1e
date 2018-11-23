@@ -82,4 +82,3 @@ plugins/startrek1e/sets/setimages/general/spawned.jpg	https://raw.githubusercont
 plugins/startrek1e/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/setimages/general/CardMissing.jpg	24053
 CardGeneralURLs:		
 https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/sets/setimages/general/		
-
