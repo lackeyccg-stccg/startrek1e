@@ -1,7 +1,7 @@
 <version>
-<lastupdateYYMMDD>181123</lastupdateYYMMDD>
+<lastupdateYYMMDD>190113</lastupdateYYMMDD>
 <quality>HIGH</quality>
-<versionurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/updatelist.txt</updateurl>
-<message>Plugin version 3.7.1 The Gift and erratas added; see changelog https://raw.githubusercontent.com/lackeyccg-stccg/startrek1e/master/changelog.txt</message>
+<versionurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/updatelist.txt</updateurl>
+<message>Plugin version 3.7.2 Equilibrium added; see changelog https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
 </version>
