@@ -1112,6 +1112,13 @@ NEW
 
 CHANGES
 	- Errata added
+	
+3.7.2
+-----
+(Eberlems)
+
+NEW
+	- Equilibrium added
 
 ------------------------------
 Plugin main maintainer - Scox
