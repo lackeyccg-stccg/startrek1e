@@ -1,10 +1,10 @@
 startrek1e	01-13-19
 plugins/startrek1e/plugininfo.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/plugininfo.txt	531710
 plugins/startrek1e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/formats.txt	812190
-plugins/startrek1e/version.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt	41682
+plugins/startrek1e/version.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt	41129
 plugins/startrek1e/defaultchat.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/defaultchat.txt	25335
 plugins/startrek1e/setlist.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/setlist.txt	552721
-plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt	2538980
+plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt	2544819
 images/avatars/bot.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/Lackey/images/avatars/bot.jpg	182854
 images/avatars/av-st-back.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/Lackey/images/avatars/av-st-back.jpg	5386
 images/avatars/av-st-data1.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/Lackey/images/avatars/av-st-data1.jpg	2347
@@ -73,8 +73,8 @@ plugins/startrek1e/packs/DS9_Dom.jpg	https://raw.githubusercontent.com/eberlems/
 plugins/startrek1e/packs/Mirror_KCA.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/Mirror_KCA.jpg	5712
 plugins/startrek1e/packs/Mirror_TE.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/Mirror_TE.jpg	74042
 plugins/startrek1e/packs/Mirror_TEOS.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/Mirror_TEOS.jpg	88418
-plugins/startrek1e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Physical.txt	58710790
-plugins/startrek1e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Virtual.txt	35676426
+plugins/startrek1e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Physical.txt	58697552
+plugins/startrek1e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Virtual.txt	35685080
 plugins/startrek1e/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/setimages/general/cardback.jpg	222055
 plugins/startrek1e/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/setimages/general/spawned.jpg	236105
 plugins/startrek1e/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/setimages/general/CardMissing.jpg	24053
