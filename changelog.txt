@@ -1119,6 +1119,15 @@ CHANGES
 
 NEW
 	- Equilibrium added
+	
+3.7.3
+-----
+(Eberlems)
+
+NEW
+	- March Errata
+	"Crimson Forcefield"
+	Kotran Pa'Dar
 
 ------------------------------
 Plugin main maintainer - Scox
