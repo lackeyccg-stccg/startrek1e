@@ -1129,7 +1129,16 @@ NEW
 	"Crimson Forcefield"
 	Kotran Pa'Dar
 
+4.0
+-----
+(Eberlems)
+	-new database export
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
 TrekCC handle: Scox
+
+Plugin main maintainer - Eberlems
+Email: markuseberlein@gmx.de
+TrekCC handle: Eberlems
