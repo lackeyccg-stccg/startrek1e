@@ -1134,6 +1134,11 @@ NEW
 (Eberlems)
 	-new database export
 
+4.1
+-----
+(Eberlems)
+	-bug fix
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
