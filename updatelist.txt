@@ -1,9 +1,9 @@
 startrek1e	04-20-19
 plugins/startrek1e/plugininfo.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/plugininfo.txt	531710
-plugins/startrek1e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/formats.txt	447104
+plugins/startrek1e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/formats.txt	444194
 plugins/startrek1e/version.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt	43150
 plugins/startrek1e/defaultchat.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/defaultchat.txt	25335
-plugins/startrek1e/setlist.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/setlist.txt	265147
+plugins/startrek1e/setlist.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/setlist.txt	262237
 plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt	2558090
 images/avatars/bot.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/Lackey/images/avatars/bot.jpg	182854
 images/avatars/av-st-back.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/Lackey/images/avatars/av-st-back.jpg	5386
