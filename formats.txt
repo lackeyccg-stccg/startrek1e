@@ -11,7 +11,7 @@
 		  <set>Virtual_OTF_Open_Warp</set>
 		  <set>Virtual_b01_OTF_Open_Warp</set>
 		  <set>Trad_Virtual_b02_OTF_Open_Warp</set>
-		  <set>Second_Virtual_OTF_Open_Warp</set>
+		  <set>2E_Virtual_OTF_Open_Warp</set>
 		  <set>Virtual_b00_OTF_Open_Warp</set>
 		  <set>Virtual_b00_b01_OTF_Open_Warp</set>
 		  <set>Trad_Virtual_b01_OTF_Open_Warp</set>
@@ -96,7 +96,7 @@
 		  <set>Virtual_OTF_Open_Warp</set>
 		  <set>Virtual_b01_OTF_Open_Warp</set>
 		  <set>Trad_Virtual_b02_OTF_Open_Warp</set>
-		  <set>Second_Virtual_OTF_Open_Warp</set>
+		  <set>2E_Virtual_OTF_Open_Warp</set>
 		  <set>Virtual_b00_OTF_Open_Warp</set>
 		  <set>Virtual_b00_b01_OTF_Open_Warp</set>
 		  <set>Trad_Virtual_b01_OTF_Open_Warp</set>
@@ -110,8 +110,8 @@
 	</format>
 	<format>
 		<label>Second</label>
-		  <set>ban_Second</set>
-		  <set>Second_Virtual_OTF_Open_Warp</set>
+		  <set>ban_2E</set>
+		  <set>2E_Virtual_OTF_Open_Warp</set>
 	</format>
 	<format>
 		<label>any</label>
@@ -128,10 +128,10 @@
 		  <set>Trad_b00_OTF_Open_Warp</set>
 		  <set>Virtual_OTF_Open_Warp</set>
 		  <set>ban</set>
-		  <set>ban_Second</set>
+		  <set>ban_2E</set>
 		  <set>Virtual_b01_OTF_Open_Warp</set>
 		  <set>Trad_Virtual_b02_OTF_Open_Warp</set>
-		  <set>Second_Virtual_OTF_Open_Warp</set>
+		  <set>2E_Virtual_OTF_Open_Warp</set>
 		  <set>Virtual_b00_OTF_Open_Warp</set>
 		  <set>Virtual_b01_Open_Warp</set>
 		  <set>Virtual_b00_b01_OTF_Open_Warp</set>
