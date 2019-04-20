@@ -15,7 +15,7 @@ Trad b00 OTF Open Warp
 Virtual OTF Open Warp
 Virtual b01 OTF Open Warp
 Trad Virtual b02 OTF Open Warp
-Second Virtual OTF Open Warp
+2E Virtual OTF Open Warp
 Virtual b00 OTF Open Warp
 Virtual b00 b01 OTF Open Warp
 Trad Virtual b01 OTF Open Warp
@@ -100,7 +100,7 @@ Virtual OTF Open
 Virtual OTF Open Warp
 Virtual b01 OTF Open Warp
 Trad Virtual b02 OTF Open Warp
-Second Virtual OTF Open Warp
+2E Virtual OTF Open Warp
 Virtual b00 OTF Open Warp
 Virtual b00 b01 OTF Open Warp
 Trad Virtual b01 OTF Open Warp
@@ -114,8 +114,8 @@ Trad Virtual b04 OTF Open Warp
 
 Second_BC
 2
-ban Second
-Second Virtual OTF Open Warp
+ban 2E
+2E Virtual OTF Open Warp
 
 any
 30
@@ -132,10 +132,10 @@ Trad Virtual Open
 Trad b00 OTF Open Warp
 Virtual OTF Open Warp
 ban
-ban Second
+ban 2E
 Virtual b01 OTF Open Warp
 Trad Virtual b02 OTF Open Warp
-Second Virtual OTF Open Warp
+2E Virtual OTF Open Warp
 Virtual b00 OTF Open Warp
 Virtual b01 Open Warp
 Virtual b00 b01 OTF Open Warp
