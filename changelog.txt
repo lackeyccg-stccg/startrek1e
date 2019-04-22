@@ -1093,6 +1093,32 @@ CHANGES
 NEW
 	- Metamorphosis added
 
+3.7
+-----
+(Nava)
+
+NEW
+	- Coming of Age added
+
+CHANGES
+	- Errata added
+
+3.7.1
+-----
+(Eberlems)
+
+NEW
+	- The Gift added
+
+CHANGES
+	- Errata added
+	
+3.7.2
+-----
+(Eberlems)
+
+NEW
+	- Equilibrium added
 
 ------------------------------
 Plugin main maintainer - Scox
