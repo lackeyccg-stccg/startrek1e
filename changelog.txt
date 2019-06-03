@@ -1139,6 +1139,14 @@ NEW
 (Eberlems)
 	-bug fix
 
+4.1.1
+-----
+(Eberlems)
+	-Errata on IDIC: Power of the High Command and Holographic Camouflage
+	-Mission Requirements Bug Fix
+	-Personnel Classification Bug Fix
+	-Homefront(2-5) cards now available with alternernate image
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
