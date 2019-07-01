@@ -1,4 +1,4 @@
-Star Trek CCG 1E Lackey Plugin
+﻿Star Trek CCG 1E Lackey Plugin
 CHANGE LOG
 -------------------------------
 
@@ -1147,6 +1147,22 @@ NEW
 	-Personnel Classification Bug Fix
 	-Homefront(2-5) cards now available with alternernate image
 
+4.1.2
+-----
+(Eberlems)
+	-OTF Ban on Ceti Eel and Memory Wipe
+	-Added new expansion The Cage
+	-Added Classification on Personnel and Facility
+	-Added Species for Personnel
+	-Block Core changes
+	-Namechanges on
+		Mission Debriefing
+		Balancing Act (First Contact)
+		Resupply Marauder II (back)
+		Q's Tent: Civil War *VP
+		Enterprise *VP
+
+	
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
