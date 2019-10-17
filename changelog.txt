@@ -1162,31 +1162,6 @@ NEW
 		Q's Tent: Civil War *VP
 		Enterprise *VP
 
-4.1.3
------
-(Eberlems)
-	-New VPs
-	-direct export from database with changes on several skills, gametext, staffing, Set, characteristics
-	-Namechanges on
-		Rotation Damage Marker (Enterprise)
-		Rotation Damage Marker (The Original Series)
-		Rotation Damage Marker (Deep Space Nine)
-		Rotation Damage Marker (The Wrath of Khan)
-		Rotation Damage Marker (The Motion Picture)
-		Rotation Damage Marker (Generations)
-		Mirror Terok Nor *VP
-		Terok Nor (back) *VP
-		Mirror Terok Nor (back) *VP
-		Surprise Party
-		Resupply Marauder II (back)
-		Terok Nor (back)
-		Seven of Nine (League Promo)
-		Vintaak Disappearance Site (back)
-		Captain Kirk (The Cage)
-		Lt. Sulu (The Cage)
-		Mr. Scott (The Cage)
-		Qol (The Cage)
-
 	
 ------------------------------
 Plugin main maintainer - Scox
