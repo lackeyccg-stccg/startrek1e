@@ -4,134 +4,123 @@ Virtual.txt
 
 10
 OTF
-22
-Trad OTF Open Warp
-Trad OTF Open
-Trad Virtual OTF Open Warp
-Trad Virtual b00 OTF Open Warp
-Trad Virtual OTF Open
-Virtual OTF Open
-Trad b00 OTF Open Warp
-Virtual OTF Open Warp
-Virtual b00 OTF Open
-Virtual b01 OTF Open Warp
-Virtual b00 OTF Open Warp
-Trad Virtual b02 OTF Open Warp
-Virtual b00 b01 OTF Open Warp
-Trad Virtual b01 OTF Open Warp
-Virtual b02 OTF Open Warp
-Trad Virtual b00 b02 OTF Open Warp
-Virtual b03 OTF Open Warp
-Virtual b00 b03 OTF Open Warp
-Trad Virtual b03 OTF Open Warp
-Virtual b04 OTF Open Warp
-Trad Virtual b04 OTF Open Warp
-Virtual b05 OTF Open Warp
+18
+Virtual_OTF_Open_Warp
+Trad_Virtual_OTF_Open_Warp
+Virtual_b00_OTF_Open_Warp
+Virtual_b01_OTF_Open_Warp
+Virtual_b02_OTF_Open_Warp
+Trad_Virtual_b00_OTF_Open_Warp
+Virtual_b00_b01_OTF_Open_Warp
+Trad_Virtual_b01_OTF_Open_Warp
+Trad_Virtual_b02_OTF_Open_Warp
+Trad_Virtual_b00_b02_OTF_Open_Warp
+Virtual_b03_OTF_Open_Warp
+Virtual_b00_b03_OTF_Open_Warp
+Trad_Virtual_b03_OTF_Open_Warp
+Virtual_b04_OTF_Open_Warp
+Trad_Virtual_b04_OTF_Open_Warp
+Virtual_b05_OTF_Open_Warp
+Trad_OTF_Open_Warp
+Trad_b00_OTF_Open_Warp
 
 TNG Block
-10
-Trad Virtual b00 OTF Open Warp
-Trad b00 OTF Open Warp
-Virtual b00 OTF Open
-Virtual b01 OTF Open Warp
-Virtual b00 OTF Open Warp
-Virtual b01 Open Warp
-Virtual b00 b01 OTF Open Warp
-Trad Virtual b01 OTF Open Warp
-Trad Virtual b00 b02 OTF Open Warp
-Virtual b00 b03 OTF Open Warp
+9
+Virtual_b00_OTF_Open_Warp
+Virtual_b01_OTF_Open_Warp
+Trad_Virtual_b00_OTF_Open_Warp
+Virtual_b01_Open_Warp
+Virtual_b00_b01_OTF_Open_Warp
+Trad_Virtual_b01_OTF_Open_Warp
+Trad_Virtual_b00_b02_OTF_Open_Warp
+Virtual_b00_b03_OTF_Open_Warp
+Trad_b00_OTF_Open_Warp
 
 
 DS9 Block
-9
-Trad Virtual b00 OTF Open Warp
-Trad b00 OTF Open Warp
-Virtual b00 OTF Open
-Virtual b00 OTF Open Warp
-Trad Virtual b02 OTF Open Warp
-Virtual b00 b01 OTF Open Warp
-Virtual b02 OTF Open Warp
-Trad Virtual b00 b02 OTF Open Warp
-Virtual b00 b03 OTF Open Warp
+8
+Virtual_b00_OTF_Open_Warp
+Virtual_b02_OTF_Open_Warp
+Trad_Virtual_b00_OTF_Open_Warp
+Virtual_b00_b01_OTF_Open_Warp
+Trad_Virtual_b02_OTF_Open_Warp
+Trad_Virtual_b00_b02_OTF_Open_Warp
+Virtual_b00_b03_OTF_Open_Warp
+Trad_b00_OTF_Open_Warp
 
 
 Mirror Block
-9
-Trad Virtual b00 OTF Open Warp
-Trad b00 OTF Open Warp
-Virtual b00 OTF Open
-Virtual b00 OTF Open Warp
-Virtual b00 b01 OTF Open Warp
-Trad Virtual b00 b02 OTF Open Warp
-Virtual b03 OTF Open Warp
-Virtual b00 b03 OTF Open Warp
-Trad Virtual b03 OTF Open Warp
+8
+Virtual_b00_OTF_Open_Warp
+Trad_Virtual_b00_OTF_Open_Warp
+Virtual_b00_b01_OTF_Open_Warp
+Trad_Virtual_b00_b02_OTF_Open_Warp
+Virtual_b03_OTF_Open_Warp
+Virtual_b00_b03_OTF_Open_Warp
+Trad_Virtual_b03_OTF_Open_Warp
+Trad_b00_OTF_Open_Warp
 
 
 Enterprise Block
-10
-Trad Virtual b00 OTF Open Warp
-Trad b00 OTF Open Warp
-Virtual b00 OTF Open
-Virtual b00 OTF Open Warp
-Virtual b00 b01 OTF Open Warp
-Trad Virtual b00 b02 OTF Open Warp
-Virtual b00 b03 OTF Open Warp
-Virtual b04 OTF Open Warp
-Virtual b04 Open Warp
-Trad Virtual b04 OTF Open Warp
+9
+Virtual_b00_OTF_Open_Warp
+Trad_Virtual_b00_OTF_Open_Warp
+Virtual_b00_b01_OTF_Open_Warp
+Trad_Virtual_b00_b02_OTF_Open_Warp
+Virtual_b00_b03_OTF_Open_Warp
+Virtual_b04_OTF_Open_Warp
+Virtual_b04_Open_Warp
+Trad_Virtual_b04_OTF_Open_Warp
+Trad_b00_OTF_Open_Warp
 
 
 TOS Block
-8
-Trad Virtual b00 OTF Open Warp
-Trad b00 OTF Open Warp
-Virtual b00 OTF Open
-Virtual b00 OTF Open Warp
-Virtual b00 b01 OTF Open Warp
-Trad Virtual b00 b02 OTF Open Warp
-Virtual b00 b03 OTF Open Warp
-Virtual b05 OTF Open Warp
+7
+Virtual_b00_OTF_Open_Warp
+Trad_Virtual_b00_OTF_Open_Warp
+Virtual_b00_b01_OTF_Open_Warp
+Trad_Virtual_b00_b02_OTF_Open_Warp
+Virtual_b00_b03_OTF_Open_Warp
+Virtual_b05_OTF_Open_Warp
+Trad_b00_OTF_Open_Warp
 
 
 Traditional
-15
-Trad OTF Open Warp
-Trad OTF Open
-Trad Virtual OTF Open Warp
-Trad Virtual b00 OTF Open Warp
-Trad Virtual OTF Open
-Trad Virtual Open Warp
-Trad Open Warp
-Trad Open
-Trad Virtual Open
-Trad b00 OTF Open Warp
-Trad Virtual b02 OTF Open Warp
-Trad Virtual b01 OTF Open Warp
-Trad Virtual b00 b02 OTF Open Warp
-Trad Virtual b03 OTF Open Warp
-Trad Virtual b04 OTF Open Warp
+11
+Trad_Virtual_OTF_Open_Warp
+Trad_Virtual_Open_Warp
+Trad_Virtual_b00_OTF_Open_Warp
+Trad_Virtual_b01_OTF_Open_Warp
+Trad_Virtual_b02_OTF_Open_Warp
+Trad_Virtual_b00_b02_OTF_Open_Warp
+Trad_Virtual_b03_OTF_Open_Warp
+Trad_Virtual_b04_OTF_Open_Warp
+Trad_OTF_Open_Warp
+Trad_Open_Warp
+Trad_b00_OTF_Open_Warp
 
 OTF-Virtual
-18
-Trad Virtual OTF Open Warp
-Trad Virtual b00 OTF Open Warp
-Trad Virtual OTF Open
-Virtual OTF Open
-Virtual OTF Open Warp
-Virtual b01 OTF Open Warp
-Trad Virtual b02 OTF Open Warp
-2E Virtual OTF Open Warp
-Virtual b00 OTF Open Warp
-Virtual b00 b01 OTF Open Warp
-Trad Virtual b01 OTF Open Warp
-Virtual b02 OTF Open Warp
-Trad Virtual b00 b02 OTF Open Warp
-Virtual b03 OTF Open Warp
-Virtual b00 b03 OTF Open Warp
-Trad Virtual b03 OTF Open Warp
-Virtual b04 OTF Open Warp
-Trad Virtual b04 OTF Open Warp
+20
+Virtual_OTF_Open_Warp
+Trad_Virtual_OTF_Open_Warp
+Virtual_b00_OTF_Open_Warp
+Virtual_b01_OTF_Open_Warp
+Trad_Virtual_Open_Warp
+Virtual_b02_OTF_Open_Warp
+Trad_Virtual_b00_OTF_Open_Warp
+Virtual_b01_Open_Warp
+Virtual_b00_b01_OTF_Open_Warp
+Trad_Virtual_b01_OTF_Open_Warp
+Trad_Virtual_b02_OTF_Open_Warp
+Trad_Virtual_b00_b02_OTF_Open_Warp
+Virtual_Open_Warp
+Virtual_b03_OTF_Open_Warp
+Virtual_b00_b03_OTF_Open_Warp
+Trad_Virtual_b03_OTF_Open_Warp
+Virtual_b04_OTF_Open_Warp
+Virtual_b04_Open_Warp
+Trad_Virtual_b04_OTF_Open_Warp
+Virtual_b05_OTF_Open_Warp
 
 Second BC
 2
@@ -139,34 +128,29 @@ ban 2E
 2E Virtual OTF Open Warp
 
 any
-30
-Trad OTF Open Warp
-Trad OTF Open
-Trad Virtual OTF Open Warp
-Trad Virtual b00 OTF Open Warp
-Trad Virtual OTF Open
-Virtual OTF Open
-Trad Virtual Open Warp
-Trad Open Warp
-Trad Open
-Trad Virtual Open
-Trad b00 OTF Open Warp
-Virtual OTF Open Warp
+25
+Virtual_OTF_Open_Warp
+Trad_Virtual_OTF_Open_Warp
+Virtual_b00_OTF_Open_Warp
+Virtual_b01_OTF_Open_Warp
+Trad_Virtual_Open_Warp
+Virtual_b02_OTF_Open_Warp
+ban_2E
+Trad_Virtual_b00_OTF_Open_Warp
+Virtual_b01_Open_Warp
+Virtual_b00_b01_OTF_Open_Warp
+Trad_Virtual_b01_OTF_Open_Warp
+Trad_Virtual_b02_OTF_Open_Warp
+Trad_Virtual_b00_b02_OTF_Open_Warp
+Virtual_Open_Warp
+Virtual_b03_OTF_Open_Warp
+Virtual_b00_b03_OTF_Open_Warp
+Trad_Virtual_b03_OTF_Open_Warp
+Virtual_b04_OTF_Open_Warp
+Virtual_b04_Open_Warp
+Trad_Virtual_b04_OTF_Open_Warp
+Virtual_b05_OTF_Open_Warp
 ban
-ban 2E
-Virtual b01 OTF Open Warp
-Trad Virtual b02 OTF Open Warp
-2E Virtual OTF Open Warp
-Virtual b00 OTF Open Warp
-Virtual b01 Open Warp
-Virtual b00 b01 OTF Open Warp
-Trad Virtual b01 OTF Open Warp
-Virtual b02 OTF Open Warp
-Trad Virtual b00 b02 OTF Open Warp
-Virtual Open Warp
-Virtual b03 OTF Open Warp
-Virtual b00 b03 OTF Open Warp
-Trad Virtual b03 OTF Open Warp
-Virtual b04 OTF Open Warp
-Virtual b04 Open Warp
-Trad Virtual b04 OTF Open Warp
+Trad_OTF_Open_Warp
+Trad_Open_Warp
+Trad_b00_OTF_Open_Warp
