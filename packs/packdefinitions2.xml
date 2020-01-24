@@ -125,7 +125,7 @@
 		</kind>
 		<kind><qty>3</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>au</data></crit>
-			<crit><field>Info</field><eval>IS</eval><data>0 U</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
 		</kind>
 		<kind><qty>11</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>au</data></crit>
