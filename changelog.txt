@@ -1161,7 +1161,12 @@ NEW
 		Resupply Marauder II (back)
 		Q's Tent: Civil War *VP
 		Enterprise *VP
-
+4.1.3
+-----
+(Eberlems)
+	--change in some booster packs
+	--Added Borderless
+	--Added QWho?
 	
 ------------------------------
 Plugin main maintainer - Scox
