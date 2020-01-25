@@ -3,5 +3,5 @@
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/updatelist.txt</updateurl>
-<message>Plugin version 4.1.3 Booster changes, added Borderess and Q Who?; see changelog https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
+<message>Plugin version 4.1.3a Booster changes, added Borderess and Q Who? + different reprint names for Borderless/Q Who?; see changelog https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
 </version>

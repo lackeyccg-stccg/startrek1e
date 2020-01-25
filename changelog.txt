@@ -1166,8 +1166,12 @@ NEW
 (Eberlems)
 	--change in some booster packs
 	--Added Borderless
-	--Added QWho?
-	
+	--Added Q Who?
+4.1.3a
+-----
+(Eberlems)
+	--renamed Borderless and Q Who? reprints
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
