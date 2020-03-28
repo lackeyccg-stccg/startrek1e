@@ -1216,6 +1216,18 @@ NEW
 	--Added
 		Mr. and Mrs. Troi
 
+4.1.5
+-----
+(Eberlems)
+	--Errata
+		Anhaica
+		The Sheliak
+		Strategic Diversion
+	changes to side decks
+	changes to cardimages AI (dilemma to events)
+	changes to packdefinitions
+	added first part of TNZ	
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
