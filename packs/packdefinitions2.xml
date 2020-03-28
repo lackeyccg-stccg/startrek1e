@@ -1026,3 +1026,117 @@
 	</chance>
 	</pack>
 </packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>Enhanced First Contact</packtitle>
+	<packimage>enhancedfirstcontact_starter_all</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Sealed Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Info</field><eval>DOESNTCONTAIN</eval><data>*</data></packcommoncrit>
+	<chance><prob>25</prob>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Dukat of Borg</data></crit>
+		</kind>		
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Population 9 Billion - All Borg</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Nightmare</data></crit>
+		</kind>		
+		<kind><qty>4</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>12</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>20</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>	
+	<chance><prob>25</prob>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Gowron of Borg</data></crit>
+		</kind>		
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>We Are The Borg</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Add Distinctiveness</data></crit>
+		</kind>		
+		<kind><qty>4</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>12</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>20</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>	
+	<chance><prob>25</prob>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Tomalak of Borg</data></crit>
+		</kind>		
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Six of Nineteen</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Sphere Encounter</data></crit>
+		</kind>		
+		<kind><qty>4</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>12</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>20</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+	<chance><prob>25</prob>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Bareil of Borg</data></crit>
+		</kind>		
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Eleven of Seventeen</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Service the Collective</data></crit>
+		</kind>		
+		<kind><qty>4</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>12</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>20</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+</pack>
+</packdefinitions>

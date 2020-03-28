@@ -518,7 +518,7 @@
         <packcommoncrit>
             <field>Release</field>
             <eval>IS</eval>
-            <data>TWT</data>
+            <data>twt</data>
         </packcommoncrit>
         <chance>
             <prob>49</prob>
@@ -526,7 +526,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -534,26 +534,26 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
             <kind>
-                <qty>7</qty>
+                <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
         </chance>
-        <chance>
+		<chance>
             <prob>50</prob>
             <kind>
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -561,15 +561,15 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
             <kind>
-                <qty>7</qty>
+                <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -580,7 +580,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>UR</data>
                 </crit>
             </kind>
@@ -588,19 +588,19 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
             <kind>
-                <qty>7</qty>
+                <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
-        </chance>
+        </chance>	
     </pack>
 </packdefinitions>
 <packdefinitions version="1.0">
@@ -621,7 +621,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -629,7 +629,7 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -637,7 +637,7 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -648,7 +648,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -656,7 +656,7 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -664,7 +664,7 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -675,7 +675,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -683,7 +683,7 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -691,7 +691,7 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -702,7 +702,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -710,7 +710,7 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -718,7 +718,7 @@
                 <qty>7</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -729,7 +729,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -737,7 +737,7 @@
                 <qty>2</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -745,7 +745,7 @@
                 <qty>8</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -756,7 +756,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -764,7 +764,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -772,7 +772,7 @@
                 <qty>9</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -783,7 +783,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -791,7 +791,7 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -799,7 +799,7 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -810,7 +810,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -818,7 +818,7 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -826,7 +826,7 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -837,7 +837,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -845,7 +845,7 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -853,7 +853,7 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -864,7 +864,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -872,7 +872,7 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -880,7 +880,7 @@
                 <qty>7</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -891,7 +891,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -899,7 +899,7 @@
                 <qty>2</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -907,7 +907,7 @@
                 <qty>8</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -918,7 +918,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -926,7 +926,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -934,7 +934,7 @@
                 <qty>9</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -945,7 +945,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>UR</data>
                 </crit>
             </kind>
@@ -953,7 +953,7 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -961,7 +961,7 @@
                 <qty>7</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -986,7 +986,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -994,7 +994,7 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1002,7 +1002,7 @@
                 <qty>7</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1013,7 +1013,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>UR</data>
                 </crit>
             </kind>
@@ -1021,7 +1021,7 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1029,7 +1029,7 @@
                 <qty>7</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1045,7 +1045,7 @@
         <packdoubles>yes</packdoubles>
         <packcommoncrit>
             <field>Release</field>
-            <eval>CONTAINS</eval>
+            <eval>IS</eval>
             <data>borg</data>
         </packcommoncrit>
         <chance>
@@ -1054,7 +1054,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1062,7 +1062,7 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1070,7 +1070,7 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1081,7 +1081,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1089,7 +1089,7 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1097,7 +1097,7 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1108,7 +1108,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1116,7 +1116,7 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1124,7 +1124,7 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1135,7 +1135,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1143,7 +1143,7 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1151,7 +1151,7 @@
                 <qty>7</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1162,7 +1162,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1170,7 +1170,7 @@
                 <qty>2</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1178,7 +1178,7 @@
                 <qty>8</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1189,7 +1189,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1197,7 +1197,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1205,7 +1205,7 @@
                 <qty>9</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1216,7 +1216,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -1224,7 +1224,7 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1232,7 +1232,7 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1243,7 +1243,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -1251,7 +1251,7 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1259,7 +1259,7 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1270,7 +1270,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -1278,7 +1278,7 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1286,7 +1286,7 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1297,7 +1297,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -1305,7 +1305,7 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1313,7 +1313,7 @@
                 <qty>7</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1324,7 +1324,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -1332,7 +1332,7 @@
                 <qty>2</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1340,7 +1340,7 @@
                 <qty>8</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1351,7 +1351,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -1359,7 +1359,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1367,7 +1367,7 @@
                 <qty>9</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1378,7 +1378,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>UR</data>
                 </crit>
             </kind>
@@ -1386,7 +1386,7 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1394,7 +1394,7 @@
                 <qty>7</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1419,7 +1419,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1427,7 +1427,7 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1435,7 +1435,7 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1446,7 +1446,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1454,7 +1454,7 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1462,7 +1462,7 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1473,7 +1473,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1481,7 +1481,7 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1489,7 +1489,7 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1500,7 +1500,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1508,7 +1508,7 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1516,7 +1516,7 @@
                 <qty>7</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1527,7 +1527,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1535,7 +1535,7 @@
                 <qty>2</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1543,7 +1543,7 @@
                 <qty>8</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1554,7 +1554,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1562,7 +1562,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1570,7 +1570,7 @@
                 <qty>9</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1581,7 +1581,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -1589,7 +1589,7 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1597,7 +1597,7 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1608,7 +1608,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -1616,7 +1616,7 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1624,7 +1624,7 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1635,7 +1635,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -1643,7 +1643,7 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1651,7 +1651,7 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1662,7 +1662,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -1670,7 +1670,7 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1678,7 +1678,7 @@
                 <qty>7</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1689,7 +1689,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -1697,7 +1697,7 @@
                 <qty>2</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1705,7 +1705,7 @@
                 <qty>8</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1716,7 +1716,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -1724,7 +1724,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1732,7 +1732,7 @@
                 <qty>9</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1743,7 +1743,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>UR</data>
                 </crit>
             </kind>
@@ -1751,7 +1751,7 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1759,7 +1759,7 @@
                 <qty>7</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1784,7 +1784,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1792,7 +1792,7 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1800,7 +1800,7 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1811,7 +1811,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1819,7 +1819,7 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1827,7 +1827,7 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1838,7 +1838,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1846,7 +1846,7 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1854,7 +1854,7 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1865,7 +1865,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1873,7 +1873,7 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1881,7 +1881,7 @@
                 <qty>7</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1892,7 +1892,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1900,7 +1900,7 @@
                 <qty>2</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1908,7 +1908,7 @@
                 <qty>8</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1919,7 +1919,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
             </kind>
@@ -1927,7 +1927,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1935,7 +1935,7 @@
                 <qty>9</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1946,7 +1946,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -1954,7 +1954,7 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1962,7 +1962,7 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -1973,7 +1973,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -1981,7 +1981,7 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -1989,7 +1989,7 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -2000,7 +2000,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -2008,7 +2008,7 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -2016,7 +2016,7 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -2027,7 +2027,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -2035,7 +2035,7 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -2043,7 +2043,7 @@
                 <qty>7</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -2054,7 +2054,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -2062,7 +2062,7 @@
                 <qty>2</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -2070,7 +2070,7 @@
                 <qty>8</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -2081,7 +2081,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>R+</data>
                 </crit>
             </kind>
@@ -2089,7 +2089,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -2097,7 +2097,7 @@
                 <qty>9</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
@@ -2108,7 +2108,7 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>UR</data>
                 </crit>
             </kind>
@@ -2116,7 +2116,7 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
             </kind>
@@ -2124,7 +2124,7 @@
                 <qty>7</qty>
                 <crit>
                     <field>Info</field>
-                    <eval>IS</eval>
+                    <eval>CONTAINS</eval>
                     <data>C</data>
                 </crit>
             </kind>
