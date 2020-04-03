@@ -1228,6 +1228,11 @@ NEW
 	changes to packdefinitions
 	added first part of TNZ	
 
+4.1.6
+-----
+(Eberlems)
+	Added TNZ
+	
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
