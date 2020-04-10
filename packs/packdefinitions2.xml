@@ -501,16 +501,19 @@
 	<chance><prob>17</prob>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>IS</eval><data>01 P</data></crit>
-		</kind>	
-		<kind><qty>4</qty>
+			<crit><field>Info</field><eval>IS</eval><data>4 P</data></crit>
+		</kind>
+		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>01</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>02</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>03</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>04</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>05</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>06</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>17 P</data></crit>
+		</kind>	
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Text</field><eval>CONTAINS</eval><data>WMH</data></crit>
+		</kind>	
+		<kind><qty>2</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Type</field><eval>IS</eval><data>Dilemma</data></crit>
 		</kind>	
 		<kind><qty>4</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
@@ -528,17 +531,19 @@
 	<chance><prob>17</prob>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>IS</eval><data>02 P</data></crit>
-		</kind>	
-		<kind><qty>4</qty>
+			<crit><field>Info</field><eval>IS</eval><data>2 P</data></crit>
+		</kind>
+		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>+</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>01</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>02</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>03</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>04</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>05</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>06</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>21 P</data></crit>
+		</kind>	
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Text</field><eval>CONTAINS</eval><data>WMH</data></crit>
+		</kind>
+		<kind><qty>2</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Type</field><eval>IS</eval><data>Dilemma</data></crit>
 		</kind>	
 		<kind><qty>4</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
@@ -556,43 +561,19 @@
 	<chance><prob>16</prob>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>IS</eval><data>03 P</data></crit>
-		</kind>	
-		<kind><qty>4</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>01</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>02</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>03</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>04</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>05</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>06</data></crit>
-		</kind>	
-		<kind><qty>4</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>1 P</data></crit>
 		</kind>
-		<kind><qty>12</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit>
-		</kind>
-		<kind><qty>44</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit>
-		</kind>
-	</chance>
-	<chance><prob>17</prob>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>IS</eval><data>04 P</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>15 P</data></crit>
 		</kind>	
-		<kind><qty>4</qty>
+		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>01</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>02</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>03</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>04</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>05</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>06</data></crit>
+			<crit><field>Text</field><eval>CONTAINS</eval><data>WMH</data></crit>
+		</kind>
+		<kind><qty>2</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Type</field><eval>IS</eval><data>Dilemma</data></crit>
 		</kind>	
 		<kind><qty>4</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
@@ -611,15 +592,48 @@
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
 			<crit><field>Info</field><eval>IS</eval><data>05 P</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>20 P</data></crit>
+		</kind>	
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Text</field><eval>CONTAINS</eval><data>WMH</data></crit>
+		</kind>
+		<kind><qty>2</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Type</field><eval>IS</eval><data>Dilemma</data></crit>
 		</kind>	
 		<kind><qty>4</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>12</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>44</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+	<chance><prob>17</prob>
+		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>01</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>02</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>03</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>04</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>05</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>06</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>3 P</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>16 P</data></crit>
+		</kind>	
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Text</field><eval>CONTAINS</eval><data>WMH</data></crit>
+		</kind>
+		<kind><qty>2</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Type</field><eval>IS</eval><data>Dilemma</data></crit>
 		</kind>	
 		<kind><qty>4</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
@@ -637,16 +651,19 @@
 	<chance><prob>16</prob>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>IS</eval><data>06 P</data></crit>
-		</kind>	
-		<kind><qty>4</qty>
+			<crit><field>Info</field><eval>IS</eval><data>6 P</data></crit>
+		</kind>
+		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>01</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>02</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>03</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>04</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>05</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>06</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>18 P</data></crit>
+		</kind>	
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Text</field><eval>CONTAINS</eval><data>WMH</data></crit>
+		</kind>
+		<kind><qty>2</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Type</field><eval>IS</eval><data>Dilemma</data></crit>
 		</kind>	
 		<kind><qty>4</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
