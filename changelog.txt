@@ -1223,15 +1223,23 @@ NEW
 		Anhaica
 		The Sheliak
 		Strategic Diversion
-	changes to side decks
-	changes to cardimages AI (dilemma to events)
-	changes to packdefinitions
-	added first part of TNZ	
+	--Added side decks
+	--Changed cardimages AI (dilemma to events)
+	--Changed Packdefinitions
+	--Added first part of TNZ	
 
 4.1.6
 -----
 (Eberlems)
-	Added TNZ
+	--Added TNZ
+	
+4.1.7
+-----
+(Eberlems)
+	--Changed TNZ Set (legal info)
+	--April Errata
+	--Changed Grid Default
+	--Card DB updates
 	
 ------------------------------
 Plugin main maintainer - Scox

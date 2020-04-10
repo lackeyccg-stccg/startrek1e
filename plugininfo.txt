@@ -273,4 +273,8 @@
    <kind>MULTIPLECARDBACKSNAMESVISIBLETO</kind>
    <value>others</value>
 </definition>
+<definition>
+	<kind>GRIDSIZE</kind>
+	<value>0.011</value>
+</definition>
 </plugin>
