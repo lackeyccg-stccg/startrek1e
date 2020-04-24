@@ -1240,6 +1240,15 @@ NEW
 	--April Errata
 	--Changed Grid Default
 	--Card DB updates
+
+4.1.8
+-----
+(Eberlems)
+	--Changed
+		The Higher... The Q-er
+	-- Errrata 
+		Dyson Sphere Door VP 
+	--Card DB updates
 	
 ------------------------------
 Plugin main maintainer - Scox
