@@ -1246,10 +1246,21 @@ NEW
 (Eberlems)
 	--Changed
 		The Higher... The Q-er
-	-- Errrata 
+	-- Errata 
 		Dyson Sphere Door VP 
 	--Card DB updates
-	
+
+4.1.9
+-----
+(Eberlems)
+	--Changed
+		Images of originals and reprints seperated
+	-- Errata 
+		Lt. Uhura, (Through the Looking Glass)
+		Dr. McCoy
+		The Final Frontier
+	--Card DB updates
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
