@@ -1,7 +1,7 @@
 <version>
-<lastupdateYYMMDD>200602</lastupdateYYMMDD>
+<lastupdateYYMMDD>200605</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/updatelist.txt</updateurl>
-<message>Plugin version 4.1.9 Errata June, original/reprint images, db updates; see changelog https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
+<message>Plugin version 4.1.10 Uhura Fix and new starters; see changelog https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
 </version>

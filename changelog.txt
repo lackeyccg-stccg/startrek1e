@@ -1261,6 +1261,14 @@ NEW
 		The Final Frontier
 	--Card DB updates
 
+4.1.10
+-----
+(Eberlems)
+	--Changed
+		Images of Lt. Uhura, (Through the Looking Glass)
+	--Added
+		4 virtual Starter Decks
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
