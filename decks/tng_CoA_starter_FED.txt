@@ -1,0 +1,68 @@
+1	Cowboy Diplomacy
+1	Get It Done
+1	Barron
+1	Beverly
+1	Daniel Kwan
+1	Data (The Next Generation)
+1	Deanna Troi (The Next Generation)
+1	Geordi La Forge (The Next Generation)
+1	Kosinski
+2	Lian T'su
+2	Lopez
+1	Martin
+1	Seth Mendoza
+1	Koral (The Next Generation)
+1	Vash (The Next Generation)
+1	Jean-Luc Picard (Chain of Command)
+1	Spock
+1	Worf
+1	Sunad
+1	Vekor
+1	U.S.S. Enterprise (Chain of Command)
+2	U.S.S. Oberth
+1	William T. Riker (The Sky's the Limit)
+1	Herbert
+1	Lieutenant Ballard
+1	Anhaica
+1	Aaron Conor
+Missions:
+1	Avert Solar Implosion
+1	Host Metaphasic Shielding Test
+1	Investigate Destruction
+1	Salvage Borg Ship
+1	Botanical Research
+1	Assist Damaged Vessel
+Seed+Dil:
+1	Chula: The Chandra
+1	Flim-Flam Artist
+1	Friendly Fire
+1	Maglock
+1	New Essentialists
+1	Subspace Shock Wave
+1	Linguistic Legerdemain
+1	Diplomatic Intervention
+1	Attention All Hands
+1	Assign Mission Specialists
+1	Do You Smell Something Burning?
+1	Antedean Assassins
+1	Devastating Communique
+1	Invidium Leak
+1	Trilithium Raid
+1	A Bad End
+1	Continuing Mission
+1	It's Green
+1	Armus - Sticky Situation
+1	Lack of Preparation
+1	Federation Outpost
+1	Nagilum: Test Subjects
+QsTent:
+Ref:
+Dyson:
+Flash:
+Tactics:
+Tribbles:
+Sites:
+Outside:
+1	Dr. Christopher
+1	Alyssa Ogawa
+Aside:

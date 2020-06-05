@@ -1,0 +1,68 @@
+1	Get It Done
+2	B'Somgh
+1	Captain Worf
+1	Commander K'Ehleyr
+1	Jean-Luc Picard (The Next Generation)
+1	Kahless (The Next Generation)
+1	Kitrik (The Next Generation)
+1	Konmel (The Next Generation)
+1	Korris (The Next Generation)
+1	Losta
+1	William T. Riker (The Next Generation)
+1	Zegov
+1	Koral (The Next Generation)
+1	Vash (The Next Generation)
+1	Duras (Life From Lifelessness)
+1	K'Temoc
+1	Kurak
+1	Sunad
+1	Vekor
+1	I.K.S. Bortas
+2	I.K.S. K'Vort
+1	Dokar
+1	Klingon Death Yell
+1	Divok
+1	J'Ddan
+1	Larg
+1	Qup'ta
+1	Vol'Jin
+Missions:
+1	Acquire Surplus Ships
+1	Amnesty Talks
+1	Intercept Sleeper Ship
+1	Seize Freighter
+1	Impose Order
+1	Reported Activity
+Seed+Dil:
+1	Chula: The Chandra
+1	Flim-Flam Artist
+1	Friendly Fire
+1	Maglock
+1	Forsaken
+1	Gomtuu Shock Wave
+2	War Games
+1	Attention All Hands
+1	Assign Mission Specialists
+1	Do You Smell Something Burning?
+1	Devastating Communique
+1	A Bad End
+1	Continuing Mission
+1	A Good Day to Lie
+1	History Repeats Itself
+1	Lack of Preparation
+1	Occupational Hazards
+1	Primitive Culture
+1	Shields Up!
+1	Klingon Outpost
+1	Nagilum: Test Subjects
+QsTent:
+Ref:
+Dyson:
+Flash:
+Tactics:
+Tribbles:
+Sites:
+Outside:
+1	Q'elyn
+1	Vekma
+Aside:
