@@ -1268,6 +1268,13 @@ NEW
 		Images of Lt. Uhura, (Through the Looking Glass)
 	--Added
 		4 virtual Starter Decks
+		
+4.1.11
+-----
+(Eberlems)
+	--Changed
+		Ensign Davis
+		Access Archives
 
 ------------------------------
 Plugin main maintainer - Scox
