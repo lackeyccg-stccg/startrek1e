@@ -1276,6 +1276,21 @@ NEW
 		Ensign Davis
 		Access Archives
 
+4.1.12
+-----
+(Eberlems)
+	--Errata
+		Classic Communicator
+		Classic Tricorder
+		Classic Medical Tricorder
+		Vulcan PADD
+		Mission Briefing PADD
+		Vulcan Tricorder
+	--Changed 
+		Virtual Promo Update
+	--Added
+		New VPs
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
