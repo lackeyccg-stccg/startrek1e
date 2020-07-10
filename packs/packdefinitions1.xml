@@ -534,6 +534,11 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -553,6 +558,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -560,6 +575,11 @@
             <kind>
                 <qty>3</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -587,6 +607,11 @@
             <kind>
                 <qty>3</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -621,6 +646,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -628,6 +663,11 @@
             <kind>
                 <qty>6</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -648,6 +688,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -655,6 +705,11 @@
             <kind>
                 <qty>5</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -675,6 +730,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -682,6 +747,11 @@
             <kind>
                 <qty>4</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -702,6 +772,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -709,6 +789,11 @@
             <kind>
                 <qty>3</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -729,6 +814,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -736,6 +831,11 @@
             <kind>
                 <qty>2</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -756,6 +856,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -763,6 +873,11 @@
             <kind>
                 <qty>1</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -791,6 +906,11 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -817,6 +937,11 @@
             <kind>
                 <qty>5</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -845,6 +970,11 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -871,6 +1001,11 @@
             <kind>
                 <qty>3</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -899,6 +1034,11 @@
                 <qty>2</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -926,6 +1066,11 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -952,6 +1097,11 @@
             <kind>
                 <qty>3</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -986,6 +1136,11 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -993,6 +1148,11 @@
             <kind>
                 <qty>3</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1020,6 +1180,11 @@
             <kind>
                 <qty>3</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1054,6 +1219,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1061,6 +1236,11 @@
             <kind>
                 <qty>6</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1081,6 +1261,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1088,6 +1278,11 @@
             <kind>
                 <qty>5</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1108,6 +1303,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1115,6 +1320,11 @@
             <kind>
                 <qty>4</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1135,6 +1345,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1142,6 +1362,11 @@
             <kind>
                 <qty>3</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1162,6 +1387,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1169,6 +1404,11 @@
             <kind>
                 <qty>2</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1189,6 +1429,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1196,6 +1446,11 @@
             <kind>
                 <qty>1</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1224,6 +1479,11 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -1250,6 +1510,11 @@
             <kind>
                 <qty>5</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1278,6 +1543,11 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -1304,6 +1574,11 @@
             <kind>
                 <qty>3</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1332,6 +1607,11 @@
                 <qty>2</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -1359,6 +1639,11 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -1385,6 +1670,11 @@
             <kind>
                 <qty>3</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1419,6 +1709,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1426,6 +1726,11 @@
             <kind>
                 <qty>6</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1446,6 +1751,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1453,6 +1768,11 @@
             <kind>
                 <qty>5</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1473,6 +1793,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1480,6 +1810,11 @@
             <kind>
                 <qty>4</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1500,6 +1835,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1507,6 +1852,11 @@
             <kind>
                 <qty>3</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1527,6 +1877,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1534,6 +1894,11 @@
             <kind>
                 <qty>2</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1554,6 +1919,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1561,6 +1936,11 @@
             <kind>
                 <qty>1</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1589,6 +1969,11 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -1615,6 +2000,11 @@
             <kind>
                 <qty>5</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1643,6 +2033,11 @@
                 <qty>4</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -1669,6 +2064,11 @@
             <kind>
                 <qty>3</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1697,6 +2097,11 @@
                 <qty>2</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -1724,6 +2129,11 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -1750,6 +2160,11 @@
             <kind>
                 <qty>3</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1784,6 +2199,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1791,6 +2216,11 @@
             <kind>
                 <qty>6</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1811,6 +2241,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1818,6 +2258,11 @@
             <kind>
                 <qty>5</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1838,6 +2283,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1845,6 +2300,11 @@
             <kind>
                 <qty>4</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1865,6 +2325,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1872,6 +2342,11 @@
             <kind>
                 <qty>3</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1892,6 +2367,11 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1899,6 +2379,11 @@
             <kind>
                 <qty>2</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1919,6 +2404,16 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+					<field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>+</data>
+				</crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
                 </crit>
@@ -1926,6 +2421,11 @@
             <kind>
                 <qty>1</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1954,6 +2454,11 @@
                 <qty>6</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -1981,6 +2486,11 @@
                 <qty>5</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -2007,6 +2517,11 @@
             <kind>
                 <qty>4</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2035,6 +2550,11 @@
                 <qty>3</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -2061,6 +2581,11 @@
             <kind>
                 <qty>2</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2089,6 +2614,11 @@
                 <qty>1</qty>
                 <crit>
                     <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
+                    <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
                 </crit>
@@ -2115,6 +2645,11 @@
             <kind>
                 <qty>3</qty>
                 <crit>
+                    <field>Info</field>
+                    <eval>DOESNTCONTAIN</eval>
+                    <data>UR</data>
+                </crit>
+				<crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>

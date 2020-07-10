@@ -591,7 +591,7 @@
 	<chance><prob>17</prob>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>IS</eval><data>05 P</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>5 P</data></crit>
 		</kind>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
