@@ -1291,6 +1291,16 @@ NEW
 	--Added
 		New VPs
 
+4.1.13
+-----
+(Eberlems)
+	--Errata
+			Five-Year Mission
+	--Added
+		New VPs
+	--Changed
+		Starter Decks
+		
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se

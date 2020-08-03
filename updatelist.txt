@@ -1,10 +1,10 @@
-startrek1e	07-10-20
+startrek1e	08-03-20
 plugins/startrek1e/plugininfo.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/plugininfo.txt	622421
 plugins/startrek1e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/formats.txt	485986
-plugins/startrek1e/version.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt	43428
+plugins/startrek1e/version.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt	41302
 plugins/startrek1e/defaultchat.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/defaultchat.txt	25335
 plugins/startrek1e/setlist.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/setlist.txt	289175
-plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt	2781542
+plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt	2788573
 images/avatars/bot.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/Lackey/images/avatars/bot.jpg	182854
 images/avatars/av-st-back.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/Lackey/images/avatars/av-st-back.jpg	5386
 images/avatars/av-st-data1.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/Lackey/images/avatars/av-st-data1.jpg	2347
@@ -24,19 +24,19 @@ images/backgrounds/default_white_startrek_2.jpg	https://raw.githubusercontent.co
 images/backgrounds/startrek_table.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/Lackey/images/backgrounds/startrek_table.jpg	6202
 plugins/startrek1e/images/counterblack.png	https://raw.githubusercontent.com/eberlems/startrek1e/playable/images/counterblack.png	781
 plugins/startrek1e/images/counteryellow.png	https://raw.githubusercontent.com/eberlems/startrek1e/playable/images/counteryellow.png	375
-plugins/startrek1e/decks/simple-bajoran.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/simple-bajoran.txt	71723
-plugins/startrek1e/decks/simple-ferengi.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/simple-ferengi.txt	65553
-plugins/startrek1e/decks/simple-romulan.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/simple-romulan.txt	67234
-plugins/startrek1e/decks/simple-cardassian.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/simple-cardassian.txt	68006
-plugins/startrek1e/decks/simple-federation.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/simple-federation.txt	73716
-plugins/startrek1e/decks/simple-klingon.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/simple-klingon.txt	67947
+plugins/startrek1e/decks/simple-bajoran.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/simple-bajoran.txt	86322
+plugins/startrek1e/decks/simple-ferengi.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/simple-ferengi.txt	79251
+plugins/startrek1e/decks/simple-romulan.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/simple-romulan.txt	79770
+plugins/startrek1e/decks/simple-cardassian.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/simple-cardassian.txt	83699
+plugins/startrek1e/decks/simple-federation.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/simple-federation.txt	89260
+plugins/startrek1e/decks/simple-klingon.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/simple-klingon.txt	81850
 plugins/startrek1e/decks/tng_CoA_starter_FED.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/tng_CoA_starter_FED.txt	102684
 plugins/startrek1e/decks/tng_CoA_starter_FER.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/tng_CoA_starter_FER.txt	101552
 plugins/startrek1e/decks/tng_CoA_starter_KLI.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/tng_CoA_starter_KLI.txt	94108
 plugins/startrek1e/decks/tng_CoA_starter_ROM.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/tng_CoA_starter_ROM.txt	90713
-plugins/startrek1e/decks/tng_starter_deck_federation.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/tng_starter_deck_federation.txt	101087
-plugins/startrek1e/decks/tng_starter_deck_ferengi.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/tng_starter_deck_ferengi.txt	97924
-plugins/startrek1e/decks/tng_starter_deck_klingon.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/tng_starter_deck_klingon.txt	99642
+plugins/startrek1e/decks/tng_starter_deck_federation.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/tng_starter_deck_federation.txt	92638
+plugins/startrek1e/decks/tng_starter_deck_ferengi.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/tng_starter_deck_ferengi.txt	88206
+plugins/startrek1e/decks/tng_starter_deck_klingon.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/decks/tng_starter_deck_klingon.txt	91193
 plugins/startrek1e/packs/deepspacenine_pack.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/deepspacenine_pack.jpg	1176
 plugins/startrek1e/packs/deepspacenine_starter.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/deepspacenine_starter.jpg	28202
 plugins/startrek1e/packs/firstcontact_pack.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/firstcontact_pack.jpg	9058
@@ -64,8 +64,8 @@ plugins/startrek1e/packs/enhancedpremiere_starter_all.jpg	https://raw.githubuser
 plugins/startrek1e/packs/README.TXT	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/README.TXT	208436
 plugins/startrek1e/packs/theborg_pack.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/theborg_pack.jpg	-5581
 plugins/startrek1e/packs/thetroublewithtribbles_pack.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/thetroublewithtribbles_pack.jpg	-1918
-plugins/startrek1e/packs/packdefinitions4.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions4.xml	2083073
-plugins/startrek1e/packs/packdefinitions5.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions5.xml	3887651
+plugins/startrek1e/packs/packdefinitions4.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions4.xml	2050158
+plugins/startrek1e/packs/packdefinitions5.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions5.xml	3828780
 plugins/startrek1e/packs/TNG_Kli.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/TNG_Kli.jpg	-4672
 plugins/startrek1e/packs/TNG_Fer.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/TNG_Fer.jpg	-18114
 plugins/startrek1e/packs/TNG_Fed.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/TNG_Fed.jpg	-5717
@@ -77,8 +77,8 @@ plugins/startrek1e/packs/DS9_Dom.jpg	https://raw.githubusercontent.com/eberlems/
 plugins/startrek1e/packs/Mirror_KCA.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/Mirror_KCA.jpg	5712
 plugins/startrek1e/packs/Mirror_TE.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/Mirror_TE.jpg	74042
 plugins/startrek1e/packs/Mirror_TEOS.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/Mirror_TEOS.jpg	88418
-plugins/startrek1e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Physical.txt	73390516
-plugins/startrek1e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Virtual.txt	52526259
+plugins/startrek1e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Physical.txt	73386868
+plugins/startrek1e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Virtual.txt	52563934
 plugins/startrek1e/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/setimages/general/cardback.jpg	222055
 plugins/startrek1e/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/setimages/general/spawned.jpg	236105
 plugins/startrek1e/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/setimages/general/CardMissing.jpg	24053
