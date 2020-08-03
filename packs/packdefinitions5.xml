@@ -118,7 +118,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Brief Romance</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Chula: Unfortunate Roll</data></crit>
@@ -139,13 +139,13 @@
 		<crit><field>Name</field><eval>IS</eval><data>Fly by the Seat of your Pants</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Hard Time</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Maglock</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Picking Up the Pieces</data></crit>
@@ -163,7 +163,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Too Many Chiefs</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>The First Stable Wormhole</data></crit>
@@ -300,7 +300,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Back Room Dealings</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Chula: The Dice</data></crit>
@@ -327,13 +327,13 @@
 		<crit><field>Name</field><eval>IS</eval><data>Forsaken</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Hard Time</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Maglock</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>More of Your Kind</data></crit>
@@ -348,7 +348,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Unlikely Pair</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>The First Stable Wormhole</data></crit>
@@ -476,10 +476,10 @@
 		<crit><field>Name</field><eval>IS</eval><data>Back Room Dealings</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Blended (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Blended</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Dangerous Climb</data></crit>
@@ -494,13 +494,13 @@
 		<crit><field>Name</field><eval>IS</eval><data>Flim-Flam Artist</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Hard Time</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Maglock</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Maquis Vendetta</data></crit>
@@ -524,7 +524,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Scapegoat</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>The First Stable Wormhole</data></crit>
@@ -578,7 +578,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Founder</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Founder Leader (Homefront II)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Founder Leader</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Guna'shan</data></crit>
@@ -623,7 +623,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Karemman Vessel</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Deliver Message (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Deliver Message</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Expand Karemman Operations</data></crit>
@@ -644,7 +644,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Back Room Dealings</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Close Call</data></crit>
@@ -653,7 +653,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Dangerous Climb</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dead End (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Dead End</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Difficult Disposal</data></crit>
@@ -665,7 +665,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Flim-Flam Artist</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Hard Time</data></crit>
@@ -674,7 +674,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Lockbox</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Maglock</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Nanobiogenic Fugitives</data></crit>
@@ -695,7 +695,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>The Three Vipers</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>The First Stable Wormhole</data></crit>
@@ -730,10 +730,10 @@
 		<crit><field>Name</field><eval>IS</eval><data>Mirror Dagger</data></crit>
 	</kind>
 	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Raktajino (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Raktajino</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Call for Reinforcements (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Call for Reinforcements</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Wormhole Navigation Schematic</data></crit>
@@ -826,13 +826,13 @@
 		<crit><field>Name</field><eval>IS</eval><data>A Bad End</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>A Good Day to Lie (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>A Good Day to Lie</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ancient Computer (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Ancient Computer</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Climbing the Ranks</data></crit>
@@ -853,7 +853,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Flim-Flam Artist</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>History Repeats Itself</data></crit>
@@ -865,7 +865,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Justice or Vengeance</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Maglock</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Occupational Hazards</data></crit>
@@ -877,16 +877,16 @@
 		<crit><field>Name</field><eval>IS</eval><data>Unorthodox Preservation</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>The First Stable Wormhole</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>New Arrivals (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>New Arrivals</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Reshape the Quadrant (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Reshape the Quadrant</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Assign Support Personnel</data></crit>
@@ -918,10 +918,10 @@
 		<crit><field>Name</field><eval>IS</eval><data>Mirror Dagger</data></crit>
 	</kind>
 	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Raktajino (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Raktajino</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Call for Reinforcements (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Call for Reinforcements</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Wormhole Navigation Schematic</data></crit>
@@ -1005,7 +1005,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Navigate Argolis Cluster</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Search for Rebels (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Search for Rebels</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Signal for Rescue</data></crit>
@@ -1017,13 +1017,13 @@
 		<crit><field>Name</field><eval>IS</eval><data>A Bad End</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>A Good Day to Lie (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>A Good Day to Lie</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ancient Computer (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Ancient Computer</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Climbing the Ranks</data></crit>
@@ -1044,7 +1044,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Flim-Flam Artist</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>History Repeats Itself</data></crit>
@@ -1056,7 +1056,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Justice or Vengeance</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Maglock</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Occupational Hazards</data></crit>
@@ -1068,7 +1068,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Unorthodox Preservation</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>The First Stable Wormhole</data></crit>
@@ -1080,10 +1080,10 @@
 		<crit><field>Name</field><eval>IS</eval><data>Alliance Outpost</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>New Arrivals (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>New Arrivals</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Reshape the Quadrant (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Reshape the Quadrant</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>The Art of Diplomacy</data></crit>
@@ -1112,7 +1112,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Mirror Dagger</data></crit>
 	</kind>
 	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Raktajino (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Raktajino</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Agony Booth</data></crit>
@@ -1208,13 +1208,13 @@
 		<crit><field>Name</field><eval>IS</eval><data>A Bad End</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>A Good Day to Lie (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>A Good Day to Lie</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ancient Computer (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Ancient Computer</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Climbing the Ranks</data></crit>
@@ -1235,7 +1235,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Flim-Flam Artist</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>History Repeats Itself</data></crit>
@@ -1247,7 +1247,7 @@
 		<crit><field>Name</field><eval>IS</eval><data>Justice or Vengeance</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Maglock</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Occupational Hazards</data></crit>
@@ -1259,10 +1259,10 @@
 		<crit><field>Name</field><eval>IS</eval><data>Unorthodox Preservation</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Alternate Universe Door (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Alternate Universe Door</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>The First Stable Wormhole</data></crit>
@@ -1271,13 +1271,13 @@
 		<crit><field>Name</field><eval>IS</eval><data>Terran Outpost</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Call for Reinforcements (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>Call for Reinforcements</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>Emblem of the Empire</data></crit>
 	</kind>
 	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>New Arrivals (Homefront VI)</data></crit>
+		<crit><field>Name</field><eval>IS</eval><data>New Arrivals</data></crit>
 	</kind>
 	<kind><qty>1</qty>
 		<crit><field>Name</field><eval>IS</eval><data>The Art of Diplomacy</data></crit>

@@ -103,7 +103,7 @@
 <crit><field>Name</field><eval>IS</eval><data>Salvage Borg Ship</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Federation Outpost</data></crit>
@@ -115,13 +115,13 @@
 <crit><field>Name</field><eval>IS</eval><data>Continuing Mission</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Assign Mission Specialists (The Next Generation)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Assign Mission Specialists</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>New Essentialists (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>New Essentialists</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Blended (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Blended</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Diplomatic Intervention</data></crit>
@@ -145,13 +145,13 @@
 <crit><field>Name</field><eval>IS</eval><data>Tense Negotiations</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Pinned Down</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Friendly Fire</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Dedication to Duty</data></crit>
@@ -163,7 +163,7 @@
 <crit><field>Name</field><eval>IS</eval><data>Virus</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Maglock</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Magnetic Field Disruptions</data></crit>
@@ -271,7 +271,7 @@
 <crit><field>Name</field><eval>IS</eval><data>The Last Outpost</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Ferengi Trading Post</data></crit>
@@ -283,10 +283,10 @@
 <crit><field>Name</field><eval>IS</eval><data>Continuing Mission</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Assign Mission Specialists (The Next Generation)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Assign Mission Specialists</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Punishment Box (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Punishment Box</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Armus - Skin of Evil</data></crit>
@@ -304,22 +304,22 @@
 <crit><field>Name</field><eval>IS</eval><data>Dangerous Climb</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Chula: The Lights (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Chula: The Lights</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Murder Investigation</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Linguistic Legerdemain (Homefront II)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Linguistic Legerdemain</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Pinned Down</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Friendly Fire</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Gomtuu Shock Wave</data></crit>
@@ -331,7 +331,7 @@
 <crit><field>Name</field><eval>IS</eval><data>Radioactive Garbage Scow</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Maglock</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Magnetic Field Disruptions</data></crit>
@@ -436,7 +436,7 @@
 <crit><field>Name</field><eval>IS</eval><data>Amnesty Talks</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Cloaked Mission (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Cloaked Mission</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Impose Order</data></crit>
@@ -448,7 +448,7 @@
 <crit><field>Name</field><eval>IS</eval><data>Seize Freighter</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Klingon Outpost</data></crit>
@@ -460,10 +460,10 @@
 <crit><field>Name</field><eval>IS</eval><data>Continuing Mission</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Assign Mission Specialists (The Next Generation)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Assign Mission Specialists</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Q's Vicious Animal Things (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Q's Vicious Animal Things</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Triage</data></crit>
@@ -490,13 +490,13 @@
 <crit><field>Name</field><eval>IS</eval><data>A Good Day to Lie</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Pinned Down</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Friendly Fire</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>The Arsenal: Divided</data></crit>
@@ -508,7 +508,7 @@
 <crit><field>Name</field><eval>IS</eval><data>Warp Bubble Mishap</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Maglock</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Magnetic Field Disruptions</data></crit>
@@ -630,7 +630,7 @@
 <crit><field>Name</field><eval>IS</eval><data>Captain's Holiday</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Dangerous Climb</data></crit>
@@ -648,13 +648,13 @@
 <crit><field>Name</field><eval>IS</eval><data>Flim-Flam Artist</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Friendly Fire</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Invidium Leak</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Maglock</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Magnetic Field Disruptions</data></crit>
@@ -678,7 +678,7 @@
 <crit><field>Name</field><eval>IS</eval><data>Undercover Agent</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Romulan Outpost</data></crit>
@@ -690,7 +690,7 @@
 <crit><field>Name</field><eval>IS</eval><data>Continuing Mission</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Assign Mission Specialists (The Next Generation)</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Assign Mission Specialists</data></crit>
 </kind>
 </chance>
 </pack>
