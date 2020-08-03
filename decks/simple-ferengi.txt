@@ -1,10 +1,10 @@
-1	THE TRAVELER: TRANSCENDENCE
-3	KIVAS FAJO - COLLECTOR
-2	HANDSHAKE
-1	REGENERATE
-1	FERENGI PADD
-1	FERENGI WHIP
-1	DABO
+1	The Traveler: Transcendence
+2	Kivas Fajo - Collector
+2	Handshake
+1	Regenerate
+1	Ferengi PADD
+1	Ferengi Whip
+1	Dabo
 1	The Trois
 1	Leeta*
 1	Quark
@@ -12,60 +12,59 @@
 1	Grand Nagus Zek
 1	Gral
 1	Gaila
-1	% Uri'lash
-1	% Nava
+1	Uri'lash
+1	Nava
 1	Rom
 1	Aluura*
-1	Dr. Reyga *LfL
+1	Dr. Reyga (Life From Lifelessness)
 1	Mardah*
-1	% Vekor
+1	Vekor
 1	Roga Danar
 1	Lore
 1	Berik
-1	% Solok
+1	Solok
 1	Tol
 1	Nog*
-1	% Letek
+1	Letek
 1	Prot*
 1	Trullux
-1	% D'Kora Transport
-1	% B'rel
+1	D'Kora Transport
+1	B'rel
 Missions:
-1	STUDY COMETARY CLOUD
-1	% GEOLOGICAL SURVEY
-1	DELIVER MESSAGE
-1	ACQUIRE ILLICIT EXPLOSIVES
-1	% MARKET RESEARCH
-1	MINING SURVEY
+1	Study Cometary Cloud
+1	Geological Survey
+1	Deliver Message
+1	Acquire Illicit Explosives
+1	Market Research
+1	Mining Survey
 Seed+Dil:
 1	Tower of Commerce
-1	Deep Space 9
-1	HQ: SECURE HOMEWORLD
-1	MIRROR IMAGE
-1	HANONIAN LAND EEL
-1	DENEVAN NEURAL PARASITES
-1	PRIMITIVE CULTURE
-1	ANKARI "SPIRITS"
-1	HULL BREACH
-1	MAGLOCK
-1	EDO PROBE
-1	FRIENDLY FIRE
-1	DEAD END
-1	HORTA
-1	GOD
-1	EXECUTIVE AUTHORIZATION
-1	V'GER
-1	THE CLOUD
-1	NAVIGATIONAL HAZARDS *VOY
-1	UNSCIENTIFIC METHOD
-1	A FAST SHIP WOULD BE NICE
-1	SCIENTIFIC METHOD
+1	Terok Nor
+1	HQ: Secure Homeworld
+1	Mirror Image
+1	Hanonian Land Eel
+1	Denevan Neural Parasites
+1	Primitive Culture
+1	Ankari "Spirits"
+1	Hull Breach
+1	Maglock
+1	Edo Probe
+1	Friendly Fire
+1	Dead End
+1	Horta
+1	"God"
+1	Executive Authorization
+1	V'Ger
+1	The Cloud
+1	Navigational Hazards (Voyager)
+1	Unscientific Method
+1	A Fast Ship Would Be Nice
+1	Scientific Method
 QsTent:
 Aside:
-1	Terok Nor
-1	OPS
-1	QUARK'S BAR
-1	% GUEST QUARTERS
-1	SCIENCE LAB
-1	% CARGO BAY
-1	DOCKING PORTS
+1	Ops
+1	Quark's Bar
+1	Guest Quarters
+1	Science Lab
+1	Cargo Bay
+1	Docking Ports

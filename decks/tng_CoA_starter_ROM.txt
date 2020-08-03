@@ -64,6 +64,6 @@ Tactics:
 Tribbles:
 Sites:
 Outside:
+Aside:
 1	D'Lors
 1	Palteth
-Aside:

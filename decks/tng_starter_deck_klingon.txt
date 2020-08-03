@@ -28,19 +28,19 @@ Missions:
 1	Seize Freighter
 1	Intercept Sleeper Ship
 1	Impose Order
-1	Cloaked Mission (Homefront)
+1	Cloaked Mission
 1	Amnesty Talks
 1	Acquire Surplus Ships
 Seed+Dil:
 1	Dignitaries and Witnesses
 1	Magnetic Field Disruptions
-1	Maglock (Homefront)
+1	Maglock
 1	Warp Bubble Mishap
 1	Microbrain
 1	The Arsenal: Divided
-1	Friendly Fire (Homefront)
+1	Friendly Fire
 1	Pinned Down
-1	Chula: The Chandra (Homefront)
+1	Chula: The Chandra
 1	A Good Day to Lie
 1	Forsaken
 1	Temptation
@@ -49,9 +49,9 @@ Seed+Dil:
 1	Flim-Flam Artist
 1	Wind Dancer
 1	Triage
-1	Q's Vicious Animal Things (Homefront)
-1	Assign Mission Specialists (The Next Generation)
+1	Q's Vicious Animal Things
+1	Assign Mission Specialists
 1	Continuing Mission
 1	Attention All Hands
 1	Klingon Outpost
-1	Temporal Micro-Wormhole (Homefront II)
+1	Temporal Micro-Wormhole
