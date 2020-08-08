@@ -1301,6 +1301,12 @@ NEW
 	--Changed
 		Starter Decks
 		
+4.1.14
+-----
+(Eberlems)
+	--Changed
+		reprint images
+		
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
