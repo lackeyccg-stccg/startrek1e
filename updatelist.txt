@@ -82,6 +82,6 @@ plugins/startrek1e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/s
 plugins/startrek1e/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/setimages/general/cardback.jpg	222055
 plugins/startrek1e/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/setimages/general/spawned.jpg	236105
 plugins/startrek1e/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/setimages/general/CardMissing.jpg	24053
-plugins/startrek1e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/uninstall.txt	1399802
+plugins/startrek1e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/uninstall.txt	1474670
 CardGeneralURLs:		
 https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/setimages/general/
