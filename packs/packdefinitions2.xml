@@ -5,16 +5,16 @@
 	<packformat>Standard</packformat>
 	<packkind>Sealed Deck</packkind>
 	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></packcommoncrit>
+	<packcommoncrit><field>Release</field><eval>IS</eval><data>Premiere</data></packcommoncrit>
 	<chance>				
 	<kind><qty>45</qty>
-		<crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit>
+		<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
 	</kind>
 	<kind><qty>13</qty>
-		<crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit>
+		<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
 	</kind>
 	<kind><qty>2</qty>
-		<crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit>
+		<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
 	</kind>
 	</chance>
 </pack>
@@ -108,28 +108,28 @@
 			<crit><field>Name</field><eval>IS</eval><data>Darmok</data></crit>
 		</kind>
 		<kind><qty>4</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
 		</kind>
 		<kind><qty>12</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
 		</kind>
 		<kind><qty>44</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
 		</kind>
 		<kind><qty>1</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>au</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>au</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
 		</kind>
 		<kind><qty>3</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>au</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>au</data></crit>
 			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
 		</kind>
 		<kind><qty>11</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>au</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>au</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
 		</kind>
 	</chance>
 	<chance><prob>1</prob>
@@ -214,28 +214,28 @@
 			<crit><field>Name</field><eval>IS</eval><data>Darmok</data></crit>
 		</kind>
 		<kind><qty>4</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
 		</kind>
 		<kind><qty>12</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
 		</kind>
 		<kind><qty>44</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
 		</kind>
 		<kind><qty>1</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>AU</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>AU</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>IR</data></crit>
 		</kind>
 		<kind><qty>3</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>AU</data></crit>
-			<crit><field>Info</field><eval>IS</eval><data>0 U</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>AU</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
 		</kind>
 		<kind><qty>11</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>AU</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>AU</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
 		</kind>
 	</chance>
 </pack>
@@ -282,7 +282,7 @@
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>U.S.S. Danube</data></crit></kind>
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Paxton Reese</data></crit></kind>
 <kind><qty>2</qty><crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit></kind>
-<kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit></kind>
+<kind><qty>13</qty><crit><field>Info</field><eval>IS</eval><data>U</data></crit></kind>
 <kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit></kind>
 </chance>
 <chance><prob>20</prob>
@@ -319,7 +319,7 @@
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Search for Survivors</data></crit></kind>
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Assassin's Blade</data></crit></kind>
 <kind><qty>2</qty><crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit></kind>
-<kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit></kind>
+<kind><qty>13</qty><crit><field>Info</field><eval>IS</eval><data>U</data></crit></kind>
 <kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit></kind>
 </chance>
 <chance><prob>20</prob>
@@ -356,7 +356,7 @@
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Anara</data></crit></kind>
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Vedek Sorad</data></crit></kind>
 <kind><qty>2</qty><crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit></kind>
-<kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit></kind>
+<kind><qty>13</qty><crit><field>Info</field><eval>IS</eval><data>U</data></crit></kind>
 <kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit></kind>
 </chance>
 <chance><prob>20</prob>
@@ -393,7 +393,7 @@
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Cardassian Disruptor</data></crit></kind>
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Kressari Rendezvous</data></crit></kind>
 <kind><qty>2</qty><crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit></kind>
-<kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit></kind>
+<kind><qty>13</qty><crit><field>Info</field><eval>IS</eval><data>U</data></crit></kind>
 <kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit></kind>
 </chance>
 <chance><prob>20</prob>
@@ -430,7 +430,7 @@
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Vantika's Neural Pathways</data></crit></kind>
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Jaheel</data></crit></kind>
 <kind><qty>2</qty><crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit></kind>
-<kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit></kind>
+<kind><qty>13</qty><crit><field>Info</field><eval>IS</eval><data>U</data></crit></kind>
 <kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit></kind>
 </chance>
 </pack>
