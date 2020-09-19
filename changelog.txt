@@ -1307,6 +1307,15 @@ NEW
 	--Changed
 		reprint images
 		
+4.1.15
+-----
+(Eberlems)
+	--Added
+		New VPs
+	--Changed
+		Errata
+		Card Text fixes
+		
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
