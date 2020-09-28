@@ -1315,7 +1315,13 @@ NEW
 	--Changed
 		Errata
 		Card Text fixes
-		
+
+4.1.15a
+-----
+(Eberlems)
+	--Changed
+		Voyager Starter
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
