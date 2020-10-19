@@ -1321,7 +1321,14 @@ NEW
 (Eberlems)
 	--Changed
 		Voyager Starter
-
+		
+4.1.16
+-----
+(Eberlems)
+	--Added
+		New VP
+		A Private Little War
+		
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
