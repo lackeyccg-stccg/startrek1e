@@ -1328,7 +1328,7 @@ NEW
 	--Added
 		New VP
 		A Private Little War
-		
+	--changed: Lore now in exta colomn
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
