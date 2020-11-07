@@ -1,4 +1,4 @@
-﻿Star Trek CCG 1E Lackey Plugin
+﻿﻿Star Trek CCG 1E Lackey Plugin
 CHANGE LOG
 -------------------------------
 
@@ -1321,14 +1321,33 @@ NEW
 (Eberlems)
 	--Changed
 		Voyager Starter
-		
-4.1.16
+
+4.2
 -----
 (Eberlems)
 	--Added
 		New VP
 		A Private Little War
 	--changed: Lore now in exta colomn
+
+4.2.1
+-----
+(Eberlems)
+	--Added
+		New VP
+		
+	--changed: Errata November
+		Alien Abduction
+		Alien Abduction: Test Subjects
+		Computer Weapon & Hyper-Aging
+		DNA Metamorphosis
+		Hyper-Aging
+		Menthar Booby Trap
+		Nitrium Metal Parasites
+		REM Fatigue Hallucinations
+		Rayna Kapec
+		Breen Disruptor Burst
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
