@@ -1,9 +1,4 @@
 <uninstall>
-<dateYYMMDD>201106</dateYYMMDD>
+<dateYYMMDD>201206</dateYYMMDD>
 <removepath>sets/playtest.txt</removepath>
-<removepath>sets/setimages/general/dnametamorphosis.jpg</removepath>
-<removepath>sets/setimages/general/hyperaging.jpg</removepath>
-<removepath>sets/setimages/general/nitriummetalparasites.jpg</removepath>
-<removepath>sets/setimages/general/BorgShip.jpg</removepath>
-<removepath>sets/setimages/general/borgship.jpg</removepath>
 </uninstall>

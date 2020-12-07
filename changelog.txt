@@ -1348,6 +1348,12 @@ NEW
 		Rayna Kapec
 		Breen Disruptor Burst
 
+4.2.2
+-----
+(Eberlems)
+	--Added
+		New VP
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
