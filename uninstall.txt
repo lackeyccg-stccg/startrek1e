@@ -1,4 +1,5 @@
 <uninstall>
-<dateYYMMDD>201206</dateYYMMDD>
+<dateYYMMDD>210115</dateYYMMDD>
 <removepath>sets/playtest.txt</removepath>
+<removepath>sets/setimages/general/crossover_56.jpg</removepath>
 </uninstall>

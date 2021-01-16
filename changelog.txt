@@ -1348,11 +1348,11 @@ NEW
 		Rayna Kapec
 		Breen Disruptor Burst
 
-4.2.2
+4.2.3
 -----
 (Eberlems)
-	--Added
-		New VP
+	--Changed
+		VPs
 
 ------------------------------
 Plugin main maintainer - Scox
