@@ -1,70 +1,77 @@
-1	The Traveler: Transcendence
-2	Kivas Fajo - Collector
 2	Handshake
-1	Regenerate
+1	Uri'lash
+1	B'rel
+1	Letek
+1	Solok
+1	Berik
+1	Dabo
+1	Gaila
+1	Rom
 1	Ferengi PADD
 1	Ferengi Whip
-1	Dabo
-1	The Trois
-1	Leeta*
-1	Quark
+2	Kivas Fajo - Collector
 1	Leck
-1	Grand Nagus Zek
-1	Gral
-1	Gaila
-1	Uri'lash
-1	Nava
-1	Rom
-1	Aluura*
-1	Dr. Reyga (Life From Lifelessness)
-1	Mardah*
-1	Vekor
-1	Roga Danar
 1	Lore
-1	Berik
-1	Solok
+1	Quark
+1	The Traveler: Transcendence
+1	The Trois
 1	Tol
-1	Nog*
-1	Letek
-1	Prot*
 1	Trullux
+1	Aluura*
+1	Leeta*
+1	Mardah*
+1	Nog*
+1	Prot*
+1	Roga Danar
+1	Dr. Reyga (Life From Lifelessness)
+1	Vekor
 1	D'Kora Transport
-1	B'rel
+1	Regenerate
+1	Gral
+1	Grand Nagus Zek
+1	Nava
 Missions:
-1	Study Cometary Cloud
 1	Geological Survey
-1	Deliver Message
-1	Acquire Illicit Explosives
 1	Market Research
+1	Acquire Illicit Explosives
 1	Mining Survey
+1	Study Cometary Cloud
+1	Deliver Message
 Seed+Dil:
-1	Tower of Commerce
-1	Terok Nor
-1	HQ: Secure Homeworld
-1	Mirror Image
 1	Hanonian Land Eel
-1	Denevan Neural Parasites
-1	Primitive Culture
 1	Ankari "Spirits"
-1	Hull Breach
-1	Maglock
+1	Denevan Neural Parasites
 1	Edo Probe
-1	Friendly Fire
-1	Dead End
-1	Horta
-1	"God"
 1	Executive Authorization
-1	V'Ger
-1	The Cloud
+1	Horta
+1	Hull Breach
 1	Navigational Hazards (Voyager)
-1	Unscientific Method
-1	A Fast Ship Would Be Nice
 1	Scientific Method
+1	Terok Nor
+1	The Cloud
+1	Unscientific Method
+1	V'Ger
+1	Mirror Image
+1	Dead End
+1	Friendly Fire
+1	"God"
+1	Maglock
+1	Tower of Commerce
+1	HQ: Secure Homeworld
+1	Primitive Culture
+1	A Fast Ship Would Be Nice
 QsTent:
-Aside:
-1	Ops
-1	Quark's Bar
-1	Guest Quarters
-1	Science Lab
+Ref:
+Dyson:
+Flash:
+Tactics:
+Tribbles:
+Sites:
 1	Cargo Bay
+1	Guest Quarters
 1	Docking Ports
+1	Quark's Bar
+1	Science Lab
+1	Ops
+Outside:
+Aside:

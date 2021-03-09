@@ -1,67 +1,74 @@
-1	The Traveler: Transcendence
-2	Kivas Fajo - Collector
 2	Handshake
-1	Regenerate
-1	File Mission Report
-1	Groumall
-1	Military Freighter
-1	Naprem
-1	Macet
-1	Rusot (Things Past)
-1	Lemec
-1	Dukat
-1	Danar
 1	Jasad
-1	Seskal
-1	Broca
-1	Turrel
-1	Legate Damar
-1	Tekeny Ghemor
-1	Dr. Reyga
-1	Weyoun 6
-1	Vekor
-1	Roga Danar
+1	Military Freighter
 1	Telle
-1	Gilora Rejal
-1	Borad
+1	Broca
 1	Cardassian Disruptor
 1	Cardassian PADD
+1	Danar
+1	Dr. Reyga
+1	Groumall
+2	Kivas Fajo - Collector
+1	Legate Damar
+1	Lemec
+1	Macet
+1	Naprem
+1	Seskal
+1	Tekeny Ghemor
+1	The Traveler: Transcendence
+1	Turrel
+1	Weyoun 6
+1	Rusot (Things Past)
+1	Dukat
+1	Roga Danar
+1	Vekor
+1	Regenerate
+1	File Mission Report
+1	Borad
+1	Gilora Rejal
 Missions:
+1	Study Plasma Storm
+1	Intercept Renegade
+1	Study Cometary Cloud
 1	Orb Negotiations
 1	Search for Survivors
 1	Search for Weapons
-1	Study Cometary Cloud
-1	Study Plasma Storm
-1	Intercept Renegade
 Seed+Dil:
-1	HQ: Secure Homeworld
-1	Central Command
-1	Nor
-1	Mirror Image
-1	File Mission Report
 1	Hanonian Land Eel
-1	Denevan Neural Parasites
-1	Primitive Culture
 1	Ankari "Spirits"
-1	Hull Breach
-1	Maglock
+1	Denevan Neural Parasites
 1	Edo Probe
-1	Friendly Fire
-1	Dead End
-1	Horta
-1	"God"
 1	Executive Authorization
-1	V'Ger
-1	The Cloud
+1	Horta
+1	Hull Breach
 1	Navigational Hazards (Voyager)
-1	Unscientific Method
-1	A Fast Ship Would Be Nice
+1	Nor
 1	Scientific Method
+1	The Cloud
+1	Unscientific Method
+1	V'Ger
+1	Mirror Image
+1	Dead End
+1	Friendly Fire
+1	"God"
+1	Maglock
+1	Central Command
+1	File Mission Report
+1	HQ: Secure Homeworld
+1	Primitive Culture
+1	A Fast Ship Would Be Nice
 QsTent:
-Aside:
-1	Ops
+Ref:
+Dyson:
+Flash:
+Tactics:
+Tribbles:
+Sites:
 1	Guest Quarters
-1	Commander's Office
-1	Security Office
-1	Science Lab
 1	Docking Ports
+1	Commander's Office
+1	Ops
+1	Science Lab
+1	Security Office
+Outside:
+Aside:

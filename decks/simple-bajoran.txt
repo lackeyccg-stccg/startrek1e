@@ -1,65 +1,71 @@
-1	The Traveler: Transcendence
+2	Bajoran Freighter
+1	Mora Pol
+1	Bajoran Phaser
+1	Furel
+1	Ru'afo
+1	First Minister Shakaar
 2	Kivas Fajo - Collector
-2	Renewal Scroll
+1	Li Nalas
+1	Lupaza
+1	The Emissary
+1	The Traveler: Transcendence
+1	Vedek Dax
+1	Rom*
+1	Kira Nerys
+1	Teero Anaydis
+1	Vekor
 1	Regenerate
 2	Bajoran Wormhole
-1	Bajoran Phaser
-2	Bajoran Freighter
-1	Assault Vessel
+2	Renewal Scroll
+1	Bareil Antos
+1	Colonel Day
 2	Minister Rozahn
 1	Vedek Sorad
-1	Bareil Antos
-1	First Minister Shakaar
-1	Teero Anaydis
-1	Vedek Dax
-1	The Emissary
+1	Assault Vessel
 1	Odo
-1	Mora Pol
-1	Vekor
-1	Colonel Day
-1	Kira Nerys
-1	Rom*
-1	Li Nalas
-1	Ru'afo
-1	Furel
-1	Lupaza
 Missions:
+1	Survey Star System
+1	Changeling Research
 1	Relocate Settlers
 1	Alter Records
-1	Characterize Neutrino Emissions
-1	Changeling Research
 1	Investigate Rumors
-1	Survey Star System
+1	Characterize Neutrino Emissions
 Seed+Dil:
+1	Hanonian Land Eel
+1	Ankari "Spirits"
+1	Denevan Neural Parasites
+1	Edo Probe
+1	Executive Authorization
+1	Horta
+1	Hull Breach
+1	Navigational Hazards (Voyager)
+1	Scientific Method
+1	The Cloud
+1	Unscientific Method
+1	V'Ger
+1	Mirror Image
+1	Dead End
+1	Friendly Fire
+1	"God"
+1	Maglock
 1	Chamber of Ministers
 1	Deep Space 9
 1	Explore Gamma Quadrant
 1	HQ: Secure Homeworld
-1	Mirror Image
-1	Hanonian Land Eel
-1	Denevan Neural Parasites
 1	Primitive Culture
-1	Ankari "Spirits"
-1	Hull Breach
-1	Maglock
-1	Edo Probe
-1	Friendly Fire
-1	Dead End
-1	Horta
-1	"God"
-1	Executive Authorization
-1	V'Ger
-1	The Cloud
-1	Navigational Hazards (Voyager)
-1	Unscientific Method
 1	A Fast Ship Would Be Nice
-1	Scientific Method
 QsTent:
-Aside:
-1	Terok Nor
-1	Ops
-1	Bajoran Shrine
-1	Security Office
+Ref:
+Dyson:
+Flash:
+Tactics:
+Tribbles:
+Sites:
 1	Guest Quarters
-1	Science Lab
 1	Docking Ports
+1	Bajoran Shrine
+1	Ops
+1	Science Lab
+1	Security Office
+Outside:
+Aside:
