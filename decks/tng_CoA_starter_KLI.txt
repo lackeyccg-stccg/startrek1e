@@ -40,7 +40,8 @@ Seed+Dil:
 1	Maglock
 1	Forsaken
 1	Gomtuu Shock Wave
-2	War Games
+1	Unorthodox Preservation
+1	War Games
 1	Attention All Hands
 1	Assign Mission Specialists
 1	Do You Smell Something Burning?
