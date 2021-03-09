@@ -1354,6 +1354,24 @@ NEW
 	--Changed
 		VPs
 
+4.2.4
+-----
+(Eberlems)
+	--Added
+		New VPs
+	--Changed: Errata March
+		Hologram Ruse
+		Black Hole
+		Engage Shuttle Operations
+		Data Laughing
+		Q2
+		Chief Engineer Scott
+		Miles O'Brien (Emissary)
+		Montgomery Scott
+		Mr. Scott (The Cage)
+		Mr. Scott (The Motion Pictures)
+		Excalbian Surak
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
