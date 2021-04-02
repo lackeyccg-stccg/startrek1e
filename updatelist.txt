@@ -1,7 +1,7 @@
 startrek1e	03-09-21
 plugins/startrek1e/plugininfo.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/plugininfo.txt	654050
 plugins/startrek1e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/formats.txt	485986
-plugins/startrek1e/version.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt	39587
+plugins/startrek1e/version.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt	39581
 plugins/startrek1e/defaultchat.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/defaultchat.txt	25335
 plugins/startrek1e/setlist.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/setlist.txt	289175
 plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt	2860206
