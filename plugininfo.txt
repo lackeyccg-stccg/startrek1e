@@ -227,6 +227,20 @@
    <includeasbutton>yes</includeasbutton>
 </cardfunction>
 <cardfunction>
+   <label>Countdown +1</label>
+   <kind>ADDCOUNTER</kind>
+   <color>green</color>
+   <includeasbutton>yes</includeasbutton>
+   <PositionX>.1</PositionX>
+   <PositionY>.47</PositionY>
+</cardfunction>
+<cardfunction>
+   <label>Countdown -1</label>
+   <kind>REMOVECOUNTER</kind>
+   <color>green</color>
+   <includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
    <label>Black Token +1</label>
    <kind>ADDCOUNTER</kind>
    <color>black</color>
