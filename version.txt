@@ -3,5 +3,5 @@
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/updatelist.txt</updateurl>
-<message>Plugin version 4.2.4 other VPs and Errata https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
+<message>Plugin version 4.2.5 Dogs of War https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
 </version>

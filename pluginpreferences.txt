@@ -1,6 +1,7 @@
 <pluginpreferences>
 
-<lastversionupdate>190920</lastversionupdate>
+<lastversionupdate>210402</lastversionupdate>
+<lastuninstalldate>210309</lastuninstalldate>
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
@@ -66,6 +67,7 @@
 <scalefactor>1.000000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
+<prevtilt>4.000000</prevtilt>
 <isdownloadallmissing>1</isdownloadallmissing>
 
 </pluginpreferences>

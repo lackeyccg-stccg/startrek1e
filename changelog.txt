@@ -1372,6 +1372,12 @@ NEW
 		Mr. Scott (The Motion Pictures)
 		Excalbian Surak
 
+4.2.5
+-----
+(Eberlems)
+	--Added
+		Dogs of War
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
