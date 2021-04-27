@@ -1,0 +1,446 @@
+[
+  {
+    "id": "101",
+    "name": "Premiere",
+    "code": "premiere",
+    "virtual": false
+  },
+  {
+    "id": "103",
+    "name": "Alternate Universe",
+    "code": "au",
+    "virtual": false
+  },
+  {
+    "id": "105",
+    "name": "Q Continuum",
+    "code": "qc",
+    "virtual": false
+  },
+  {
+    "id": "106",
+    "name": "Intro 2-Player Game",
+    "code": "2pg",
+    "virtual": false
+  },
+  {
+    "id": "107",
+    "name": "First Anthology",
+    "code": "1anth",
+    "virtual": false
+  },
+  {
+    "id": "108",
+    "name": "Fajo Collection",
+    "code": "faj",
+    "virtual": false
+  },
+  {
+    "id": "109",
+    "name": "First Contact",
+    "code": "fc",
+    "virtual": false
+  },
+  {
+    "id": "110",
+    "name": "Away Team Pack",
+    "code": "awayteam",
+    "virtual": false
+  },
+  {
+    "id": "111",
+    "name": "Official Tournament Sealed Deck",
+    "code": "otsd",
+    "virtual": false
+  },
+  {
+    "id": "112",
+    "name": "Deep Space 9",
+    "code": "ds9",
+    "virtual": false
+  },
+  {
+    "id": "113",
+    "name": "Starter Deck II",
+    "code": "sdII",
+    "virtual": false
+  },
+  {
+    "id": "114",
+    "name": "Enhanced First Contact",
+    "code": "efc",
+    "virtual": false
+  },
+  {
+    "id": "115",
+    "name": "The Dominion",
+    "code": "dom",
+    "virtual": false
+  },
+  {
+    "id": "116",
+    "name": "Blaze of Glory",
+    "code": "bog",
+    "virtual": false
+  },
+  {
+    "id": "117",
+    "name": "Rules of Acquisition",
+    "code": "roa",
+    "virtual": false
+  },
+  {
+    "id": "100",
+    "name": "Armada",
+    "code": "armade",
+    "virtual": false
+  },
+  {
+    "id": "118",
+    "name": "Second Anthology",
+    "code": "2anth",
+    "virtual": false
+  },
+  {
+    "id": "119",
+    "name": "The Trouble with Tribbles",
+    "code": "twt",
+    "virtual": false
+  },
+  {
+    "id": "198",
+    "name": "Trouble with Tribbles Starter Decks",
+    "code": "TWT",
+    "virtual": false
+  },
+  {
+    "id": "120",
+    "name": "Reflections",
+    "code": "Ref",
+    "virtual": false
+  },
+  {
+    "id": "121",
+    "name": "Enhanced Premiere",
+    "code": "ep",
+    "virtual": false
+  },
+  {
+    "id": "122",
+    "name": "Mirror, Mirror",
+    "code": "mm",
+    "virtual": false
+  },
+  {
+    "id": "123",
+    "name": "Voyager",
+    "code": "voy",
+    "virtual": false
+  },
+  {
+    "id": "124",
+    "name": "The Borg",
+    "code": "borg",
+    "virtual": false
+  },
+  {
+    "id": "125",
+    "name": "Holodeck Adventures",
+    "code": "ha",
+    "virtual": false
+  },
+  {
+    "id": "126",
+    "name": "The Motion Pictures",
+    "code": "tmp",
+    "virtual": false
+  },
+  {
+    "id": "127",
+    "name": "All Good Things",
+    "code": "agt",
+    "virtual": false
+  },
+  {
+    "id": "128",
+    "name": "Enterprise Collection",
+    "code": "enterprise",
+    "virtual": false
+  },
+  {
+    "id": "130",
+    "name": "Referee Reprints",
+    "code": "referee",
+    "virtual": true
+  },
+  {
+    "id": "129",
+    "name": "Identity Crisis",
+    "code": "IC",
+    "virtual": true
+  },
+  {
+    "id": "132",
+    "name": "Virtual Promos",
+    "code": "VP",
+    "virtual": true
+  },
+  {
+    "id": "135",
+    "name": "Chain of Command",
+    "code": "coc",
+    "virtual": true
+  },
+  {
+    "id": "138",
+    "name": "Life From Lifelessness",
+    "code": "lfl",
+    "virtual": true
+  },
+  {
+    "id": "139",
+    "name": "Homefront",
+    "code": "HF",
+    "virtual": true
+  },
+  {
+    "id": "141",
+    "name": "Straight and Steady",
+    "code": "SaS",
+    "virtual": true
+  },
+  {
+    "id": "143",
+    "name": "BaH!",
+    "code": "Bah!",
+    "virtual": true
+  },
+  {
+    "id": "149",
+    "name": "Shades of Gray",
+    "code": "SoG",
+    "virtual": true
+  },
+  {
+    "id": "152",
+    "name": "Homefront II",
+    "code": "HF2",
+    "virtual": true
+  },
+  {
+    "id": "153",
+    "name": "Resistance is Futile",
+    "code": "RiF",
+    "virtual": true
+  },
+  {
+    "id": "155",
+    "name": "The Next Generation",
+    "code": "TNG",
+    "virtual": true
+  },
+  {
+    "id": "156",
+    "name": "The Next Generation: Supplemental",
+    "code": "TNG+",
+    "virtual": true
+  },
+  {
+    "id": "159",
+    "name": "Homefront III",
+    "code": "HF3",
+    "virtual": true
+  },
+  {
+    "id": "161",
+    "name": "Engage",
+    "code": "ENGAGE",
+    "virtual": true
+  },
+  {
+    "id": "163",
+    "name": "The Sky's the Limit",
+    "code": "tstl",
+    "virtual": true
+  },
+  {
+    "id": "165",
+    "name": "Homefront IV",
+    "code": "HF4",
+    "virtual": true
+  },
+  {
+    "id": "167",
+    "name": "Emissary",
+    "code": "Emissary",
+    "virtual": true
+  },
+  {
+    "id": "168",
+    "name": "Emissary: Supplemental",
+    "code": "Emissary+",
+    "virtual": true
+  },
+  {
+    "id": "169",
+    "name": "Homefront V",
+    "code": "HF5",
+    "virtual": true
+  },
+  {
+    "id": "171",
+    "name": "Warp Pack: Emissary",
+    "code": "WPEmissary",
+    "virtual": true
+  },
+  {
+    "id": "172",
+    "name": "The Maquis",
+    "code": "Maquis",
+    "virtual": true
+  },
+  {
+    "id": "174",
+    "name": "20th Anniversary Collection",
+    "code": "20th",
+    "virtual": true
+  },
+  {
+    "id": "176",
+    "name": "The Gamma Quadrant",
+    "code": "tgq",
+    "virtual": true
+  },
+  {
+    "id": "178",
+    "name": "Homefront VI",
+    "code": "HF6",
+    "virtual": true
+  },
+  {
+    "id": "181",
+    "name": "Crossover",
+    "code": "crossover",
+    "virtual": true
+  },
+  {
+    "id": "182",
+    "name": "Crossover: Supplemental",
+    "code": "crossovers",
+    "virtual": true
+  },
+  {
+    "id": "184",
+    "name": "Through the Looking Glass",
+    "code": "lookinggla",
+    "virtual": true
+  },
+  {
+    "id": "188",
+    "name": "Star Trek 50",
+    "code": "50",
+    "virtual": true
+  },
+  {
+    "id": "191",
+    "name": "The Terran Empire",
+    "code": "terran",
+    "virtual": true
+  },
+  {
+    "id": "192",
+    "name": "Broken Bow",
+    "code": "brokenbow",
+    "virtual": true
+  },
+  {
+    "id": "194",
+    "name": "Pre-Warp Pack",
+    "code": "PreWarp",
+    "virtual": true
+  },
+  {
+    "id": "195",
+    "name": "Live Long and Prosper",
+    "code": "llap",
+    "virtual": true
+  },
+  {
+    "id": "199",
+    "name": "Warp Pack: Holiday 2017",
+    "code": "wp2017",
+    "virtual": true
+  },
+  {
+    "id": "200",
+    "name": "Cold Front",
+    "code": "coldfront",
+    "virtual": true
+  },
+  {
+    "id": "202",
+    "name": "Metamorphosis",
+    "code": "metamorpho",
+    "virtual": true
+  },
+  {
+    "id": "204",
+    "name": "Coming of Age",
+    "code": "comingofag",
+    "virtual": true
+  },
+  {
+    "id": "206",
+    "name": "Enterprise Collection Remastered",
+    "code": "ecr",
+    "virtual": true
+  },
+  {
+    "id": "207",
+    "name": "The Gift",
+    "code": "gift",
+    "virtual": true
+  },
+  {
+    "id": "209",
+    "name": "Equilibrium",
+    "code": "equilibriu",
+    "virtual": true
+  },
+  {
+    "id": "212",
+    "name": "The Cage",
+    "code": "Cage",
+    "virtual": true
+  },
+  {
+    "id": "215",
+    "name": "Borderless Promos",
+    "code": "BP",
+    "virtual": true
+  },
+  {
+    "id": "217",
+    "name": "Q Who?",
+    "code": "qwho",
+    "virtual": true
+  },
+  {
+    "id": "219",
+    "name": "The Neutral Zone",
+    "code": "tnz",
+    "virtual": true
+  },
+  {
+    "id": "223",
+    "name": "A Private Little War",
+    "code": "plw",
+    "virtual": true
+  },
+  {
+    "id": "227",
+    "name": "Dogs of War",
+    "code": "dow",
+    "virtual": true
+  }
+]
