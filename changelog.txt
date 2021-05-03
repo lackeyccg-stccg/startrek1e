@@ -1378,6 +1378,20 @@ NEW
 	--Added
 		Dogs of War
 
+4.2.6
+-----
+(Eberlems)
+	--Changed: May Errata
+		 Buried Alive
+		 The Genesis Effect
+		 Seek Hidden Reliquary
+		 Ajur
+		 Maximum Firepower
+		 Empress 2E (Archive Portrait)
+		 Persis 2E (Archive Portrait)
+		 Commander T'Pol 2E (Archive Portrait)
+		 Neras 2E (Archive Portrait)
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
