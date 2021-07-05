@@ -1392,6 +1392,12 @@ NEW
 		 Commander T'Pol 2E (Archive Portrait)
 		 Neras 2E (Archive Portrait)
 
+4.2.7
+-----
+(Eberlems)
+	--Added: OTSD Remastered
+	--Changed: OTSD cards
+	
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
