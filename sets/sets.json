@@ -442,5 +442,11 @@
     "name": "Dogs of War",
     "code": "dow",
     "virtual": true
+  },
+  {
+    "id": "230",
+    "name": "Official Tournament Sealed Deck Remastered",
+    "code": "otsdr",
+    "virtual": true
   }
 ]
