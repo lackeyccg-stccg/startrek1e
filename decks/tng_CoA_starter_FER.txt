@@ -1,0 +1,69 @@
+1	Get It Done
+1	Business Gambit
+1	Baht
+1	Captain Picard
+1	DaiMon Bok
+1	Dr. Arridor (The Next Generation)
+1	Gozar
+1	Kol (The Next Generation)
+1	Levin
+1	Mordoc (The Next Generation)
+1	Obol
+1	Quark (The Next Generation)
+2	Rata
+1	Koral (The Next Generation)
+1	Vash (The Next Generation)
+1	Will Riker
+2	Ferengi Scout Vessel
+1	Dr. Reyga (Life From Lifelessness)
+1	Sunad
+1	Vekor
+1	Dr. Farek (The Sky's the Limit)
+1	Lwaxana Troi (The Sky's the Limit)
+1	Data (The Sky's the Limit)
+1	Aletia
+1	Krunk
+1	Taar
+1	Alexana Devos
+1	Kreechta
+Missions:
+1	Revenge Plot
+1	The Last Outpost
+1	Attend Mysterious Rendezvous
+1	Investigate Dead Planet
+1	Search for Weapons
+1	Examine Battle Site
+Seed+Dil:
+1	Chula: The Chandra
+1	Flim-Flam Artist
+1	Friendly Fire
+1	Maglock
+1	Dangerous Climb
+1	Dignitaries and Witnesses
+1	Ferengi Ambush
+1	Attention All Hands
+1	The Arsenal: Divided
+1	The Arsenal: Separated
+1	Ferengi Trading Post
+1	Assign Mission Specialists
+1	Do You Smell Something Burning?
+1	Devastating Communique
+1	Hunter Probe
+1	Irrational Commander
+1	A Bad End
+1	Continuing Mission
+1	Ancient Computer
+1	Lack of Preparation
+1	Malfunctioning Door
+1	Nagilum: Test Subjects
+QsTent:
+Ref:
+Dyson:
+Flash:
+Tactics:
+Tribbles:
+Sites:
+Outside:
+1	Kayron
+1	Follis
+Aside:

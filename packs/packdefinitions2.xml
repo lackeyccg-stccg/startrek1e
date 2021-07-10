@@ -5,16 +5,16 @@
 	<packformat>Standard</packformat>
 	<packkind>Sealed Deck</packkind>
 	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></packcommoncrit>
+	<packcommoncrit><field>Release</field><eval>IS</eval><data>Premiere</data></packcommoncrit>
 	<chance>				
 	<kind><qty>45</qty>
-		<crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit>
+		<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
 	</kind>
 	<kind><qty>13</qty>
-		<crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit>
+		<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
 	</kind>
 	<kind><qty>2</qty>
-		<crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit>
+		<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
 	</kind>
 	</chance>
 </pack>
@@ -33,7 +33,7 @@
 		</kind>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>otsd</data></crit>
-			<crit><field>Name</field><eval>IS</eval><data>Armus - Sticky Situation</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Armus: Sticky Situation</data></crit>
 		</kind>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>otsd</data></crit>
@@ -41,7 +41,7 @@
 		</kind>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>otsd</data></crit>
-			<crit><field>Name</field><eval>IS</eval><data>Make us go</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Make Us Go</data></crit>
 		</kind>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>otsd</data></crit>
@@ -108,28 +108,28 @@
 			<crit><field>Name</field><eval>IS</eval><data>Darmok</data></crit>
 		</kind>
 		<kind><qty>4</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
 		</kind>
 		<kind><qty>12</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
 		</kind>
 		<kind><qty>44</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
 		</kind>
 		<kind><qty>1</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>au</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>au</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
 		</kind>
 		<kind><qty>3</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>au</data></crit>
-			<crit><field>Info</field><eval>IS</eval><data>0 U</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>au</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
 		</kind>
 		<kind><qty>11</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>au</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>au</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
 		</kind>
 	</chance>
 	<chance><prob>1</prob>
@@ -139,7 +139,7 @@
 		</kind>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>otsd</data></crit>
-			<crit><field>Name</field><eval>IS</eval><data>Armus-Sticky Situation</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Armus: Sticky Situation</data></crit>
 		</kind>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>otsd</data></crit>
@@ -147,7 +147,7 @@
 		</kind>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>otsd</data></crit>
-			<crit><field>Name</field><eval>IS</eval><data>Make us go</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Make Us Go</data></crit>
 		</kind>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>otsd</data></crit>
@@ -214,28 +214,28 @@
 			<crit><field>Name</field><eval>IS</eval><data>Darmok</data></crit>
 		</kind>
 		<kind><qty>4</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
 		</kind>
 		<kind><qty>12</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
 		</kind>
 		<kind><qty>44</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
 		</kind>
 		<kind><qty>1</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>AU</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>AU</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>UR</data></crit>
 		</kind>
 		<kind><qty>3</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>AU</data></crit>
-			<crit><field>Info</field><eval>IS</eval><data>0 U</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>AU</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
 		</kind>
 		<kind><qty>11</qty>
-			<crit><field>Release</field><eval>CONTAINS</eval><data>AU</data></crit>
-			<crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit>
+			<crit><field>Release</field><eval>IS</eval><data>AU</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
 		</kind>
 	</chance>
 </pack>
@@ -282,7 +282,7 @@
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>U.S.S. Danube</data></crit></kind>
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Paxton Reese</data></crit></kind>
 <kind><qty>2</qty><crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit></kind>
-<kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit></kind>
+<kind><qty>13</qty><crit><field>Info</field><eval>IS</eval><data>U</data></crit></kind>
 <kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit></kind>
 </chance>
 <chance><prob>20</prob>
@@ -319,7 +319,7 @@
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Search for Survivors</data></crit></kind>
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Assassin's Blade</data></crit></kind>
 <kind><qty>2</qty><crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit></kind>
-<kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit></kind>
+<kind><qty>13</qty><crit><field>Info</field><eval>IS</eval><data>U</data></crit></kind>
 <kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit></kind>
 </chance>
 <chance><prob>20</prob>
@@ -356,7 +356,7 @@
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Anara</data></crit></kind>
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Vedek Sorad</data></crit></kind>
 <kind><qty>2</qty><crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit></kind>
-<kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit></kind>
+<kind><qty>13</qty><crit><field>Info</field><eval>IS</eval><data>U</data></crit></kind>
 <kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit></kind>
 </chance>
 <chance><prob>20</prob>
@@ -393,7 +393,7 @@
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Cardassian Disruptor</data></crit></kind>
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Kressari Rendezvous</data></crit></kind>
 <kind><qty>2</qty><crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit></kind>
-<kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit></kind>
+<kind><qty>13</qty><crit><field>Info</field><eval>IS</eval><data>U</data></crit></kind>
 <kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit></kind>
 </chance>
 <chance><prob>20</prob>
@@ -430,7 +430,7 @@
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Vantika's Neural Pathways</data></crit></kind>
 <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Jaheel</data></crit></kind>
 <kind><qty>2</qty><crit><field>Info</field><eval>CONTAINS</eval><data>R</data></crit></kind>
-<kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>U</data></crit></kind>
+<kind><qty>13</qty><crit><field>Info</field><eval>IS</eval><data>U</data></crit></kind>
 <kind><qty>13</qty><crit><field>Info</field><eval>CONTAINS</eval><data>C</data></crit></kind>
 </chance>
 </pack>
@@ -501,16 +501,19 @@
 	<chance><prob>17</prob>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>IS</eval><data>01 P</data></crit>
-		</kind>	
-		<kind><qty>4</qty>
+			<crit><field>Info</field><eval>IS</eval><data>4 P</data></crit>
+		</kind>
+		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>01</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>02</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>03</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>04</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>05</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>06</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>17 P</data></crit>
+		</kind>	
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Text</field><eval>CONTAINS</eval><data>WMH</data></crit>
+		</kind>	
+		<kind><qty>2</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Type</field><eval>IS</eval><data>Dilemma</data></crit>
 		</kind>	
 		<kind><qty>4</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
@@ -528,17 +531,19 @@
 	<chance><prob>17</prob>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>IS</eval><data>02 P</data></crit>
-		</kind>	
-		<kind><qty>4</qty>
+			<crit><field>Info</field><eval>IS</eval><data>2 P</data></crit>
+		</kind>
+		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>+</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>01</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>02</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>03</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>04</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>05</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>06</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>21 P</data></crit>
+		</kind>	
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Text</field><eval>CONTAINS</eval><data>WMH</data></crit>
+		</kind>
+		<kind><qty>2</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Type</field><eval>IS</eval><data>Dilemma</data></crit>
 		</kind>	
 		<kind><qty>4</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
@@ -556,16 +561,19 @@
 	<chance><prob>16</prob>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>IS</eval><data>03 P</data></crit>
-		</kind>	
-		<kind><qty>4</qty>
+			<crit><field>Info</field><eval>IS</eval><data>1 P</data></crit>
+		</kind>
+		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>01</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>02</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>03</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>04</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>05</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>06</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>15 P</data></crit>
+		</kind>	
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Text</field><eval>CONTAINS</eval><data>WMH</data></crit>
+		</kind>
+		<kind><qty>2</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Type</field><eval>IS</eval><data>Dilemma</data></crit>
 		</kind>	
 		<kind><qty>4</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
@@ -583,16 +591,19 @@
 	<chance><prob>17</prob>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>IS</eval><data>04 P</data></crit>
-		</kind>	
-		<kind><qty>4</qty>
+			<crit><field>Info</field><eval>IS</eval><data>5 P</data></crit>
+		</kind>
+		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>01</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>02</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>03</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>04</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>05</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>06</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>20 P</data></crit>
+		</kind>	
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Text</field><eval>CONTAINS</eval><data>WMH</data></crit>
+		</kind>
+		<kind><qty>2</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Type</field><eval>IS</eval><data>Dilemma</data></crit>
 		</kind>	
 		<kind><qty>4</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
@@ -610,16 +621,19 @@
 	<chance><prob>17</prob>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>IS</eval><data>05 P</data></crit>
-		</kind>	
-		<kind><qty>4</qty>
+			<crit><field>Info</field><eval>IS</eval><data>3 P</data></crit>
+		</kind>
+		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>01</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>02</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>03</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>04</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>05</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>06</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>16 P</data></crit>
+		</kind>	
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Text</field><eval>CONTAINS</eval><data>WMH</data></crit>
+		</kind>
+		<kind><qty>2</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Type</field><eval>IS</eval><data>Dilemma</data></crit>
 		</kind>	
 		<kind><qty>4</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
@@ -637,16 +651,19 @@
 	<chance><prob>16</prob>
 		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>IS</eval><data>06 P</data></crit>
-		</kind>	
-		<kind><qty>4</qty>
+			<crit><field>Info</field><eval>IS</eval><data>6 P</data></crit>
+		</kind>
+		<kind><qty>1</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>01</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>02</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>03</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>04</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>05</data></crit>
-			<crit><field>Info</field><eval>DOESNTCONTAIN</eval><data>06</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>18 P</data></crit>
+		</kind>	
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Text</field><eval>CONTAINS</eval><data>WMH</data></crit>
+		</kind>
+		<kind><qty>2</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>EP</data></crit>
+			<crit><field>Type</field><eval>IS</eval><data>Dilemma</data></crit>
 		</kind>	
 		<kind><qty>4</qty>
 			<crit><field>Release</field><eval>CONTAINS</eval><data>Premiere</data></crit>
@@ -1025,4 +1042,339 @@
 	</kind>
 	</chance>
 	</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>Enhanced First Contact</packtitle>
+	<packimage>enhancedfirstcontact_starter_all</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Sealed Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Info</field><eval>DOESNTCONTAIN</eval><data>*</data></packcommoncrit>
+	<chance><prob>25</prob>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Dukat of Borg</data></crit>
+		</kind>		
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Population 9 Billion - All Borg</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Nightmare</data></crit>
+		</kind>		
+		<kind><qty>4</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>12</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>20</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>	
+	<chance><prob>25</prob>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Gowron of Borg</data></crit>
+		</kind>		
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>We Are The Borg</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Add Distinctiveness</data></crit>
+		</kind>		
+		<kind><qty>4</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>12</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>20</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>	
+	<chance><prob>25</prob>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Tomalak of Borg</data></crit>
+		</kind>		
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Six of Nineteen</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Sphere Encounter</data></crit>
+		</kind>		
+		<kind><qty>4</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>12</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>20</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+	<chance><prob>25</prob>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Bareil of Borg</data></crit>
+		</kind>		
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Eleven of Seventeen</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>efc</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Service the Collective</data></crit>
+		</kind>		
+		<kind><qty>4</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>12</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>20</qty>
+			<crit><field>Release</field><eval>IS</eval><data>fc</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>otsdr</packtitle>
+	<packimage>otsd_box</packimage>
+	<packformat>Standard</packformat>
+	<packkind>otsdr</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance><prob>99</prob>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Abandon Ship!</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Armus: Sticky Situation</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Hippocratic Oath</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Make Us Go</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Unscientific Method</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Spacedoor</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Space-Time Portal</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Treaty: Federation/Romulan/Klingon</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Husnock Outpost</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Establish Relations</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Explore Interstellar Matter</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Impose Order</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Investigate Incursion</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Mineral Survey</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Test Propulsion Systems</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Open Diplomatic Relations</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Reflection Therapy</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Suna</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Hide and Seek</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Darmok</data></crit>
+		</kind>
+		<kind><qty>4</qty>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>12</qty>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>44</qty>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>au</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>3</qty>
+			<crit><field>Release</field><eval>IS</eval><data>au</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>11</qty>
+			<crit><field>Release</field><eval>IS</eval><data>au</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+	<chance><prob>1</prob>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Abandon Ship!</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Armus: Sticky Situation</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Hippocratic Oath</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Make Us Go</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Unscientific Method</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Spacedoor</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Space-Time Portal</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Treaty: Federation/Romulan/Klingon</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Husnock Outpost</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Establish Relations</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Explore Interstellar Matter</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Impose Order</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Investigate Incursion</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Mineral Survey</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Test Propulsion Systems</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Open Diplomatic Relations</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Reflection Therapy</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Suna</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Hide and Seek</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>CONTAINS</eval><data>otsdr</data></crit>
+			<crit><field>Name</field><eval>IS</eval><data>Darmok</data></crit>
+		</kind>
+		<kind><qty>4</qty>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>12</qty>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>44</qty>
+			<crit><field>Release</field><eval>IS</eval><data>Premiere</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+		<kind><qty>1</qty>
+			<crit><field>Release</field><eval>IS</eval><data>AU</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>UR</data></crit>
+		</kind>
+		<kind><qty>3</qty>
+			<crit><field>Release</field><eval>IS</eval><data>AU</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>11</qty>
+			<crit><field>Release</field><eval>IS</eval><data>AU</data></crit>
+			<crit><field>Info</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+</pack>
 </packdefinitions>

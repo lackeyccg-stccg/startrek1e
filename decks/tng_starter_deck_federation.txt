@@ -34,13 +34,13 @@ Missions:
 Seed+Dil:
 1	Dignitaries and Witnesses
 1	Magnetic Field Disruptions
-1	Maglock (Homefront)
+1	Maglock
 1	Virus
 1	Birth of "Junior"
 1	Dedication to Duty
-1	Friendly Fire (Homefront)
+1	Friendly Fire
 1	Pinned Down
-1	Chula: The Chandra (Homefront)
+1	Chula: The Chandra
 1	Tense Negotiations
 1	Fractured Time
 1	The Arsenal: Separated
@@ -48,10 +48,10 @@ Seed+Dil:
 1	Picking Up the Pieces
 1	Flim-Flam Artist
 1	Diplomatic Intervention
-1	Blended (Homefront)
-1	New Essentialists (Homefront)
-1	Assign Mission Specialists (The Next Generation)
+1	Blended
+1	New Essentialists
+1	Assign Mission Specialists
 1	Continuing Mission
 1	Attention All Hands
 1	Federation Outpost
-1	Temporal Micro-Wormhole (Homefront II)
+1	Temporal Micro-Wormhole

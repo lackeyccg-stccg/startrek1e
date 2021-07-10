@@ -7,7 +7,7 @@
 1	Dr. Syrus
 1	Captain Picard
 1	Quark (The Next Generation)
-1	Daimon Bok
+1	DaiMon Bok
 1	Mordoc (The Next Generation)
 1	Dr. Arridor (The Next Generation)
 1	Kol (The Next Generation)
@@ -31,24 +31,24 @@ Missions:
 Seed+Dil:
 1	Dignitaries and Witnesses
 1	Magnetic Field Disruptions
-1	Maglock (Homefront)
+1	Maglock
 1	Radioactive Garbage Scow
 1	Topological Anomaly 4747
 1	Gomtuu Shock Wave
-1	Friendly Fire (Homefront)
+1	Friendly Fire
 1	Pinned Down
-1	Chula: The Chandra (Homefront)
-1	Linguistic Legerdemain (Homefront II)
+1	Chula: The Chandra
+1	Linguistic Legerdemain
 1	Murder Investigation
-1	Chula: The Lights (Homefront)
+1	Chula: The Lights
 1	Dangerous Climb
 1	Picking Up the Pieces
 1	Flim-Flam Artist
 1	Ferengi Ambush
 1	Armus - Skin of Evil
-1	Punishment Box (Homefront)
-1	Assign Mission Specialists (The Next Generation)
+1	Punishment Box
+1	Assign Mission Specialists
 1	Continuing Mission
 1	Attention All Hands
 1	Ferengi Trading Post
-1	Temporal Micro-Wormhole (Homefront II)
+1	Temporal Micro-Wormhole

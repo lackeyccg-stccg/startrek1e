@@ -1,0 +1,73 @@
+<pluginpreferences>
+
+<lastversionupdate>210402</lastversionupdate>
+<lastuninstalldate>210309</lastuninstalldate>
+<counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
+<counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
+<recentskins>default</recentskins>
+<canned>Pass.</canned>
+<canned>Proceed.</canned>
+<canned>Draw to end my turn.</canned>
+<canned>Your turn.</canned>
+<canned>Downloading...</canned>
+<canned>Reporting...</canned>
+<canned>Beaming...</canned>
+<canned>Attempting Mission...</canned>
+<canned>Hold on... Thinking...</canned>
+<canned>BRB wait please!</canned>
+<canned>Good Game!</canned>
+<canned>!dice!/r1</canned>
+<canned>!Save!/save</canned>
+<canned>!Load!/load</canned>
+<canned>!Draw 7!/draw7</canned>
+<canned>!Save Log!/log</canned>
+<canned>!Clear Log!/clear</canned>
+<canned>!Draft to Next!/exchangeclockwise</canned>
+<canned>/draw8</canned>
+<canned>Good game.</canned>
+<fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
+<fontkind0pos1>times.ttf</fontkind0pos1>
+<fontkind1pos0>Lato-Reg.ttf</fontkind1pos0>
+<fontkind1pos1>times.ttf</fontkind1pos1>
+<fontkind2pos0>Lato-Reg.ttf</fontkind2pos0>
+<fontkind2pos1>times.ttf</fontkind2pos1>
+<fontkind3pos0>Lato-Reg.ttf</fontkind3pos0>
+<fontkind3pos1>times.ttf</fontkind3pos1>
+<fontsize0>12</fontsize0>
+<fontsize1>11</fontsize1>
+<fontsize2>11</fontsize2>
+<fontsize3>20</fontsize3>
+<bindingmain0>CTRL+h</bindingmain0>
+<bindingmain1>CTRL+j</bindingmain1>
+<bindingmain4>CTRL+n</bindingmain4>
+<bindingmain5>CTRL+s</bindingmain5>
+<bindingmain6>CTRL+l</bindingmain6>
+<bindingmain9>CTRL+f</bindingmain9>
+<bindingmain15>CTRL+SHIFT+s</bindingmain15>
+<bindinggeneral0>CTRL+d</bindinggeneral0>
+<bindinggeneral2>CTRL+m</bindinggeneral2>
+<bindinggeneral3>CTRL+RIGHT</bindinggeneral3>
+<bindinggeneral4>CTRL+LEFT</bindinggeneral4>
+<bindinggeneral5>CTRL+UP</bindinggeneral5>
+<bindinggeneral6>CTRL+DOWN</bindinggeneral6>
+<bindingcard2>CTRL+EQUALS</bindingcard2>
+<bindingcard3>CTRL+SHIFT+EQUALS</bindingcard3>
+<bindingcard6>CTRL+SHIFT+MINUS</bindingcard6>
+<bindingcanned0>CTRL+1</bindingcanned0>
+<bindingcanned1>CTRL+2</bindingcanned1>
+<bindingcanned2>CTRL+3</bindingcanned2>
+<bindingcanned3>CTRL+4</bindingcanned3>
+<bindingcanned4>CTRL+5</bindingcanned4>
+<bindingcanned5>CTRL+6</bindingcanned5>
+<bindingcanned6>CTRL+7</bindingcanned6>
+<bindingcanned7>CTRL+8</bindingcanned7>
+<bindingcanned8>CTRL+9</bindingcanned8>
+<libraryignoredoubles>1</libraryignoredoubles>
+<recentformat>-1</recentformat>
+<scalefactor>1.000000</scalefactor>
+<zoomfactor>1.000000</zoomfactor>
+<quickzoom>4.000000</quickzoom>
+<prevtilt>4.000000</prevtilt>
+<isdownloadallmissing>1</isdownloadallmissing>
+
+</pluginpreferences>
