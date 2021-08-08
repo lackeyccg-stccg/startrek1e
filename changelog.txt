@@ -1401,7 +1401,8 @@ NEW
 4.2.8
 -----
 (Eberlems)
-	--Added: 
+	--Added:
+		Odo (Dogs of War)
 		Assault Vessel
 		HQ: Return Orb to Bajor
 		The Celestial Temple
