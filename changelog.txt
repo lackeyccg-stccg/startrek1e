@@ -1397,7 +1397,15 @@ NEW
 (Eberlems)
 	--Added: OTSD Remastered
 	--Changed: OTSD cards
-	
+
+4.2.8
+-----
+(Eberlems)
+	--Added: 
+		Assault Vessel
+		HQ: Return Orb to Bajor
+		The Celestial Temple
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
