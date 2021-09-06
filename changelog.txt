@@ -1407,6 +1407,41 @@ NEW
 		HQ: Return Orb to Bajor
 		The Celestial Temple
 
+4.2.9
+-----
+(Eberlems)
+	-->Added:
+		Assimilate Counterpart
+		Where No Man Has Gone Before
+	--Changed:		
+		Implication *VP
+		Stellar Flare *VP
+		Barzan Wormhole *VP
+		Computer Crash *VP
+		Temporal Shifting *VP
+		Cybernetics Expertise *VP
+		Docking Procedures *VP
+		Empathic Touch *VP
+		Shipwreck *VP
+		Captain Koloth *VP
+		Jem'Hadar Warship (Borderless Promos)
+		Starship Enterprise (Borderless Promos)
+		Kuron (Borderless Promos)
+		Hunting Vessel (Borderless Promos)
+		Regency 1 (Borderless Promos)
+		Husnock Ship (Borderless Promos)
+		Gal Gath'thong (Borderless Promos)
+		Vidiian Cruiser (Borderless Promos)
+		D'kyr (Borderless Promos)
+		Worf [Shades of Gray White Border Preview]
+		Odo [Homefront II White Border Preview]
+		Borg Queen [Homefront III White Border Preview]
+		Administrator Weyoun [The Gamma Quadrant White Border Preview]
+		Comm Officer Sato [The Terran Empire White Border Preview]
+		Centurion Kirk [The Neutral Zone White Border Preview]
+		The Wake of the Borg
+		Holoprogram: Fortress of Doom
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
