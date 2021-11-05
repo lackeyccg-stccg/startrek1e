@@ -1442,6 +1442,43 @@ NEW
 		The Wake of the Borg
 		Holoprogram: Fortress of Doom
 
+4.3.0
+-----
+(Eberlems)
+	-->Added:
+		Q: A Dazzling Flash
+		Q: Enter the Supernova
+		Miss Q
+		Mortal Quinn
+		An Absence of Manners
+		It's a Party!
+		Don't Provoke the Borg!
+		Futile Attempt
+		I Will Not Promise...
+	-->Changed:
+		Reopen Dig
+		Q-Flash
+		Q-uality Time
+		Beware of Q
+		His Honor, The High Sheriff of Nottingham
+		The Issue is Patriotism
+		Incoming Message - The Continuum
+		Ar-Q-ologist
+		Go Back Whence Thou Camest
+		Guilty - Provisionally
+		Mandarin Bailiff
+		Q-Type Android
+		Aldebaran Serpent
+		Scottish Setter
+		The Higher... The Q-er
+		Mortal Q
+		The Naked Truth
+		Q
+		Strategic Base
+		Mission Fatigue
+		The Squire's Rules
+		Cyrus Redblock
+		Soong-type Android
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se

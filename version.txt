@@ -1,7 +1,7 @@
 <version>
-<lastupdateYYMMDD>210906</lastupdateYYMMDD>
+<lastupdateYYMMDD>211106</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/updatelist.txt</updateurl>
-<message>Plugin version 4.2.9 New Promos and September VP Errata https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
+<message>Plugin version 4.3.0 The Trial Never Ended and November Errata https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
 </version>
