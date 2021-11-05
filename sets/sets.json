@@ -448,5 +448,11 @@
     "name": "Official Tournament Sealed Deck Remastered",
     "code": "otsdr",
     "virtual": true
+  },
+  {
+    "id": "233",
+    "name": "The Trial Never Ended",
+    "code": "ttne",
+    "virtual": true
   }
 ]
