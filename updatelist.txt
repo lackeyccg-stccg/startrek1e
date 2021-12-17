@@ -1,6 +1,6 @@
-startrek1e	17-12-21
+startrek1e	12-17-21
 plugins/startrek1e/version.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt	42612
-plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt	3039207
+plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt	3039265
 plugins/startrek1e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/uninstall.txt	132770
 plugins/startrek1e/plugininfo.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/plugininfo.txt	654050
 plugins/startrek1e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/formats.txt	485986
