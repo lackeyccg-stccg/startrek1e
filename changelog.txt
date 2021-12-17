@@ -1479,6 +1479,16 @@ NEW
 		The Squire's Rules
 		Cyrus Redblock
 		Soong-type Android
+		
+4.3.1
+-----
+(Eberlems)
+	-->Added
+		Second Star to the Right
+	-->Changed
+		Q
+		Reunite Legends
+
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
