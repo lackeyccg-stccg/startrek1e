@@ -1490,6 +1490,14 @@ NEW
 		Q
 		Reunite Legends
 
+4.3.1a
+-----
+(Eberlems)
+	-->Changed
+		Second Star to the Right legal status
+		Captain Kirk (Second Star to the Right)
+		Saavik (Second Star to the Right)
+		
 ------------------------------
 Plugin main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
