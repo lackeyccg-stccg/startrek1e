@@ -1497,9 +1497,23 @@ NEW
 		Second Star to the Right legal status
 		Captain Kirk (Second Star to the Right)
 		Saavik (Second Star to the Right)
-		
+
+4.3.2
+-----
+(Eberlems)
+	-->Changed
+		Misinterpreted History
+		Cardassian Liberation Front
+		Comfort Women
+		maH nIv
+		General Order 7
+		Eliminate Starship
+		Obsession
+		Memory Wipe
+		Smooth as an Android's Bottom?
+
 ------------------------------
-Plugin main maintainer - Scox
+Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
 TrekCC handle: Scox
 
