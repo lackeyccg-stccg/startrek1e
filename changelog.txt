@@ -1520,6 +1520,19 @@ NEW
 		Hanok
 		Ultimatum
 		Amanda Rogers: Protector
+		
+4.3.4
+-----
+(Eberlems)
+	-->Added	
+		TMP Remastered
+	-->Changed
+		TMP Errata
+		I.K.S. Amar
+		I.K.S. Chontay
+		I.K.S. K'elric
+		I.K.S. K't'inga
+		I.K.S. Kla'Diyus
 
 ------------------------------
 Plugin former main maintainer - Scox

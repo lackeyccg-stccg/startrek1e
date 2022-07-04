@@ -1,7 +1,7 @@
 <version>
-<lastupdateYYMMDD>220606</lastupdateYYMMDD>
+<lastupdateYYMMDD>220704</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/updatelist.txt</updateurl>
-<message>Plugin version 4.3.3 june errata https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
+<message>Plugin version 4.3.4 TMPR Release https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
 </version>
