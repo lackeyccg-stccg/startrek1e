@@ -538,4 +538,11 @@
     "code": "SSttR",
     "virtual": true
   }
+  {
+    "id": "236",
+    "name": "The Motion Pictures Remastered",
+    "abbr": "TMPR",
+    "code": "TMPR",
+    "virtual": true
+  }
 ]
