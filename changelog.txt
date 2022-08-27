@@ -1534,6 +1534,24 @@ NEW
 		I.K.S. K't'inga
 		I.K.S. Kla'Diyus
 
+4.3.5
+-----
+(Eberlems)
+	-->Added	
+		Paradise Lost
+	-->Changed
+		Cardassian Trap
+		Amanda Rogers: Protector
+		Quite a Coincidence
+		Urgent Warning
+		Containment Field
+		Strategic Base
+		The Discovery of Sha Ka Ree
+		Defend Homeworld
+		Dixon Hill
+		Excalbian Surak
+		An Issue of Patriotism
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
