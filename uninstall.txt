@@ -3,4 +3,22 @@
 <removepath>sets/playtest.txt</removepath>
 <removepath>sets/setimages/general/cardassiantrap.jpg</removepath>
 <removepath>sets/setimages/general/containmentfield.jpg</removepath>
+<removepath>sets/setimages/general/TheNexus.jpg</removepath>
+" "<removepath>sets/setimages/general/TheWhaleProbe.jpg</removepath>
+<removepath>sets/setimages/general/USSEnterprise-A.jpg</removepath>
+<removepath>sets/setimages/general/USSEnterprise-B.jpg</removepath>
+<removepath>sets/setimages/general/272VP.jpg</removepath>
+<removepath>sets/setimages/general/272VPALT.jpg</removepath>
+<removepath>sets/setimages/general/CaptainSulu.jpg</removepath>
+<removepath>sets/setimages/general/DefendHomeworldTWT.jpg</removepath>
+<removepath>sets/setimages/general/DixonHill.jpg</removepath>
+<removepath>sets/setimages/general/DrTolianSoran.jpg</removepath>
+<removepath>sets/setimages/general/EnsignTuvok.jpg</removepath>
+<removepath>sets/setimages/general/ExcalbianSurak.jpg</removepath>
+<removepath>sets/setimages/general/ExcalbianSurakVUL.jpg</removepath>
+<removepath>sets/setimages/general/GeorgeandGracie.jpg</removepath>
+<removepath>sets/setimages/general/JamesTKirk.jpg</removepath>
+<removepath>sets/setimages/general/Khan.jpg</removepath>
+<removepath>sets/setimages/general/NowWouldBeaGoodTime.jpg</removepath>
+<removepath>sets/setimages/general/SubspaceShockWave.jpg</removepath>
 </uninstall>
