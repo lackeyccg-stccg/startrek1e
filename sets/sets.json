@@ -544,5 +544,12 @@
     "abbr": "TMPR",
     "code": "TMPR",
     "virtual": true
+  },
+  {
+    "id": "238",
+    "name": "Paradise Lost",
+    "abbr": "PL",
+    "code": "PL",
+    "virtual": true
   }
 ]
