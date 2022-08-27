@@ -1,0 +1,5 @@
+Name	Set	ImageFile	Release	Info	Property	Uniqueness	Type	Mission/ Dilemma Type	Affil	Class	Int/Rng	Cun/Wpn	Str/Shd	Points	Region	Quadrant	Span	Icons	Staff	Characteristics/ Keywords	Requires	Persona	Command	Lore	Reports	Names	Text
+Overlay Borg Blue	Trad_Virtual_OTF_Open_Warp	1EBorgOverlayBlue.png	FCE		CCG				Borg		7	5	5					[DQ][Com]		Borg; Drone;				Identification: COMMUNICATION DRONE Task: Service communication subcommand.			
+Overlay Borg Green	Trad_Virtual_OTF_Open_Warp	1EBorgOverlayGreen.png	FCE		CCG				Borg		5	7	5					[DQ][Nav]		Borg; Drone;				Identification: NAVIGATION DRONE Task: Service navigation subcommand.			
+Overlay Borg Red	Virtual_OTF_Open_Warp	1EBorgOverlayRed.png	FCE		CCG				Borg		5	5	7					[DQ][Def]		Borg; Drone;				Identification: DEFENSE DRONE Task: Service defense subcommand.			
+Overlay Borg Counterpart	Trad_Virtual_OTF_Open_Warp	1EBorgOverlayBlueGreenRed.png	FCE		CCG				Borg				3+					[DQ][Com][Nav][Def]		Borg; Counterpart;				Assimilated counterpart who spoke for the Borg. "His knowledge and experience is part of us now."			
