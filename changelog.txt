@@ -1552,6 +1552,12 @@ NEW
 		Excalbian Surak
 		An Issue of Patriotism
 
+4.3.6
+-----
+(Eberlems)
+	-->Changed
+		Paradise Lost
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se

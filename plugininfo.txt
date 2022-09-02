@@ -208,6 +208,11 @@
    <includeasbutton>yes</includeasbutton>
 </cardfunction>
 <cardfunction>
+   <label>Rotate 180</label>
+   <kind>MAKERIGHT180DEGREES</kind>
+   <includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
    <label>Rotate Back</label>
    <kind>MAKERIGHT0DEGREES</kind>
    <includeasbutton>yes</includeasbutton>
