@@ -1558,6 +1558,22 @@ NEW
 	-->Changed
 		Paradise Lost
 
+4.3.7
+-----
+(Eberlems)
+	-->Add
+		Hanok *VP
+		Gelnon *VP
+		O'Brien Founder *VP
+		Goran'Agar *VP
+		Ultimatum *VP
+		Take Us Out! *VP
+		Professor Scott *VP
+	-->Changed
+		Temporal Narcosis
+		Where Opportunities Are Made
+		Tournament Promo - Series Q
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
