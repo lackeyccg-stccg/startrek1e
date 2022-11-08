@@ -1574,6 +1574,15 @@ NEW
 		Where Opportunities Are Made
 		Tournament Promo - Series Q
 
+4.3.8
+-----
+(Eberlems)
+	-->Changed
+		The Final Frontier
+		The Ultimate User
+		Smoke Bomb
+		Double Dumbass On You!
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
