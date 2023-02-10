@@ -1583,6 +1583,16 @@ NEW
 		Smoke Bomb
 		Double Dumbass On You!
 
+4.3.9
+-----
+(Eberlems)
+    -->Add
+        Nemesis
+	-->Changed
+		Shinzon (Chain of Command)
+		The Viceroy
+		Aamin Marritza
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se

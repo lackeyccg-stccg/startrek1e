@@ -551,5 +551,12 @@
     "abbr": "PL",
     "code": "PL",
     "virtual": true
+  },
+  {
+    "id": "241",
+    "name": "Nemesis",
+    "abbr": "MEM",
+    "code": "nem",
+    "virtual": true
   }
 ]
