@@ -1593,6 +1593,13 @@ NEW
 		The Viceroy
 		Aamin Marritza
 
+4.4.0
+-----
+(Eberlems)
+	-->Changed
+        Nemesis legal
+        The Celestial Temple (VP)
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se

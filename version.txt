@@ -1,7 +1,7 @@
 <version>
-<lastupdateYYMMDD>230211</lastupdateYYMMDD>
+<lastupdateYYMMDD>230219</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/updatelist.txt</updateurl>
-<message>Plugin version 4.3.9 Nemesis https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
+<message>Plugin version 4.4.0 Nemesis legal https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
 </version>

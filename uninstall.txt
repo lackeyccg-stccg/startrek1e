@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>230209</dateYYMMDD>
+<dateYYMMDD>230218</dateYYMMDD>
 <removepath>sets/playtest.txt</removepath>
 <removepath>sets/setimages/general/aaminmarritza.jpg</removepath>
 <removepath>sets/setimages/general/32-VP_theviceroy.jpg</removepath>
@@ -26,4 +26,5 @@
 <removepath>sets/setimages/general/strategicdiversion.jpg</removepath>
 <removepath>sets/setimages/general/Sunad.jpg</removepath>
 <removepath>sets/setimages/general/sunad.jpg</removepath>
+<removepath>sets/setimages/general/276VP.jpg</removepath>
 </uninstall>
