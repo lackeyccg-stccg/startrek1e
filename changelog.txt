@@ -1600,6 +1600,12 @@ NEW
         Nemesis legal
         The Celestial Temple (VP)
 
+4.4.0a
+-----
+(Eberlems)
+	-->Changed
+        duplicates with cardback removed
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
