@@ -3,5 +3,5 @@
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/updatelist.txt</updateurl>
-<message>Plugin version 4.4.0a Nemesis legal https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
+<message>Plugin version 4.4.0b Nemesis legal https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
 </version>

@@ -1606,6 +1606,12 @@ NEW
 	-->Changed
         duplicates with cardback removed
 
+4.4.0b
+-----
+(Eberlems)
+	-->Changed
+        tab count fix
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
