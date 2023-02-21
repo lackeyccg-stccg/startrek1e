@@ -555,8 +555,8 @@
   {
     "id": "241",
     "name": "Nemesis",
-    "abbr": "MEM",
-    "code": "nem",
+    "abbr": "Nem",
+    "code": "NEM",
     "virtual": true
   }
 ]
