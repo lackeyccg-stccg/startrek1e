@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>230220</dateYYMMDD>
+<dateYYMMDD>230311</dateYYMMDD>
 <removepath>sets/playtest.txt</removepath>
 <removepath>sets/setimages/general/aaminmarritza.jpg</removepath>
 <removepath>sets/setimages/general/32-VP_theviceroy.jpg</removepath>
@@ -28,4 +28,17 @@
 <removepath>sets/setimages/general/sunad.jpg</removepath>
 <removepath>sets/setimages/general/276VP.jpg</removepath>
 <removepath>sets/setimages/general/nem35Alt.jpg</removepath>
+<removepath>sets/setimages/general/184VP.jpg</removepath>
+<removepath>sets/setimages/general/287VP.jpg</removepath>
+<removepath>sets/setimages/general/288VP.jpg</removepath>
+<removepath>sets/setimages/general/289VP.jpg</removepath>
+<removepath>sets/setimages/general/290VP.jpg</removepath>
+<removepath>sets/setimages/general/291VP.jpg</removepath>
+<removepath>sets/setimages/general/292VP.jpg</removepath>
+<removepath>sets/setimages/general/293VP.jpg</removepath>
+<removepath>sets/setimages/general/294VP.jpg</removepath>
+<removepath>sets/setimages/general/295VP.jpg</removepath>
+<removepath>sets/setimages/general/297VP.jpg</removepath>
+<removepath>sets/setimages/general/plasmadynerelay.jpg</removepath>
+<removepath>sets/setimages/general/thetrois.jpg</removepath>
 </uninstall>

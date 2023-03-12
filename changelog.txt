@@ -1611,6 +1611,17 @@ NEW
 (Eberlems)
 	-->Changed
         tab count fix
+        
+4.4.1
+-----
+(Eberlems)
+    -->Changed
+        Malfunctioning Door
+        Plasmadyne Relay
+        Quark Son of Keldar
+        Naprem
+        The Trois
+        Terraforming Station
 
 ------------------------------
 Plugin former main maintainer - Scox
