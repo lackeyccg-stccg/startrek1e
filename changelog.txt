@@ -1623,6 +1623,12 @@ NEW
         The Trois
         Terraforming Station
 
+4.4.2
+-----
+(Eberlems)
+    ->Changed
+        Packs
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se

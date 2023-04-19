@@ -37,8 +37,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Warp Pack</packtitle>
         <packimage>warp_pack</packimage>
@@ -143,8 +141,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>AU Booster</packtitle>
         <packimage>alternateuniverse_pack</packimage>
@@ -164,7 +160,7 @@
                     <field>Info</field>
                     <eval>IS</eval>
                     <data>R</data>
-                </crit>			
+                </crit>
             </kind>
             <kind>
                 <qty>3</qty>
@@ -211,8 +207,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Q-Continuum Booster</packtitle>
         <packimage>q-continuum_pack</packimage>
@@ -251,8 +245,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>First Contact Booster</packtitle>
         <packimage>firstcontact_pack</packimage>
@@ -291,8 +283,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>DS9 Booster</packtitle>
         <packimage>deepspacenine_pack</packimage>
@@ -359,8 +349,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Dominion Booster</packtitle>
         <packimage>thedominion_pack</packimage>
@@ -425,10 +413,8 @@
                     <data>C</data>
                 </crit>
             </kind>
-        </chance>	
+        </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Blaze of Glory Booster</packtitle>
         <packimage>blazeofglory_pack</packimage>
@@ -467,8 +453,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Rules of Aquisition Booster</packtitle>
         <packimage>rulesofacquisition_pack</packimage>
@@ -507,8 +491,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>TwT Booster</packtitle>
         <packimage>thetroublewithtribbles_pack</packimage>
@@ -537,7 +519,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -552,7 +534,7 @@
                 </crit>
             </kind>
         </chance>
-		<chance>
+        <chance>
             <prob>50</prob>
             <kind>
                 <qty>1</qty>
@@ -561,12 +543,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -579,7 +561,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -611,7 +593,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -625,10 +607,8 @@
                     <data>C</data>
                 </crit>
             </kind>
-        </chance>	
+        </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Mirror, Mirror Booster</packtitle>
         <packimage>mirrormirror_pack</packimage>
@@ -649,12 +629,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -667,7 +647,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -691,12 +671,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -709,7 +689,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -733,12 +713,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -751,7 +731,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -775,12 +755,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -793,7 +773,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -817,12 +797,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -835,7 +815,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -859,12 +839,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -877,7 +857,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -909,7 +889,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -941,7 +921,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -973,7 +953,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1005,7 +985,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1037,7 +1017,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1069,7 +1049,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1101,7 +1081,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1117,8 +1097,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Voyager Booster</packtitle>
         <packimage>voyager_pack</packimage>
@@ -1139,7 +1117,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -1152,7 +1130,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1184,7 +1162,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1200,8 +1178,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Borg Booster</packtitle>
         <packimage>theborg_pack</packimage>
@@ -1222,12 +1198,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -1240,7 +1216,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1264,12 +1240,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -1282,7 +1258,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1306,12 +1282,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -1324,7 +1300,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1348,12 +1324,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -1366,7 +1342,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1390,12 +1366,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -1408,7 +1384,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1432,12 +1408,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -1450,7 +1426,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1482,7 +1458,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1514,7 +1490,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1546,7 +1522,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1578,7 +1554,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1610,7 +1586,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1642,7 +1618,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1674,7 +1650,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1690,8 +1666,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Holodeck Adventures Booster</packtitle>
         <packimage>holodeckadventures_pack</packimage>
@@ -1712,12 +1686,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -1730,7 +1704,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1754,12 +1728,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -1772,7 +1746,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1796,12 +1770,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -1814,7 +1788,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1838,12 +1812,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -1856,7 +1830,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1880,12 +1854,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -1898,7 +1872,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1922,12 +1896,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -1940,7 +1914,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -1972,7 +1946,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2004,7 +1978,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2036,7 +2010,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2068,7 +2042,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2100,7 +2074,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2132,7 +2106,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2164,7 +2138,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2180,8 +2154,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>The Motion Pictures Booster</packtitle>
         <packimage>themotionpictures_pack</packimage>
@@ -2202,12 +2174,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -2220,7 +2192,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2244,12 +2216,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -2262,7 +2234,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2286,12 +2258,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -2304,7 +2276,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2328,12 +2300,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -2346,7 +2318,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2370,7 +2342,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -2383,7 +2355,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2407,12 +2379,12 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
-					<field>Info</field>
+                <crit>
+                    <field>Info</field>
                     <eval>DOESNTCONTAIN</eval>
                     <data>+</data>
-				</crit>
-				<crit>
+                </crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>R</data>
@@ -2425,7 +2397,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2457,7 +2429,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2489,7 +2461,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2521,7 +2493,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2553,7 +2525,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2585,7 +2557,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2617,7 +2589,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>
@@ -2649,7 +2621,7 @@
                     <eval>DOESNTCONTAIN</eval>
                     <data>UR</data>
                 </crit>
-				<crit>
+                <crit>
                     <field>Info</field>
                     <eval>CONTAINS</eval>
                     <data>U</data>

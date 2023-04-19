@@ -1,6 +1,6 @@
-startrek1e	03-12-23
-plugins/startrek1e/version.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt	39771
-plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt	3177018
+startrek1e	04-19-23
+plugins/startrek1e/version.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt	40113
+plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt	3180056
 plugins/startrek1e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/uninstall.txt	258553
 plugins/startrek1e/plugininfo.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/plugininfo.txt	665647
 plugins/startrek1e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/formats.txt	485986
@@ -44,9 +44,9 @@ plugins/startrek1e/packs/firstcontact_pack.jpg	https://raw.githubusercontent.com
 plugins/startrek1e/packs/holodeckadventures_pack.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/holodeckadventures_pack.jpg	7904
 plugins/startrek1e/packs/mirrormirror_pack.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/mirrormirror_pack.jpg	-3126
 plugins/startrek1e/packs/otsd_box.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/otsd_box.jpg	12178
-plugins/startrek1e/packs/packdefinitions1.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions1.xml	4279889
-plugins/startrek1e/packs/packdefinitions2.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions2.xml	5545024
-plugins/startrek1e/packs/packdefinitions3.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions3.xml	2160153
+plugins/startrek1e/packs/packdefinitions1.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions1.xml	4292892
+plugins/startrek1e/packs/packdefinitions2.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions2.xml	8057022
+plugins/startrek1e/packs/packdefinitions3.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions3.xml	3320510
 plugins/startrek1e/packs/premiere_pack.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/premiere_pack.jpg	-1248
 plugins/startrek1e/packs/premiere_starter.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/premiere_starter.jpg	5795
 plugins/startrek1e/packs/q-continuum_pack.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/q-continuum_pack.jpg	-9857
@@ -65,8 +65,8 @@ plugins/startrek1e/packs/enhancedpremiere_starter_all.jpg	https://raw.githubuser
 plugins/startrek1e/packs/README.TXT	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/README.TXT	208436
 plugins/startrek1e/packs/theborg_pack.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/theborg_pack.jpg	-5581
 plugins/startrek1e/packs/thetroublewithtribbles_pack.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/thetroublewithtribbles_pack.jpg	-1918
-plugins/startrek1e/packs/packdefinitions4.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions4.xml	2050158
-plugins/startrek1e/packs/packdefinitions5.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions5.xml	3828780
+plugins/startrek1e/packs/packdefinitions4.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions4.xml	2961056
+plugins/startrek1e/packs/packdefinitions5.xml	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/packdefinitions5.xml	5519255
 plugins/startrek1e/packs/TNG_Kli.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/TNG_Kli.jpg	-4672
 plugins/startrek1e/packs/TNG_Fer.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/TNG_Fer.jpg	-18114
 plugins/startrek1e/packs/TNG_Fed.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/TNG_Fed.jpg	-5717
