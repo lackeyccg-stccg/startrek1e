@@ -1628,6 +1628,23 @@ NEW
 (Eberlems)
     ->Changed
         Packs
+        
+4.4.3
+-----
+(Eberlems)        
+    ->Changed
+        Persistent Individuality
+        Horga'hn
+        Writ of Accountability
+        Starbase 247
+        The Wake of the Borg
+        In the Pale Moonlight
+        Captured
+        Seven of Nine
+        I.K.C. Chang
+        Q's Tent
+        Q's Tent: Civil War
+        Workhorses of the Fleet
 
 ------------------------------
 Plugin former main maintainer - Scox
