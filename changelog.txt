@@ -1646,6 +1646,12 @@ NEW
         Q's Tent: Civil War
         Workhorses of the Fleet
 
+5.0.0
+-----
+(Eberlems)
+    ->Changed
+        Set OTF to Modern
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
