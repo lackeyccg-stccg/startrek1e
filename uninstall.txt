@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>230311</dateYYMMDD>
+<dateYYMMDD>230818</dateYYMMDD>
 <removepath>sets/playtest.txt</removepath>
 <removepath>sets/setimages/general/aaminmarritza.jpg</removepath>
 <removepath>sets/setimages/general/32-VP_theviceroy.jpg</removepath>
@@ -41,4 +41,15 @@
 <removepath>sets/setimages/general/297VP.jpg</removepath>
 <removepath>sets/setimages/general/plasmadynerelay.jpg</removepath>
 <removepath>sets/setimages/general/thetrois.jpg</removepath>
+<removepath>sets/setimages/general/SpaceTimePortalVP.jpg</removepath>
+<removepath>sets/setimages/general/QWho4.jpg</removepath>
+<removepath>sets/setimages/general/QWho5.jpg</removepath>
+<removepath>sets/setimages/general/otsdr6.jpg</removepath>
+<removepath>sets/setimages/general/pl9.jpg</removepath>
+<removepath>sets/setimages/general/pl11.jpg</removepath>
+<removepath>sets/setimages/general/nem12.jpg</removepath>
+<removepath>sets/setimages/general/genetronicreplicator.jpg</removepath>
+<removepath>sets/setimages/general/palortoffalientrader.jpg</removepath>
+<removepath>sets/setimages/general/spacetimeportal.jpg</removepath>
+
 </uninstall>

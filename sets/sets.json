@@ -558,5 +558,12 @@
     "abbr": "Nem",
     "code": "NEM",
     "virtual": true
+  },
+  {
+    "id": "244",
+    "name": "Ships of the Line",
+    "abbr": "SotL",
+    "code": "SotL",
+    "virtual": true
   }
 ]

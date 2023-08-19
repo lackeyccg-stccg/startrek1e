@@ -1651,6 +1651,21 @@ NEW
 (Eberlems)
     ->Changed
         Set OTF to Modern
+        
+5.0.1
+-----
+(Eberlems)
+    -->Add
+        Ships of the Line
+    ->Changed
+        Genetronic Replicator
+        Battle Stations: Sovereign Class
+        He Took Away My Pain!
+        Double Dumbass on You!
+        Palor Toff - Alien Trader
+        Space-Time Portal
+        Relentless
+        The Ultimate User
 
 ------------------------------
 Plugin former main maintainer - Scox

@@ -1,7 +1,7 @@
 <version>
-<lastupdateYYMMDD>230605</lastupdateYYMMDD>
+<lastupdateYYMMDD>230819</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/updatelist.txt</updateurl>
-<message>Plugin version 5.0.0 OTF to Modern change https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
+<message>Plugin version 5.0.1 Errata and Ships of the Line https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
 </version>
