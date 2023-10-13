@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>230818</dateYYMMDD>
+<dateYYMMDD>231013</dateYYMMDD>
 <removepath>sets/playtest.txt</removepath>
 <removepath>sets/setimages/general/aaminmarritza.jpg</removepath>
 <removepath>sets/setimages/general/32-VP_theviceroy.jpg</removepath>
@@ -51,5 +51,18 @@
 <removepath>sets/setimages/general/genetronicreplicator.jpg</removepath>
 <removepath>sets/setimages/general/palortoffalientrader.jpg</removepath>
 <removepath>sets/setimages/general/spacetimeportal.jpg</removepath>
+<removepath>sets/setimages/general/298VP.jpg</removepath>
+<removepath>sets/setimages/general/299VP.jpg</removepath>
+<removepath>sets/setimages/general/300VP.jpg</removepath>
+<removepath>sets/setimages/general/302VP.jpg</removepath>
+<removepath>sets/setimages/general/24clonemachine.jpg</removepath>
+<removepath>sets/setimages/general/nem23.jpg</removepath>
+<removepath>sets/setimages/general/interrogation.jpg</removepath>
+<removepath>sets/setimages/general/madred.jpg</removepath>
+<removepath>sets/setimages/general/temporalmicrowormhole.jpg</removepath>
+<removepath>sets/setimages/general/HMF2_10.jpg</removepath>
+<removepath>sets/setimages/general/TheFinalFrontier.jpg</removepath>
+<removepath>sets/setimages/general/torture.jpg</removepath>
+<removepath>sets/setimages/general/170VP.jpg</removepath>
 
 </uninstall>

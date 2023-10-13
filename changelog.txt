@@ -1667,6 +1667,22 @@ NEW
         Relentless
         The Ultimate User
 
+5.0.2
+-----
+(Eberlems)
+    ->Changed
+        Goran'Agar *VP
+        Gelnon *VP
+        O'Brien Founder *VP
+        Hanok *VP
+        Temporal Micro-Wormhole
+        Clone Machine
+        Madred
+        Interrogation
+        Torture
+        The Final Frontier
+        Escape
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
