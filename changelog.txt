@@ -1683,6 +1683,15 @@ NEW
         The Final Frontier
         Escape
 
+5.0.3
+-----
+(Eberlems)
+    ->Changed
+        Nebula
+        Prevent Military Escalation
+        Smoke Bomb
+        To Boldly Go        
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
