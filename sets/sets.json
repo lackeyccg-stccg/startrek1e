@@ -565,5 +565,19 @@
     "abbr": "SotL",
     "code": "SotL",
     "virtual": true
+  },
+  {
+    "id": "245",
+    "name": "Showdown: Four Lights",
+    "abbr": "SFL",
+    "code": "SFL",
+    "virtual": true
+  },
+  {
+    "id": "246",
+    "name": "Showdown: Four Lights Supplemental",
+    "abbr": "SFLS",
+    "code": "SFLS",
+    "virtual": true
   }
 ]

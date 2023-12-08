@@ -1692,6 +1692,13 @@ NEW
         Smoke Bomb
         To Boldly Go        
 
+5.0.4
+-----
+(Eberlems)
+    -->Add
+        Showdown: Four Lights
+        Showdown: Four Lights Supplemental
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
