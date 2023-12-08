@@ -1,5 +1,5 @@
 <version>
-<lastupdateYYMMDD>231119</lastupdateYYMMDD>
+<lastupdateYYMMDD>231208</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/updatelist.txt</updateurl>
