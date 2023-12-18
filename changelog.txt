@@ -1699,6 +1699,15 @@ NEW
         Showdown: Four Lights
         Showdown: Four Lights Supplemental
 
+5.0.5
+-----
+(Eberlems)
+    ->Changed
+        Showdown: Four Lights legal status
+        
+    -->Add
+        Showdown: Four Lights Decks
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se

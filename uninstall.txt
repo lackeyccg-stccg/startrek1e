@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>231118</dateYYMMDD>
+<dateYYMMDD>231217</dateYYMMDD>
 <removepath>sets/playtest.txt</removepath>
 <removepath>sets/setimages/general/aaminmarritza.jpg</removepath>
 <removepath>sets/setimages/general/32-VP_theviceroy.jpg</removepath>
@@ -68,4 +68,8 @@
 <removepath>sets/setimages/general/smokebomb.jpg</removepath>
 <removepath>sets/setimages/general/Cage16.jpg</removepath>
 <removepath>sets/setimages/general/engage_28.jpg</removepath>
+<removepath>sets/setimages/general/FullPlanetScan.jpg</removepath>
+<removepath>sets/setimages/general/Scan_B.jpg</removepath>
+<removepath>sets/setimages/general/bruntsshuttle.jpg</removepath>
+<removepath>sets/setimages/general/TheUltimateUser.jpg</removepath>
 </uninstall>
