@@ -1708,6 +1708,24 @@ NEW
     -->Add
         Showdown: Four Lights Decks
 
+5.0.6
+-----
+(Eberlems)
+    ->Changed
+        Commandeer Ship
+        Commandeer Ship (Voyager)
+        Commandeer Ship *VP
+        Prevent Military Escalation II
+        Prevent Military Escalation II (back)
+        Empok Nor
+        Empok Nor (back)
+        Cybernetics Expertise
+        Holoprogram: Cafe Des Artistes
+        Make a Difference Again
+        I've Been Waiting For You
+        Orb Experience
+        Study Divergent History
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se

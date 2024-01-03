@@ -36,7 +36,7 @@ Missions:
 1	Locate Terrorist Leader
 1	Study Xenophobic Tendencies
 1	Covert Incursion
-1	Prevent Military Escalation II (back)
+1	Prevent Military Escalation II
 1	Bioweapon Ruse
 Seed+Dil:
 1	Cardassian Trap

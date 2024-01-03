@@ -72,4 +72,7 @@
 <removepath>sets/setimages/general/Scan_B.jpg</removepath>
 <removepath>sets/setimages/general/bruntsshuttle.jpg</removepath>
 <removepath>sets/setimages/general/TheUltimateUser.jpg</removepath>
+<removepath>sets/setimages/general/commandeership.jpg</removepath>
+<removepath>sets/setimages/general/commandeershipvoy.jpg</removepath>
+<removepath>sets/setimages/general/181VP.jpg</removepath>
 </uninstall>
