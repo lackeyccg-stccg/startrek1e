@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>231217</dateYYMMDD>
+<dateYYMMDD>240218</dateYYMMDD>
 <removepath>sets/playtest.txt</removepath>
 <removepath>sets/setimages/general/aaminmarritza.jpg</removepath>
 <removepath>sets/setimages/general/32-VP_theviceroy.jpg</removepath>
@@ -75,4 +75,12 @@
 <removepath>sets/setimages/general/commandeership.jpg</removepath>
 <removepath>sets/setimages/general/commandeershipvoy.jpg</removepath>
 <removepath>sets/setimages/general/181VP.jpg</removepath>
+<removepath>sets/setimages/general/xx_5V.jpg</removepath>
+<removepath>sets/setimages/general/38ivebeenwaitingforyou.jpg</removepath>
+<removepath>sets/setimages/general/orbexperience.jpg</removepath>
+<removepath>sets/setimages/general/navigateplasmastorms.jpg</removepath>
+<removepath>sets/setimages/general/crossover_51.jpg</removepath>
+<removepath>sets/setimages/general/115sherlockholmes.jpg</removepath>
+<removepath>sets/setimages/general/breendisruptorburst.jpg</removepath>
+<removepath>sets/setimages/general/Bah_9.jpg</removepath>
 </uninstall>
