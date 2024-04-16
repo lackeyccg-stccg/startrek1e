@@ -1726,6 +1726,40 @@ NEW
         Orb Experience
         Study Divergent History
 
+5.0.8
+-----
+(Eberlems)
+    ->Changed
+        Holoprogram: Cafe Des Artistes
+        I've Been Waiting For You
+        Orb Experience
+        Navigate Plasma Storms
+        Study Divergent History
+        Sherlock Holmes
+        Breen Disruptor Burst
+        Ultimatum *VP
+        Professor Scott *VP
+        Confront Duplicate *VP
+    ->Add
+        O'Brien and Kira
+        O'Brien and Kira* *VP
+        Julian Bashir (Sanctuary)
+        Jadzia Dax (Sanctuary)
+        Gabriel Bell
+        Emergent Life-form *VP
+        In the Pale Moonlight *VP
+        Captured *VP
+        The Undiscovered Country *VP
+        Two of Nine *VP
+        Seven of Nine **VP
+        U.S.S. Pasteur *VP
+        I.K.S. Chang *VP
+        Persistent Individuality *VP
+        Battle Bridge Door: Auxiliary Control
+        So'wI' taH!
+        Research Rapid Rotation
+        Study Cultural Evolution
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
