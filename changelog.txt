@@ -1760,6 +1760,32 @@ NEW
         Research Rapid Rotation
         Study Cultural Evolution
 
+5.0.9
+-----
+(Eberlems)
+    ->Changed
+        Preserver Obelisk
+        Assign Mission Specialists
+        Assign Mission Specialists (Voyager)
+        Parallel Romance
+        Deep Space 9
+        Deep Space 9 (back)
+        Mirror Terok Nor
+        Mirror Terok Nor (back)
+        Empok Nor
+        Empok Nor (back)
+        Center of Authority
+        Greater Glory of Cardassia
+        I Miss This Office
+        The Vidiian Sodality
+        Vidiian Boarding Claw
+        Preparation
+        Shakaar Edon
+        Miles O'Brien
+        I.K.C. Negh'Var
+    ->Add
+        Lifesigns
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
