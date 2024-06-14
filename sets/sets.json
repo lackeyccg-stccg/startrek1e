@@ -579,5 +579,12 @@
     "abbr": "SFLS",
     "code": "SFLS",
     "virtual": true
+  },
+  {
+    "id": "249",
+    "name": "Lifesigns",
+    "abbr": "Ls",
+    "code": "Ls",
+    "virtual": true
   }
 ]
