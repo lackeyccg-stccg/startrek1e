@@ -1,7 +1,7 @@
-startrek1e	06-14-24
-plugins/startrek1e/version.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt	41394
-plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt	3408809
-plugins/startrek1e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/uninstall.txt	730242
+startrek1e	07-12-24
+plugins/startrek1e/version.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt	39670
+plugins/startrek1e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt	3438766
+plugins/startrek1e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/uninstall.txt	1009261
 plugins/startrek1e/plugininfo.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/plugininfo.txt	665647
 plugins/startrek1e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/formats.txt	698169
 plugins/startrek1e/defaultchat.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/defaultchat.txt	25335
@@ -80,8 +80,8 @@ plugins/startrek1e/packs/DS9_Dom.jpg	https://raw.githubusercontent.com/eberlems/
 plugins/startrek1e/packs/Mirror_KCA.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/Mirror_KCA.jpg	5712
 plugins/startrek1e/packs/Mirror_TE.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/Mirror_TE.jpg	74042
 plugins/startrek1e/packs/Mirror_TEOS.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/packs/Mirror_TEOS.jpg	88418
-plugins/startrek1e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Physical.txt	10899338
-plugins/startrek1e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Virtual.txt	97041984
+plugins/startrek1e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Physical.txt	10897609
+plugins/startrek1e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Virtual.txt	97054975
 plugins/startrek1e/sets/Overlays.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/Overlays.txt	87493
 plugins/startrek1e/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/setimages/general/cardback.jpg	222055
 plugins/startrek1e/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/eberlems/startrek1e/playable/sets/setimages/general/spawned.jpg	236105

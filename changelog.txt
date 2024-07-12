@@ -1786,6 +1786,27 @@ NEW
     ->Add
         Lifesigns
 
+5.1.0
+-----
+(Eberlems)
+    ->Changed
+        Abduction Plot
+        Assist Damaged Vessel
+        Assist Survivors
+        Bajoran Raider
+        Borg Probe
+        Borg Scout Vessel
+        Full Complement of Shuttles
+        I.K.C. T'Ong
+        Investigate Incursion
+        K'Temoc
+        Legal Appeal
+        Recruit Ally
+        Salvage Borg Ship
+        Shuttlepod Two
+        Sphere Encounter
+        Type 18 Shuttlepod
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se

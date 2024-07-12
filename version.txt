@@ -1,7 +1,7 @@
 <version>
-<lastupdateYYMMDD>240614</lastupdateYYMMDD>
+<lastupdateYYMMDD>240712</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/updatelist.txt</updateurl>
-<message>Plugin version 5.0.9 Errata February and Lifesigns https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
+<message>Plugin version 5.1.0 Errata July https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
 </version>
