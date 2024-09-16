@@ -1,0 +1,102 @@
+1	Sam Lavelle
+1	Smoke Bomb
+1	Wesley Crusher
+2	Let's See What's Out There
+1	Barron
+1	Daniel Kwan
+1	Davies
+1	Lian T'su
+1	Lopez
+1	Martin
+1	Seth Mendoza
+1	Assign Mission Specialists
+1	Sito Jaxa
+1	Spock
+1	Joret Dal*
+1	Hidden Fighter
+2	Herbert
+1	Lieutenant Ballard
+1	Ro Laren (The Maquis)*
+2	A Second Chance at Life
+1	Katherine Pulaski (Metamorphosis)
+1	Anhaica
+1	Montgomery Scott
+1	Beverly Crusher (Showdown: Four Lights)
+1	Data (Showdown: Four Lights)
+1	Deanna Troi (Showdown: Four Lights)
+1	Edward Jellico (Showdown: Four Lights)
+2	Gates
+1	William T. Riker (Showdown: Four Lights)
+1	Worf (Showdown: Four Lights)
+1	U.S.S. Cairo
+1	Admiral Kennelly*
+1	Andro*
+2	Asteroid Sanctuary
+1	Darian Wallace
+1	Dr. Selar
+1	Geordi La Forge
+1	Taitt
+1	Toby Russell
+1	U.S.S. Enterprise
+1	U.S.S. Nebula
+Missions:
+1	Eliminate Virus (Homefront IV)
+1	Investigate Maquis Activity
+1	Study Planetary Devastation
+1	Mine Enemy Fleet
+1	Repair Sabotage
+1	Secure Covert Transportation
+Seed+Dil:
+1	Assign Support Personnel
+1	In the Pale Moonlight
+1	Defend Homeworld
+1	Q's Tent
+1	Attention All Hands
+1	Continuing Mission *VP
+1	Alternate Universe Door
+1	Assign Mission Specialists
+1	Protestations of Innocence
+1	Lack of Preparation
+1	Federation Outpost
+1	Rules of Obedience
+1	Faux Pas
+1	Quantum Leap
+1	Misinterpreted History
+1	Thasian Powers
+1	Eminian Disintegration Protocol
+1	Experience Bij!
+1	M-113 Creature
+1	Shuttle Crash
+1	The Squire's Rules
+1	Scientific Method *VP
+1	Spacedoor
+1	Friendly Fire *VP
+1	Row, Row, Row your Boat
+1	Close That Door!
+1	Dark Matter Pockets
+1	Know Your Enemy
+1	Dispatch Metagenic Experts
+1	Chula: The Door
+QsTent:
+1	Lower Decks
+1	Starfleet Type II Phaser
+1	Get It Done
+1	Establish Landing Protocols
+1	Escape Pod
+1	Alyssa Ogawa
+1	Get Him Cleaned Up
+1	Federation PADD
+1	Gaps in Normal Space
+1	Spacedock
+1	Benjamin Maxwell
+1	Type VI Shuttlecraft
+1	U.S.S. Nebula
+Ref:
+Dyson:
+Flash:
+Tactics:
+Tribbles:
+Sites:
+Outside:
+1	Finest Crew in the Fleet
+Aside:

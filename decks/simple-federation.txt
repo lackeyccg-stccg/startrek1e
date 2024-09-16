@@ -1,6 +1,6 @@
-1	THE TRAVELER: TRANSCENDENCE
-2	KIVAS FAJO - COLLECTOR
-1	HANDSHAKE
+1	The Traveler: Transcendence
+2	Kivas Fajo - Collector
+1	Handshake
 1	Future Enterprise
 1	U.S.S. Enterprise-A
 1	Admiral Cartwright
@@ -14,49 +14,49 @@
 1	Spock
 1	Geordi La Forge
 1	Data
-1	Mr. Scott *TMP
+1	Mr. Scott (The Motion Pictures)
 1	Dr. McCoy
 1	Jadzia Dax
 1	Kira**
-1	STARFLEET TYPE III PHASER RIFLE
-1	Deanna Troi *FC
+1	Starfleet Type III Phaser Rifle
+1	Deanna Troi (First Contact)
 1	Altovar
 1	Carol Marcus
 1	John Harriman
 1	Tam Elbrun
 1	Lt. Bailey
 1	Lightner
-1	REGENERATE
+1	Regenerate
 Missions:
-1	ESPIONAGE MISSION
-1	FIRST CONTACT
-1	INVESTIGATE MASSACRE
-1	REPAIR MISSION
-1	STUDY "HOLE IN SPACE"
-1	EXPLORE DYSON SPHERE
+1	Espionage Mission
+1	First Contact
+1	Investigate Massacre
+1	Repair Mission
+1	Study "Hole in Space"
+1	Explore Dyson Sphere
 Seed+Dil:
-1	ALTERNATE UNIVERSE DOOR
+1	Alternate Universe Door
 1	Federation Outpost
-1	Office of The President
-1	HQ: SECURE HOMEWORLD
-1	MIRROR IMAGE
-1	HANONIAN LAND EEL
-1	DENEVAN NEURAL PARASITES
-1	PRIMITIVE CULTURE
-1	ANKARI "SPIRITS"
-1	HULL BREACH
-1	MAGLOCK
-1	EDO PROBE
-1	FRIENDLY FIRE
-1	DEAD END
-1	HORTA
-1	GOD
-1	EXECUTIVE AUTHORIZATION
-1	V'GER
-1	THE CLOUD
-1	NAVIGATIONAL HAZARDS *VOY
-1	UNSCIENTIFIC METHOD
-1	A FAST SHIP WOULD BE NICE
-1	SCIENTIFIC METHOD
+1	Office of the President
+1	HQ: Secure Homeworld
+1	Mirror Image
+1	Hanonian Land Eel
+1	Denevan Neural Parasites
+1	Primitive Culture
+1	Ankari "Spirits"
+1	Hull Breach
+1	Maglock
+1	Edo Probe
+1	Friendly Fire
+1	Dead End
+1	Horta
+1	"God"
+1	Executive Authorization
+1	V'Ger
+1	The Cloud
+1	Navigational Hazards (Voyager)
+1	Unscientific Method
+1	A Fast Ship Would Be Nice
+1	Scientific Method
 QsTent:
 Aside:

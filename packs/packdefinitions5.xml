@@ -1,1299 +1,3321 @@
 <packdefinitions version="1.0">
-<pack>
-	<packtitle>Federation/Bajoran DS9 Starter</packtitle>
-	<packimage>DS9_Fed</packimage>
-	<packformat>Standard</packformat>
-	<packkind>Sealed Deck</packkind>
-	<packdoubles>yes</packdoubles>
-	<chance>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Raktajino</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Call for Reinforcements</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Wormhole Navigation Schematic</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Anara</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Beyor</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Deputy Quark</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dohlem</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Jaro Essa</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Minister Rozahn</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Minister Toran</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ranjen Koral</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Vedek Sorad</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Benjamin Sisko (Emissary)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Enrique Muniz</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Gideon Seyetik</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Hoya</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Jace Michaels</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Jadzia Dax (Emissary)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Julian Bashir (Emissary)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Keogh</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Paulson</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Sarita Carson</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>E'Tyshra</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Sharat</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ty Kajada</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Assault Vessel</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>U.S.S. Orinoco</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Jake Sisko (Emissary)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Access Relay Station (Homefront IV)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Reopen Trade Discussions</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Search and Rescue (Homefront IV)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Security Briefing</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Survey Star System (Homefront IV)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Verify Legendary Journey</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Angry Mob</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Back Room Dealings</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Brief Romance</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chula: Unfortunate Roll</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dangerous Climb</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dignitaries and Witnesses</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Flaxian Assassin</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Flim-Flam Artist</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Fly by the Seat of your Pants</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Hard Time</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Picking Up the Pieces</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Precision Piloting</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Socializing with the Staff</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>The Three Vipers</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Too Many Chiefs</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>The First Stable Wormhole</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Treaty: Federation/Bajoran</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Bajoran Outpost</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>New Arrivals</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Reshape the Quadrant</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Assign Support Personnel</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Bajoran Wormhole</data></crit>
-	</kind>
-</chance>
-</pack>
-</packdefinitions>
-<packdefinitions version="1.0">
-<pack>
-	<packtitle>Cardassian DS9 Starter</packtitle>
-	<packimage>DS9_Car</packimage>
-	<packformat>Standard</packformat>
-	<packkind>Sealed Deck</packkind>
-	<packdoubles>yes</packdoubles>
-	<chance>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Raktajino</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Call for Reinforcements</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ari</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Belva</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Borad</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Danar (Emissary)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Darhe'el</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dukat (Emissary)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Evek (Homefront II)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Gilora Rejal</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Hogue</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Jasad (Emissary)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Jerax</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Kovat</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Oran</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Plain, Simple Garak</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Quark (Emissary)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Rekelen</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Rogesh</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Tadim</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Toran (Homefront II)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>E'Tyshra</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Sharat</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ty Kajada</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Galor</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Patrol Ship</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Acquire Illicit Explosives (Homefront IV)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Investigate Maquis Activity</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Search for Survivors</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Search for Weapons</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Verify Evidence (Homefront IV)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Verify Legendary Journey</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Arms Deal</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Back Room Dealings</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chula: The Dice</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Cultural Differences</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dangerous Climb</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dignitaries and Witnesses</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Encased in Crystal</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ferengi Locator Bomb</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Flim-Flam Artist</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Forsaken</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Hard Time</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>More of Your Kind</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Picking Up the Pieces</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Secret Identity</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Unlikely Pair</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>The First Stable Wormhole</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Cardassian Outpost</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>New Arrivals</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Reshape the Quadrant</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Assign Support Personnel</data></crit>
-	</kind>
-</chance>
-</pack>
-</packdefinitions>
-<packdefinitions version="1.0">
-<pack>
-	<packtitle>Maquis DS9 Starter</packtitle>
-	<packimage>DS9_Maq</packimage>
-	<packformat>Standard</packformat>
-	<packkind>Sealed Deck</packkind>
-	<packdoubles>yes</packdoubles>
-	<chance>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Raktajino</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Call for Reinforcements</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Cal Hudson</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Michael Eddington</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Niles</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Tamal</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Thomas Riker (The Maquis)</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Amaros</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Bill Samuels</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Brathaw</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>E'Tyshra</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Kalita</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Kasidy Yates (The Maquis)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Kobb</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>M'Vil</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Quark (The Maquis)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Rebecca Sullivan</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Reide</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Sakonna</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Sark</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Shankar</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Sharat</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ty Kajada</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Maquis Raider</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Stolen Defiant</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Supply Terrorists</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Expose Secret Buildup</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Divert Attention</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Search and Rescue (Homefront IV)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Study Badlands (Homefront IV)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Surgery Under Fire</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>A Pleasant Surprise</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Back Room Dealings</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Blended (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dangerous Climb</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dignitaries and Witnesses</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dramatis Personae</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Flim-Flam Artist</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Hard Time</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Maquis Vendetta</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Oops!</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Palukoo</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Picking Up the Pieces</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Recurring Injury</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Sabotaged Plasma Conduit</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Scapegoat</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>The First Stable Wormhole</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Federation Outpost</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>New Arrivals</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Reshape the Quadrant</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Assign Support Personnel</data></crit>
-	</kind>
-	</kind>
-</chance>
-</pack>
-</packdefinitions>
-<packdefinitions version="1.0">
-<pack>
-	<packtitle>Dominion DS9 Starter</packtitle>
-	<packimage>DS9_Dom</packimage>
-	<packformat>Standard</packformat>
-	<packkind>Sealed Deck</packkind>
-	<packdoubles>yes</packdoubles>
-	<chance>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Raktajino</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Call for Reinforcements</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Wormhole Navigation Schematic</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Administrator Weyoun</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Administrator Kilana</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Amar'itak</data></crit>
-	</kind>
-	<kind><qty>3</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Eris</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Founder</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Founder Leader (Homefront II)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Guna'shan</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Hanok</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Inglatu</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Jiten'parekh</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Odo (Homefront II)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ornithar</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Pimoo</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Retana'var</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Science Advisor Borath</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Varen'agor</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Zyree</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Tosk</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Jem'Hadar Troopship</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Karemman Vessel</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Deliver Message (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Expand Karemman Operations</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Host Tournament</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Internment Operations</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Probe Alpha Quadrant System</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Recover Prisoner</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Back Room Dealings</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Close Call</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dangerous Climb</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dead End (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Difficult Disposal</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dignitaries and Witnesses</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Flim-Flam Artist</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Hard Time</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Lockbox</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Nanobiogenic Fugitives</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Picking Up the Pieces</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Recurring Injury</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Seismic Quake</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Subspace Accident</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>The Three Vipers</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>The First Stable Wormhole</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Internment Camp 371</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>New Arrivals</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Reshape the Quadrant</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Assign Support Personnel</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Bajoran Wormhole</data></crit>
-	</kind>
-	</chance>
-</pack>
-</packdefinitions>
-<packdefinitions version="1.0">
-<pack>
-	<packtitle>Rebellion Mirror Starter</packtitle>
-	<packimage>Mirror_TE</packimage>
-	<packformat>Standard</packformat>
-	<packkind>Sealed Deck</packkind>
-	<packdoubles>yes</packdoubles>
-	<chance>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Mirror Dagger</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Raktajino (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Call for Reinforcements (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Wormhole Navigation Schematic</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>0413-Theta</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Errol</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>The Art of Diplomacy</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Reap All the Glory</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Marauder (Crossover)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>McKay</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ahanu</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Al Vermont</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Banya</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Captain Bashir</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Captain Dax</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Mr. Andrews</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Mr. Sisko (Crossover)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Mr. Tuvok (Shades of Gray)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Professor Sisko (Crossover)</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Sarah Shaw</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Smiley</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Stoichkov</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Mr. Rom</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Guron</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Mr. Sisko's Interceptor</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Rebel Interceptor</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Enlistment Drive</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Test Warship</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Disrupt Alliance</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Examine Disappearance Site</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Study Rare Phenomenon</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>The Siege of AR-558</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>A Bad End</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>A Good Day to Lie (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ancient Computer (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Climbing the Ranks</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dangerous Climb</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dignitaries and Witnesses</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Don't Let It End This Way</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ensure Their Silence</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Flim-Flam Artist</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>History Repeats Itself</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>It's Green</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Justice or Vengeance</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Occupational Hazards</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Picking Up the Pieces</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Unorthodox Preservation</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>The First Stable Wormhole</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>New Arrivals (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Reshape the Quadrant (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Assign Support Personnel</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Terran Outpost</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Emblem of the Empire</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Bajoran Wormhole</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Bajoran Wormhole: Mirror Universe</data></crit>
-	</kind>	
-	</chance>
-</pack>
-</packdefinitions>
-<packdefinitions version="1.0">
-<pack>
-	<packtitle>Alliance Mirror Starter</packtitle>
-	<packimage>Mirror_KCA</packimage>
-	<packformat>Standard</packformat>
-	<packkind>Sealed Deck</packkind>
-	<packdoubles>yes</packdoubles>
-	<chance>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Mirror Dagger</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Raktajino (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Call for Reinforcements (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Wormhole Navigation Schematic</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Historic Coming Together</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Overseer Odo</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Aramax</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Merdan</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Overseer Mardel</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Security Chief Garak</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Trepar</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Captain B'Etor</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Captain Lursa</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Nu'Tal</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Korvek</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Regent Worf (Crossover)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Rukor</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Telok</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Vartoq</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>0413-Theta</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Errol</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Marauder (Crossover)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Professor Sisko</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Selot</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Smiley (Crossover)</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Alliance Freighter</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ya'Vang</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Conduct Crossover Operation</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Enlistment Drive</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Navigate Argolis Cluster</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Search for Rebels (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Signal for Rescue</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Test Warship</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>A Bad End</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>A Good Day to Lie (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ancient Computer (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Climbing the Ranks</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dangerous Climb</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dignitaries and Witnesses</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Don't Let It End This Way</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ensure Their Silence</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Flim-Flam Artist</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>History Repeats Itself</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>It's Green</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Justice or Vengeance</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Occupational Hazards</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Picking Up the Pieces</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Unorthodox Preservation</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>The First Stable Wormhole</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Treaty: The Alliance</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Alliance Outpost</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>New Arrivals (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Reshape the Quadrant (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>The Art of Diplomacy</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Assign Support Personnel</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Bajoran Wormhole</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Bajoran Wormhole: Mirror Universe</data></crit>
-	</kind>
-	</chance>
-</pack>
-</packdefinitions>
-<packdefinitions version="1.0">
-<pack>
-	<packtitle>Terran Empire OS Starter</packtitle>
-	<packimage>Mirror_TEOS</packimage>
-	<packformat>Standard</packformat>
-	<packkind>Sealed Deck</packkind>
-	<packdoubles>yes</packdoubles>
-	<chance>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Mirror Dagger</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Raktajino (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Agony Booth</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Wormhole Navigation Schematic</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Reap All the Glory</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chief Engineer Scott</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chief Navigator Chekov</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chief Surgeon McCoy</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Comm Officer Uhura</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Crewman Bredahl</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Crewman Peart</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Crewman Wilson</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ensign Caggiano</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ensign Chagwiza</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ensign Davis</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ensign Gaffney</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ensign Kjolholm</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Farrell</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>First Officer Spock</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Haadok</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>James Tiberius Kirk</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Marlena Moreau</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Security Chief Sulu</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Transporter Chief Kyle</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Minister Tharn</data></crit>
-	</kind>
-	<kind><qty>3</qty>
-		<crit><field>Name</field><eval>IS</eval><data>I.S.S. Constitution</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Conduct Crossover Operation</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Enlistment Drive</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Historical Research</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Mine Dilithium</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Secure Supply Lines</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Study Rare Phenomenon</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>A Bad End</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>A Good Day to Lie (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ancient Computer (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Chula: The Chandra (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Climbing the Ranks</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dangerous Climb</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Dignitaries and Witnesses</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Don't Let It End This Way</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Ensure Their Silence</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Flim-Flam Artist</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Friendly Fire (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>History Repeats Itself</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>It's Green</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Justice or Vengeance</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Maglock (Homefront)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Occupational Hazards</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Picking Up the Pieces</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Unorthodox Preservation</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Alternate Universe Door (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Temporal Micro-Wormhole (Homefront II)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>The First Stable Wormhole</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Terran Outpost</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Call for Reinforcements (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Emblem of the Empire</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>New Arrivals (Homefront VI)</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>The Art of Diplomacy</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Assign Support Personnel</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Fear Will Keep Them in Line</data></crit>
-	</kind>
-	<kind><qty>2</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Bajoran Wormhole</data></crit>
-	</kind>
-	<kind><qty>1</qty>
-		<crit><field>Name</field><eval>IS</eval><data>Bajoran Wormhole: Mirror Universe</data></crit>
-	</kind>
-	</chance>
-</pack>
+    <pack>
+        <packtitle>Federation/Bajoran DS9 Starter</packtitle>
+        <packimage>DS9_Fed</packimage>
+        <packformat>Standard</packformat>
+        <packkind>Sealed Deck</packkind>
+        <packdoubles>yes</packdoubles>
+        <chance>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Raktajino</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Call for Reinforcements</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Wormhole Navigation Schematic</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Anara</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Beyor</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Deputy Quark</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dohlem</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Jaro Essa</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Minister Rozahn</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Minister Toran</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ranjen Koral</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Vedek Sorad</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Benjamin Sisko (Emissary)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Enrique Muniz</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Gideon Seyetik</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Hoya</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Jace Michaels</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Jadzia Dax (Emissary)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Julian Bashir (Emissary)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Keogh</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Paulson</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Sarita Carson</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>E'Tyshra</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Sharat</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ty Kajada</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Assault Vessel</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>U.S.S. Orinoco</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Jake Sisko (Emissary)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Access Relay Station (Homefront IV)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Reopen Trade Discussions</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Search and Rescue (Homefront IV)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Security Briefing</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Survey Star System (Homefront IV)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Verify Legendary Journey</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Angry Mob</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Back Room Dealings</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Brief Romance</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Chula: The Chandra</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Chula: Unfortunate Roll</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dangerous Climb</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dignitaries and Witnesses</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Flaxian Assassin</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Flim-Flam Artist</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Fly by the Seat of your Pants</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Friendly Fire</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Hard Time</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Maglock</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Picking Up the Pieces</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Precision Piloting</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Socializing with the Staff</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>The Three Vipers</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Too Many Chiefs</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Temporal Micro-Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>The First Stable Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Treaty: Federation/Bajoran</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Bajoran Outpost</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>New Arrivals</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Reshape the Quadrant</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Assign Support Personnel</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Bajoran Wormhole</data>
+                </crit>
+            </kind>
+        </chance>
+    </pack>
+    <pack>
+        <packtitle>Cardassian DS9 Starter</packtitle>
+        <packimage>DS9_Car</packimage>
+        <packformat>Standard</packformat>
+        <packkind>Sealed Deck</packkind>
+        <packdoubles>yes</packdoubles>
+        <chance>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Raktajino</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Call for Reinforcements</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ari</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Belva</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Borad</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Danar (Emissary)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Darhe'el</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dukat (Emissary)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Evek (Homefront II)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Gilora Rejal</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Hogue</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Jasad (Emissary)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Jerax</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Kovat</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Oran</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Plain, Simple Garak</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Quark (Emissary)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Rekelen</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Rogesh</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Tadim</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Toran (Homefront II)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>E'Tyshra</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Sharat</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ty Kajada</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Galor</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Patrol Ship</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Acquire Illicit Explosives (Homefront IV)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Investigate Maquis Activity</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Search for Survivors</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Search for Weapons</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Verify Evidence (Homefront IV)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Verify Legendary Journey</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Arms Deal</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Back Room Dealings</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Chula: The Chandra</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Chula: The Dice</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Cultural Differences</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dangerous Climb</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dignitaries and Witnesses</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Encased in Crystal</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ferengi Locator Bomb</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Flim-Flam Artist</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Forsaken</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Friendly Fire</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Hard Time</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Maglock</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>More of Your Kind</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Picking Up the Pieces</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Secret Identity</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Unlikely Pair</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Temporal Micro-Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>The First Stable Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Cardassian Outpost</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>New Arrivals</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Reshape the Quadrant</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Assign Support Personnel</data>
+                </crit>
+            </kind>
+        </chance>
+    </pack>
+    <pack>
+        <packtitle>Maquis DS9 Starter</packtitle>
+        <packimage>DS9_Maq</packimage>
+        <packformat>Standard</packformat>
+        <packkind>Sealed Deck</packkind>
+        <packdoubles>yes</packdoubles>
+        <chance>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Raktajino</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Call for Reinforcements</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Cal Hudson</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Michael Eddington</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Niles</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Tamal</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Thomas Riker (The Maquis)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Amaros</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Bill Samuels</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Brathaw</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>E'Tyshra</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Kalita</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Kasidy Yates (The Maquis)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Kobb</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>M'Vil</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Quark (The Maquis)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Rebecca Sullivan</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Reide</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Sakonna</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Sark</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Shankar</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Sharat</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ty Kajada</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Maquis Raider</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Stolen Defiant</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Supply Terrorists</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Expose Secret Buildup</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Divert Attention</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Search and Rescue (Homefront IV)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Study Badlands (Homefront IV)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Surgery Under Fire</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>A Pleasant Surprise</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Back Room Dealings</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Blended</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Chula: The Chandra</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dangerous Climb</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dignitaries and Witnesses</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dramatis Personae</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Flim-Flam Artist</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Friendly Fire</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Hard Time</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Maglock</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Maquis Vendetta</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Oops!</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Palukoo</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Picking Up the Pieces</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Recurring Injury</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Sabotaged Plasma Conduit</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Scapegoat</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Temporal Micro-Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>The First Stable Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Federation Outpost</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>New Arrivals</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Reshape the Quadrant</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Assign Support Personnel</data>
+                </crit>
+            </kind>
+        </chance>
+    </pack>
+    <pack>
+        <packtitle>Dominion DS9 Starter</packtitle>
+        <packimage>DS9_Dom</packimage>
+        <packformat>Standard</packformat>
+        <packkind>Sealed Deck</packkind>
+        <packdoubles>yes</packdoubles>
+        <chance>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Raktajino</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Call for Reinforcements</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Wormhole Navigation Schematic</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Administrator Weyoun</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Administrator Kilana</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Amar'itak</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>3</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Eris</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Founder</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Founder Leader</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Guna'shan</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Hanok</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Inglatu</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Jiten'parekh</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Odo (Homefront II)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ornithar</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Pimoo</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Retana'var</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Science Advisor Borath</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Varen'agor</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Zyree</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Tosk</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Jem'Hadar Troopship</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Karemman Vessel</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Deliver Message</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Expand Karemman Operations</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Host Tournament</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Internment Operations</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Probe Alpha Quadrant System</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Recover Prisoner</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Back Room Dealings</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Chula: The Chandra</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Close Call</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dangerous Climb</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dead End</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Difficult Disposal</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dignitaries and Witnesses</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Flim-Flam Artist</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Friendly Fire</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Hard Time</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Lockbox</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Maglock</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Nanobiogenic Fugitives</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Picking Up the Pieces</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Recurring Injury</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Seismic Quake</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Subspace Accident</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>The Three Vipers</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Temporal Micro-Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>The First Stable Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Internment Camp 371</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>New Arrivals</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Reshape the Quadrant</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Assign Support Personnel</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Bajoran Wormhole</data>
+                </crit>
+            </kind>
+        </chance>
+    </pack>
+    <pack>
+        <packtitle>Rebellion Mirror Starter</packtitle>
+        <packimage>Mirror_TE</packimage>
+        <packformat>Standard</packformat>
+        <packkind>Sealed Deck</packkind>
+        <packdoubles>yes</packdoubles>
+        <chance>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Mirror Dagger</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Raktajino</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Call for Reinforcements</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Wormhole Navigation Schematic</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>0413-Theta</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Errol</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>The Art of Diplomacy</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Reap All the Glory</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Marauder (Crossover)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>McKay</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ahanu</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Al Vermont</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Banya</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Captain Bashir</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Captain Dax</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Mr. Andrews</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Mr. Sisko (Crossover)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Mr. Tuvok (Shades of Gray)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Professor Sisko (Crossover)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Sarah Shaw</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Smiley</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Stoichkov</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Mr. Rom</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Guron</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Mr. Sisko's Interceptor</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Rebel Interceptor</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Enlistment Drive</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Test Warship</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Disrupt Alliance</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Examine Disappearance Site</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Study Rare Phenomenon</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>The Siege of AR-558</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>A Bad End</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>A Good Day to Lie</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ancient Computer</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Chula: The Chandra</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Climbing the Ranks</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dangerous Climb</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dignitaries and Witnesses</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Don't Let It End This Way</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ensure Their Silence</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Flim-Flam Artist</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Friendly Fire</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>History Repeats Itself</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>It's Green</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Justice or Vengeance</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Maglock</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Occupational Hazards</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Picking Up the Pieces</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Unorthodox Preservation</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Temporal Micro-Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>The First Stable Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>New Arrivals</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Reshape the Quadrant</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Assign Support Personnel</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Terran Outpost</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Emblem of the Empire</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Bajoran Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Bajoran Wormhole: Mirror Universe</data>
+                </crit>
+            </kind>
+        </chance>
+    </pack>
+    <pack>
+        <packtitle>Alliance Mirror Starter</packtitle>
+        <packimage>Mirror_KCA</packimage>
+        <packformat>Standard</packformat>
+        <packkind>Sealed Deck</packkind>
+        <packdoubles>yes</packdoubles>
+        <chance>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Mirror Dagger</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Raktajino</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Call for Reinforcements</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Wormhole Navigation Schematic</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Historic Coming Together</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Overseer Odo</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Aramax</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Merdan</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Overseer Mardel</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Security Chief Garak</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Trepar</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Captain B'Etor</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Captain Lursa</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Nu'Tal</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Korvek</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Regent Worf (Crossover)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Rukor</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Telok</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Vartoq</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>0413-Theta</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Errol</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Marauder (Crossover)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Professor Sisko</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Selot</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Smiley (Crossover)</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Alliance Freighter</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ya'Vang</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Conduct Crossover Operation</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Enlistment Drive</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Navigate Argolis Cluster</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Search for Rebels</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Signal for Rescue</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Test Warship</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>A Bad End</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>A Good Day to Lie</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ancient Computer</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Chula: The Chandra</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Climbing the Ranks</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dangerous Climb</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dignitaries and Witnesses</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Don't Let It End This Way</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ensure Their Silence</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Flim-Flam Artist</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Friendly Fire</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>History Repeats Itself</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>It's Green</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Justice or Vengeance</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Maglock</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Occupational Hazards</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Picking Up the Pieces</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Unorthodox Preservation</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Temporal Micro-Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>The First Stable Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Treaty: The Alliance</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Alliance Outpost</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>New Arrivals</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Reshape the Quadrant</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>The Art of Diplomacy</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Assign Support Personnel</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Bajoran Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Bajoran Wormhole: Mirror Universe</data>
+                </crit>
+            </kind>
+        </chance>
+    </pack>
+    <pack>
+        <packtitle>Terran Empire OS Starter</packtitle>
+        <packimage>Mirror_TEOS</packimage>
+        <packformat>Standard</packformat>
+        <packkind>Sealed Deck</packkind>
+        <packdoubles>yes</packdoubles>
+        <chance>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Mirror Dagger</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Raktajino</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Agony Booth</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Wormhole Navigation Schematic</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Reap All the Glory</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Chief Engineer Scott</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Chief Navigator Chekov</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Chief Surgeon McCoy</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Comm Officer Uhura</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Crewman Bredahl</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Crewman Peart</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Crewman Wilson</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ensign Caggiano</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ensign Chagwiza</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ensign Davis</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ensign Gaffney</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ensign Kjolholm</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Farrell</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>First Officer Spock</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Haadok</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>James Tiberius Kirk</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Marlena Moreau</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Security Chief Sulu</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Transporter Chief Kyle</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Minister Tharn</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>3</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>I.S.S. Constitution</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Conduct Crossover Operation</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Enlistment Drive</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Historical Research</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Mine Dilithium</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Secure Supply Lines</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Study Rare Phenomenon</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>A Bad End</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>A Good Day to Lie</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ancient Computer</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Chula: The Chandra</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Climbing the Ranks</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dangerous Climb</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Dignitaries and Witnesses</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Don't Let It End This Way</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Ensure Their Silence</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Flim-Flam Artist</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Friendly Fire</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>History Repeats Itself</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>It's Green</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Justice or Vengeance</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Maglock</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Occupational Hazards</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Picking Up the Pieces</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Unorthodox Preservation</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Alternate Universe Door</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Temporal Micro-Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>The First Stable Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Terran Outpost</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Call for Reinforcements</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Emblem of the Empire</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>New Arrivals</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>The Art of Diplomacy</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Assign Support Personnel</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Fear Will Keep Them in Line</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Bajoran Wormhole</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>Name</field>
+                    <eval>IS</eval>
+                    <data>Bajoran Wormhole: Mirror Universe</data>
+                </crit>
+            </kind>
+        </chance>
+    </pack>
 </packdefinitions>
