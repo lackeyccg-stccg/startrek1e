@@ -586,5 +586,12 @@
     "abbr": "Ls",
     "code": "Ls",
     "virtual": true
+  },
+  {
+    "id": "251",
+    "name": "Alternate Universe: Twilight",
+    "abbr": "AUT",
+    "code": "AUT",
+    "virtual": true
   }
 ]

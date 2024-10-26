@@ -1807,6 +1807,25 @@ NEW
         Sphere Encounter
         Type 18 Shuttlepod
 
+5.1.1
+-----
+(Eberlems)
+    ->Add
+        Alternate Universe: Twilight
+        Talosian Trial *VP
+        Ferengi Conference *VP
+        Gaila *VP
+        The Trois *VP
+        The Trois* *VP
+        Par Lenor *VP
+    ->Changed
+        Oof!
+        Centurion Kirk
+        Odo (Dogs of War) *VP
+        Odo (Dogs of War)* *VP
+        Odo (Dogs of War)+ *VP
+        Halkan Council
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
