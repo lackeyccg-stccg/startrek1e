@@ -1,7 +1,7 @@
 <version>
-<lastupdateYYMMDD>241026</lastupdateYYMMDD>
+<lastupdateYYMMDD>241103</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/updatelist.txt</updateurl>
-<message>Plugin version 5.1.1 Alternate Universe: Twilight https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
+<message>Plugin version 5.1.2 Alternate Universe: Twilight legal https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
 </version>

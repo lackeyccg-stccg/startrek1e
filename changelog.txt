@@ -1826,6 +1826,12 @@ NEW
         Odo (Dogs of War)+ *VP
         Halkan Council
 
+5.1.2
+-----
+(Eberlems)
+    ->Changed
+        Alternate Universe: Twilight
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
