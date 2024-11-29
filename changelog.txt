@@ -1,4 +1,4 @@
-Star Trek CCG 1E Lackey Plugin
+﻿﻿Star Trek CCG 1E Lackey Plugin
 CHANGE LOG
 -------------------------------
 
@@ -1112,8 +1112,731 @@ NEW
 
 CHANGES
 	- Errata added
+	
+3.7.2
+-----
+(Eberlems)
+
+NEW
+	- Equilibrium added
+	
+3.7.3
+-----
+(Eberlems)
+
+NEW
+	- March Errata
+	"Crimson Forcefield"
+	Kotran Pa'Dar
+
+4.0
+-----
+(Eberlems)
+	-new database export
+
+4.1
+-----
+(Eberlems)
+	-bug fix
+
+4.1.1
+-----
+(Eberlems)
+	-Errata on IDIC: Power of the High Command and Holographic Camouflage
+	-Mission Requirements Bug Fix
+	-Personnel Classification Bug Fix
+	-Homefront(2-5) cards now available with alternernate image
+
+4.1.2
+-----
+(Eberlems)
+	-OTF Ban on Ceti Eel and Memory Wipe
+	-Added new expansion The Cage
+	-Added Classification on Personnel and Facility
+	-Added Species for Personnel
+	-Block Core changes
+	-Namechanges on
+		Mission Debriefing
+		Balancing Act (First Contact)
+		Resupply Marauder II (back)
+		Q's Tent: Civil War *VP
+		Enterprise *VP
+4.1.3
+-----
+(Eberlems)
+	--change in some booster packs
+	--Added Borderless
+	--Added Q Who?
+4.1.3a
+-----
+(Eberlems)
+	--renamed Borderless and Q Who? reprints
+
+4.1.4
+-----
+(Eberlems)
+	--Errata
+		Assimilate Homeworld
+		IDIC: Power of the High
+		Treaty: Romulan/Vulcan
+		Harness Particle 010
+		Assimilate Planet
+		Assimilate Planet (The Borg)
+		Establish Gateway
+		Establish Gateway (The Borg)
+		Salvage Starship
+		Assimilate Homeworld (Homefront VI)
+
+	--Renamed
+		Rotation Damage Marker (Enterprise)
+		Rotation Damage Marker (The Original Series)
+		Rotation Damage Marker (Deep Space Nine)
+		Rotation Damage Marker (The Wrath of Khan)
+		Rotation Damage Marker (The Motion Picture)
+		Rotation Damage Marker (Generations)
+		Mirror Terok Nor *VP
+		Terok Nor (back) *VP
+		Mirror Terok Nor (back) *VP
+		Enterprise* *VP
+		U.S.S. Enterprise-J 2E
+		Surprise Party
+		Resupply Marauder II (back)
+		Terok Nor (back)
+		Seven of Nine (League Promo)
+		Holo-Projectors (Homefront VI)
+		Jean-Luc Picard *VP
+		Vintaak Disappearance Site (back)
+		Captain Kirk (The Cage)
+		Lt. Sulu (The Cage)
+		Mr. Scott (The Cage)
+		Qol (The Cage)
+		Condition Red *VP
+		Jean-Luc Picard 2E (Starship Captain) *VP
+		Kathryn Janeway* 2E (Clever Captain)
+	--Added
+		Mr. and Mrs. Troi
+
+4.1.5
+-----
+(Eberlems)
+	--Errata
+		Anhaica
+		The Sheliak
+		Strategic Diversion
+	--Added side decks
+	--Changed cardimages AI (dilemma to events)
+	--Changed Packdefinitions
+	--Added first part of TNZ	
+
+4.1.6
+-----
+(Eberlems)
+	--Added TNZ
+	
+4.1.7
+-----
+(Eberlems)
+	--Changed TNZ Set (legal info)
+	--April Errata
+	--Changed Grid Default
+	--Card DB updates
+
+4.1.8
+-----
+(Eberlems)
+	--Changed
+		The Higher... The Q-er
+	-- Errata 
+		Dyson Sphere Door VP 
+	--Card DB updates
+
+4.1.9
+-----
+(Eberlems)
+	--Changed
+		Images of originals and reprints seperated
+	-- Errata 
+		Lt. Uhura, (Through the Looking Glass)
+		Dr. McCoy
+		The Final Frontier
+	--Card DB updates
+
+4.1.10
+-----
+(Eberlems)
+	--Changed
+		Images of Lt. Uhura, (Through the Looking Glass)
+	--Added
+		4 virtual Starter Decks
+		
+4.1.11
+-----
+(Eberlems)
+	--Changed
+		Ensign Davis
+		Access Archives
+
+4.1.12
+-----
+(Eberlems)
+	--Errata
+		Classic Communicator
+		Classic Tricorder
+		Classic Medical Tricorder
+		Vulcan PADD
+		Mission Briefing PADD
+		Vulcan Tricorder
+	--Changed 
+		Virtual Promo Update
+	--Added
+		New VPs
+
+4.1.13
+-----
+(Eberlems)
+	--Errata
+			Five-Year Mission
+	--Added
+		New VPs
+	--Changed
+		Starter Decks
+		
+4.1.14
+-----
+(Eberlems)
+	--Changed
+		reprint images
+		
+4.1.15
+-----
+(Eberlems)
+	--Added
+		New VPs
+	--Changed
+		Errata
+		Card Text fixes
+
+4.1.15a
+-----
+(Eberlems)
+	--Changed
+		Voyager Starter
+
+4.2
+-----
+(Eberlems)
+	--Added
+		New VP
+		A Private Little War
+	--changed: Lore now in exta colomn
+
+4.2.1
+-----
+(Eberlems)
+	--Added
+		New VP
+		
+	--changed: Errata November
+		Alien Abduction
+		Alien Abduction: Test Subjects
+		Computer Weapon & Hyper-Aging
+		DNA Metamorphosis
+		Hyper-Aging
+		Menthar Booby Trap
+		Nitrium Metal Parasites
+		REM Fatigue Hallucinations
+		Rayna Kapec
+		Breen Disruptor Burst
+
+4.2.3
+-----
+(Eberlems)
+	--Changed
+		VPs
+
+4.2.4
+-----
+(Eberlems)
+	--Added
+		New VPs
+	--Changed: Errata March
+		Hologram Ruse
+		Black Hole
+		Engage Shuttle Operations
+		Data Laughing
+		Q2
+		Chief Engineer Scott
+		Miles O'Brien (Emissary)
+		Montgomery Scott
+		Mr. Scott (The Cage)
+		Mr. Scott (The Motion Pictures)
+		Excalbian Surak
+
+4.2.5
+-----
+(Eberlems)
+	--Added
+		Dogs of War
+
+4.2.6
+-----
+(Eberlems)
+	--Changed: May Errata
+		 Buried Alive
+		 The Genesis Effect
+		 Seek Hidden Reliquary
+		 Ajur
+		 Maximum Firepower
+		 Empress 2E (Archive Portrait)
+		 Persis 2E (Archive Portrait)
+		 Commander T'Pol 2E (Archive Portrait)
+		 Neras 2E (Archive Portrait)
+
+4.2.7
+-----
+(Eberlems)
+	--Added: OTSD Remastered
+	--Changed: OTSD cards
+
+4.2.8
+-----
+(Eberlems)
+	--Added:
+		Odo (Dogs of War)
+		Assault Vessel
+		HQ: Return Orb to Bajor
+		The Celestial Temple
+
+4.2.9
+-----
+(Eberlems)
+	-->Added:
+		Assimilate Counterpart
+		Where No Man Has Gone Before
+	--Changed:		
+		Implication *VP
+		Stellar Flare *VP
+		Barzan Wormhole *VP
+		Computer Crash *VP
+		Temporal Shifting *VP
+		Cybernetics Expertise *VP
+		Docking Procedures *VP
+		Empathic Touch *VP
+		Shipwreck *VP
+		Captain Koloth *VP
+		Jem'Hadar Warship (Borderless Promos)
+		Starship Enterprise (Borderless Promos)
+		Kuron (Borderless Promos)
+		Hunting Vessel (Borderless Promos)
+		Regency 1 (Borderless Promos)
+		Husnock Ship (Borderless Promos)
+		Gal Gath'thong (Borderless Promos)
+		Vidiian Cruiser (Borderless Promos)
+		D'kyr (Borderless Promos)
+		Worf [Shades of Gray White Border Preview]
+		Odo [Homefront II White Border Preview]
+		Borg Queen [Homefront III White Border Preview]
+		Administrator Weyoun [The Gamma Quadrant White Border Preview]
+		Comm Officer Sato [The Terran Empire White Border Preview]
+		Centurion Kirk [The Neutral Zone White Border Preview]
+		The Wake of the Borg
+		Holoprogram: Fortress of Doom
+
+4.3.0
+-----
+(Eberlems)
+	-->Added:
+		Q: A Dazzling Flash
+		Q: Enter the Supernova
+		Miss Q
+		Mortal Quinn
+		An Absence of Manners
+		It's a Party!
+		Don't Provoke the Borg!
+		Futile Attempt
+		I Will Not Promise...
+	-->Changed:
+		Reopen Dig
+		Q-Flash
+		Q-uality Time
+		Beware of Q
+		His Honor, The High Sheriff of Nottingham
+		The Issue is Patriotism
+		Incoming Message - The Continuum
+		Ar-Q-ologist
+		Go Back Whence Thou Camest
+		Guilty - Provisionally
+		Mandarin Bailiff
+		Q-Type Android
+		Aldebaran Serpent
+		Scottish Setter
+		The Higher... The Q-er
+		Mortal Q
+		The Naked Truth
+		Q
+		Strategic Base
+		Mission Fatigue
+		The Squire's Rules
+		Cyrus Redblock
+		Soong-type Android
+		
+
+4.3.1
+-----
+(Eberlems)
+	-->Added:
+		Second Star to the Right
+	-->Changed
+		Q
+		Reunite Legends
+
+4.3.1a
+-----
+(Eberlems)
+	-->Changed
+		Second Star to the Right legal status
+		Captain Kirk (Second Star to the Right)
+		Saavik (Second Star to the Right)
+
+4.3.2
+-----
+(Eberlems)
+	-->Changed
+		Misinterpreted History
+		Cardassian Liberation Front
+		Comfort Women
+		maH nIv
+		General Order 7
+		Eliminate Starship
+		Obsession
+		Memory Wipe
+		Smooth as an Android's Bottom?
+
+4.3.3
+-----
+(Eberlems)
+	-->Changed
+		Invasive Beam-In
+		Hanok
+		Ultimatum
+		Amanda Rogers: Protector
+		
+4.3.4
+-----
+(Eberlems)
+	-->Added	
+		TMP Remastered
+	-->Changed
+		TMP Errata
+		I.K.S. Amar
+		I.K.S. Chontay
+		I.K.S. K'elric
+		I.K.S. K't'inga
+		I.K.S. Kla'Diyus
+
+4.3.5
+-----
+(Eberlems)
+	-->Added	
+		Paradise Lost
+	-->Changed
+		Cardassian Trap
+		Amanda Rogers: Protector
+		Quite a Coincidence
+		Urgent Warning
+		Containment Field
+		Strategic Base
+		The Discovery of Sha Ka Ree
+		Defend Homeworld
+		Dixon Hill
+		Excalbian Surak
+		An Issue of Patriotism
+
+4.3.6
+-----
+(Eberlems)
+	-->Changed
+		Paradise Lost
+
+4.3.7
+-----
+(Eberlems)
+	-->Add
+		Hanok *VP
+		Gelnon *VP
+		O'Brien Founder *VP
+		Goran'Agar *VP
+		Ultimatum *VP
+		Take Us Out! *VP
+		Professor Scott *VP
+	-->Changed
+		Temporal Narcosis
+		Where Opportunities Are Made
+		Tournament Promo - Series Q
+
+4.3.8
+-----
+(Eberlems)
+	-->Changed
+		The Final Frontier
+		The Ultimate User
+		Smoke Bomb
+		Double Dumbass On You!
+
+4.3.9
+-----
+(Eberlems)
+    -->Add
+        Nemesis
+	-->Changed
+		Shinzon (Chain of Command)
+		The Viceroy
+		Aamin Marritza
+
+4.4.0
+-----
+(Eberlems)
+	-->Changed
+        Nemesis legal
+        The Celestial Temple (VP)
+
+4.4.0a
+-----
+(Eberlems)
+	-->Changed
+        duplicates with cardback removed
+
+4.4.0b
+-----
+(Eberlems)
+	-->Changed
+        tab count fix
+        
+4.4.1
+-----
+(Eberlems)
+    -->Changed
+        Malfunctioning Door
+        Plasmadyne Relay
+        Quark Son of Keldar
+        Naprem
+        The Trois
+        Terraforming Station
+
+4.4.2
+-----
+(Eberlems)
+    ->Changed
+        Packs
+        
+4.4.3
+-----
+(Eberlems)        
+    ->Changed
+        Persistent Individuality
+        Horga'hn
+        Writ of Accountability
+        Starbase 247
+        The Wake of the Borg
+        In the Pale Moonlight
+        Captured
+        Seven of Nine
+        I.K.C. Chang
+        Q's Tent
+        Q's Tent: Civil War
+        Workhorses of the Fleet
+
+5.0.0
+-----
+(Eberlems)
+    ->Changed
+        Set OTF to Modern
+        
+5.0.1
+-----
+(Eberlems)
+    -->Add
+        Ships of the Line
+    ->Changed
+        Genetronic Replicator
+        Battle Stations: Sovereign Class
+        He Took Away My Pain!
+        Double Dumbass on You!
+        Palor Toff - Alien Trader
+        Space-Time Portal
+        Relentless
+        The Ultimate User
+
+5.0.2
+-----
+(Eberlems)
+    ->Changed
+        Goran'Agar *VP
+        Gelnon *VP
+        O'Brien Founder *VP
+        Hanok *VP
+        Temporal Micro-Wormhole
+        Clone Machine
+        Madred
+        Interrogation
+        Torture
+        The Final Frontier
+        Escape
+
+5.0.3
+-----
+(Eberlems)
+    ->Changed
+        Nebula
+        Prevent Military Escalation
+        Smoke Bomb
+        To Boldly Go        
+
+5.0.4
+-----
+(Eberlems)
+    -->Add
+        Showdown: Four Lights
+        Showdown: Four Lights Supplemental
+
+5.0.5
+-----
+(Eberlems)
+    ->Changed
+        Showdown: Four Lights legal status
+        
+    -->Add
+        Showdown: Four Lights Decks
+
+5.0.6
+-----
+(Eberlems)
+    ->Changed
+        Commandeer Ship
+        Commandeer Ship (Voyager)
+        Commandeer Ship *VP
+        Prevent Military Escalation II
+        Prevent Military Escalation II (back)
+        Empok Nor
+        Empok Nor (back)
+        Cybernetics Expertise
+        Holoprogram: Cafe Des Artistes
+        Make a Difference Again
+        I've Been Waiting For You
+        Orb Experience
+        Study Divergent History
+
+5.0.8
+-----
+(Eberlems)
+    ->Changed
+        Holoprogram: Cafe Des Artistes
+        I've Been Waiting For You
+        Orb Experience
+        Navigate Plasma Storms
+        Study Divergent History
+        Sherlock Holmes
+        Breen Disruptor Burst
+        Ultimatum *VP
+        Professor Scott *VP
+        Confront Duplicate *VP
+    ->Add
+        O'Brien and Kira
+        O'Brien and Kira* *VP
+        Julian Bashir (Sanctuary)
+        Jadzia Dax (Sanctuary)
+        Gabriel Bell
+        Emergent Life-form *VP
+        In the Pale Moonlight *VP
+        Captured *VP
+        The Undiscovered Country *VP
+        Two of Nine *VP
+        Seven of Nine **VP
+        U.S.S. Pasteur *VP
+        I.K.S. Chang *VP
+        Persistent Individuality *VP
+        Battle Bridge Door: Auxiliary Control
+        So'wI' taH!
+        Research Rapid Rotation
+        Study Cultural Evolution
+
+5.0.9
+-----
+(Eberlems)
+    ->Changed
+        Preserver Obelisk
+        Assign Mission Specialists
+        Assign Mission Specialists (Voyager)
+        Parallel Romance
+        Deep Space 9
+        Deep Space 9 (back)
+        Mirror Terok Nor
+        Mirror Terok Nor (back)
+        Empok Nor
+        Empok Nor (back)
+        Center of Authority
+        Greater Glory of Cardassia
+        I Miss This Office
+        The Vidiian Sodality
+        Vidiian Boarding Claw
+        Preparation
+        Shakaar Edon
+        Miles O'Brien
+        I.K.C. Negh'Var
+    ->Add
+        Lifesigns
+
+5.1.0
+-----
+(Eberlems)
+    ->Changed
+        Abduction Plot
+        Assist Damaged Vessel
+        Assist Survivors
+        Bajoran Raider
+        Borg Probe
+        Borg Scout Vessel
+        Full Complement of Shuttles
+        I.K.C. T'Ong
+        Investigate Incursion
+        K'Temoc
+        Legal Appeal
+        Recruit Ally
+        Salvage Borg Ship
+        Shuttlepod Two
+        Sphere Encounter
+        Type 18 Shuttlepod
+
+5.1.1
+-----
+(Eberlems)
+    ->Add
+        Alternate Universe: Twilight
+        Talosian Trial *VP
+        Ferengi Conference *VP
+        Gaila *VP
+        The Trois *VP
+        The Trois* *VP
+        Par Lenor *VP
+    ->Changed
+        Oof!
+        Centurion Kirk
+        Odo (Dogs of War) *VP
+        Odo (Dogs of War)* *VP
+        Odo (Dogs of War)+ *VP
+        Halkan Council
+
+5.1.2
+-----
+(Eberlems)
+    ->Changed
+        Alternate Universe: Twilight
 
 ------------------------------
-Plugin main maintainer - Scox
+Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se
 TrekCC handle: Scox
+
+Plugin main maintainer - Eberlems
+Email: markuseberlein@gmx.de
+TrekCC handle: Eberlems

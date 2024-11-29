@@ -1,7 +1,7 @@
 <plugin>
 <playerstat>
-	<label>Points</label>
-	<initialvalue>0</initialvalue>
+   <label>Points</label>
+   <initialvalue>0</initialvalue>
 </playerstat>
 <deckzone>
      <label>Deck</label>
@@ -21,13 +21,49 @@
 <deckzone>
      <label>QsTent</label>
      <gamezonetoloadto>Q's Tent</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+<deckzone>
+     <label>Ref</label>
+     <gamezonetoloadto>Ref Pile</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+<deckzone>
+     <label>Dyson</label>
+     <gamezonetoloadto>Dyson Sphere</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+<deckzone>
+     <label>Flash</label>
+     <gamezonetoloadto>Q-Flash</gamezonetoloadto>
      <shuffle>yes</shuffle>
 </deckzone>
 <deckzone>
-     <label>Aside</label>
-     <gamezonetoloadto>Crew 3 (Aside)</gamezonetoloadto>
+     <label>Tactics</label>
+     <gamezonetoloadto>Battle Bridge</gamezonetoloadto>
+     <shuffle>yes</shuffle>
+</deckzone>
+<deckzone>
+     <label>Tribbles</label>
+     <gamezonetoloadto>Tribbles</gamezonetoloadto>
+     <shuffle>yes</shuffle>
+</deckzone>
+<deckzone>
+     <label>Sites</label>
+     <gamezonetoloadto>Crew 3 (Sites)</gamezonetoloadto>
      <shuffle>no</shuffle>
 </deckzone>
+<deckzone>
+     <label>Outside</label>
+     <gamezonetoloadto>Removed</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+<deckzone>
+     <label>Aside</label>
+     <gamezonetoloadto>Crew 4 (Aside)</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+
 <gamezone>
      <label>Hand</label>
      <visibletoowner>yes</visibletoowner>
@@ -75,13 +111,13 @@
 </gamezone>
 <gamezone>
      <label>Dyson Sphere</label>
-     <visibletoowner>yes</visibletoowner>
+     <visibletoowner>no</visibletoowner>
      <visibletoothers>no</visibletoothers>
 </gamezone>
 <gamezone>
      <label>Ref Pile</label>
-     <visibletoowner>yes</visibletoowner>
-     <visibletoothers>yes</visibletoothers>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
 </gamezone>
 <gamezone>
      <label>Crew 1 (Seed+Dilemmas)</label>
@@ -94,143 +130,170 @@
      <visibletoothers>no</visibletoothers>
 </gamezone>
 <gamezone>
-     <label>Crew 3 (Aside)</label>
+     <label>Crew 3 (Sites)</label>
      <visibletoowner>yes</visibletoowner>
      <visibletoothers>no</visibletoothers>
 </gamezone>
 <gamezone>
-     <label>Crew 4</label>
+     <label>Crew 4 (Aside)</label>
      <visibletoowner>yes</visibletoowner>
      <visibletoothers>no</visibletoothers>
 </gamezone>
+
 <phase>
-	<label>Play</label>
+   <label>Play</label>
 </phase>
 <phase>
-	<label>Order</label>
+   <label>Order</label>
 </phase>
 <phase>
-	<label>Draw</label>
+   <label>Draw</label>
 </phase>
+
 <generalfunction>
-	<label>Draw</label>
-	<kind>DRAWCARD</kind>
-	<includeasbutton>yes</includeasbutton>
+   <label>Draw</label>
+   <kind>DRAWCARD</kind>
+   <includeasbutton>yes</includeasbutton>
 </generalfunction>
 <generalfunction>
-	<label>Probe</label>
-	<kind>DRAWCARDTOTABLE</kind>
-	<includeasbutton>yes</includeasbutton>
+   <label>Probe</label>
+   <kind>DRAWCARDTOTABLE</kind>
+   <includeasbutton>yes</includeasbutton>
 </generalfunction>
 <generalfunction>
-	<label>Discard from Deck</label>
-	<kind>TRANSFERCARD</kind>
-	<sourceowner>performer</sourceowner>
-	<sourcegamezone>Deck</sourcegamezone>
-	<sourceposition>top</sourceposition>
-	<destinationowner>performer</destinationowner>
-	<destinationgamezone>Discard</destinationgamezone>
-	<destinationposition>top</destinationposition>	
-	<includeasbutton>yes</includeasbutton>
+   <label>Discard from Deck</label>
+   <kind>TRANSFERCARD</kind>
+   <sourceowner>performer</sourceowner>
+   <sourcegamezone>Deck</sourcegamezone>
+   <sourceposition>top</sourceposition>
+   <destinationowner>performer</destinationowner>
+   <destinationgamezone>Discard</destinationgamezone>
+   <destinationposition>top</destinationposition>   
+   <includeasbutton>yes</includeasbutton>
 </generalfunction>
 <generalfunction>
-	<label>Next Turn</label>
-	<kind>NEXTTURN</kind>
-	<includeasbutton>no</includeasbutton>
+   <label>Next Turn</label>
+   <kind>NEXTTURN</kind>
+   <includeasbutton>no</includeasbutton>
 </generalfunction>
 <generalfunction>
-	<label>Previous Turn</label>
-	<kind>PREVIOUSTURN</kind>
-	<includeasbutton>no</includeasbutton>
+   <label>Previous Turn</label>
+   <kind>PREVIOUSTURN</kind>
+   <includeasbutton>no</includeasbutton>
 </generalfunction>
 <generalfunction>
-	<label>Previous Phase</label>
-	<kind>PREVIOUSPHASE</kind>
-	<includeasbutton>no</includeasbutton>
+   <label>Previous Phase</label>
+   <kind>PREVIOUSPHASE</kind>
+   <includeasbutton>no</includeasbutton>
 </generalfunction>
 <generalfunction>
-	<label>Next Phase</label>
-	<kind>NEXTPHASE</kind>
-	<includeasbutton>no</includeasbutton>
+   <label>Next Phase</label>
+   <kind>NEXTPHASE</kind>
+   <includeasbutton>no</includeasbutton>
 </generalfunction>
 <generalfunction>
-	<label>Flip Coin</label>
-	<kind>FLIPCOIN</kind>
-	<includeasbutton>no</includeasbutton>
+   <label>Flip Coin</label>
+   <kind>FLIPCOIN</kind>
+   <includeasbutton>no</includeasbutton>
 </generalfunction>
+
 <cardfunction>
-	<label>Flip Card</label>
-	<kind>TURNOVER</kind>
-	<includeasbutton>yes</includeasbutton>
+   <label>Flip Card</label>
+   <kind>TURNOVER</kind>
+   <includeasbutton>yes</includeasbutton>
 </cardfunction>
 <cardfunction>
-	<label>Rotate 90</label>
-	<kind>MAKERIGHT90DEGREES</kind>
-	<includeasbutton>yes</includeasbutton>
+   <label>Rotate 90</label>
+   <kind>MAKERIGHT90DEGREES</kind>
+   <includeasbutton>yes</includeasbutton>
 </cardfunction>
 <cardfunction>
-	<label>Rotate Back</label>
-	<kind>MAKERIGHT0DEGREES</kind>
-	<includeasbutton>yes</includeasbutton>
+   <label>Rotate 180</label>
+   <kind>MAKERIGHT180DEGREES</kind>
+   <includeasbutton>yes</includeasbutton>
 </cardfunction>
 <cardfunction>
-	<label>Yellow Token +1</label>
-	<kind>ADDCOUNTER</kind>
-	<color>yellow</color>
-	<includeasbutton>yes</includeasbutton>
-	<PositionX>.5</PositionX>
-	<PositionY>.04</PositionY>
+   <label>Rotate Back</label>
+   <kind>MAKERIGHT0DEGREES</kind>
+   <includeasbutton>yes</includeasbutton>
 </cardfunction>
 <cardfunction>
-	<label>Yellow Token -1</label>
-	<kind>REMOVECOUNTER</kind>
-	<color>yellow</color>
-	<includeasbutton>yes</includeasbutton>
+   <label>Yellow Token +1</label>
+   <kind>ADDCOUNTER</kind>
+   <color>yellow</color>
+   <includeasbutton>yes</includeasbutton>
+   <PositionX>.5</PositionX>
+   <PositionY>.04</PositionY>
 </cardfunction>
 <cardfunction>
-	<label>Black Token +1</label>
-	<kind>ADDCOUNTER</kind>
-	<color>black</color>
-	<includeasbutton>yes</includeasbutton>
-	<PositionX>.95</PositionX>
-	<PositionY>.94</PositionY>
+   <label>Yellow Token -1</label>
+   <kind>REMOVECOUNTER</kind>
+   <color>yellow</color>
+   <includeasbutton>yes</includeasbutton>
 </cardfunction>
 <cardfunction>
-	<label>Black Token -1</label>
-	<kind>REMOVECOUNTER</kind>
-	<color>black</color>
-	<includeasbutton>yes</includeasbutton>
+   <label>Countdown +1</label>
+   <kind>ADDCOUNTER</kind>
+   <color>green</color>
+   <includeasbutton>yes</includeasbutton>
+   <PositionX>.1</PositionX>
+   <PositionY>.47</PositionY>
 </cardfunction>
 <cardfunction>
-	<label>Edit Note</label>
-	<kind>EDITNOTE</kind>
-	<includeasbutton>yes</includeasbutton>
-	<PositionX>.4</PositionX>
-	<PositionY>.95</PositionY>
+   <label>Countdown -1</label>
+   <kind>REMOVECOUNTER</kind>
+   <color>green</color>
+   <includeasbutton>yes</includeasbutton>
 </cardfunction>
 <cardfunction>
-	<label>Clear</label>
-	<kind>CLEARCARD</kind>
-	<includeasbutton>yes</includeasbutton>
+   <label>Black Token +1</label>
+   <kind>ADDCOUNTER</kind>
+   <color>black</color>
+   <includeasbutton>yes</includeasbutton>
+   <PositionX>.95</PositionX>
+   <PositionY>.94</PositionY>
 </cardfunction>
 <cardfunction>
-	<label>Take Control</label>
-	<kind>CHANGEOWNER</kind>
+   <label>Black Token -1</label>
+   <kind>REMOVECOUNTER</kind>
+   <color>black</color>
+   <includeasbutton>yes</includeasbutton>
 </cardfunction>
+<cardfunction>
+   <label>Edit Note</label>
+   <kind>EDITNOTE</kind>
+   <includeasbutton>yes</includeasbutton>
+   <PositionX>.4</PositionX>
+   <PositionY>.95</PositionY>
+</cardfunction>
+<cardfunction>
+   <label>Clear</label>
+   <kind>CLEARCARD</kind>
+   <includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+   <label>Take Control</label>
+   <kind>CHANGEOWNER</kind>
+</cardfunction>
+
 <definition>
-	<kind>REUSECARDIMAGES</kind>
+   <kind>REUSECARDIMAGES</kind>
 </definition>
 <definition>
-	<kind>ISYOURFACEDOWNVISIBLE</kind>
+   <kind>ISYOURFACEDOWNVISIBLE</kind>
 </definition>
 <definition>
-	<kind>ISSTACKEDCARDSFLAT</kind>
+   <kind>ISSTACKEDCARDSFLAT</kind>
 </definition>
 <definition>
-	<kind>ISALLOWINGMULTIPLECARDBACKS</kind>
+   <kind>ISALLOWINGMULTIPLECARDBACKS</kind>
 </definition>
 <definition>
-	<kind>MULTIPLECARDBACKSNAMESVISIBLETO</kind>
-	<value>owner</value>
+   <kind>MULTIPLECARDBACKSNAMESVISIBLETO</kind>
+   <value>others</value>
+</definition>
+<definition>
+	<kind>GRIDSIZE</kind>
+	<value>0.011</value>
 </definition>
 </plugin>

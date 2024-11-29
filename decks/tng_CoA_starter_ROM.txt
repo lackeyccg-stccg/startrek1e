@@ -1,0 +1,69 @@
+1	Alidar Jarok (Homefront II)
+1	Get It Done
+1	Koral (The Next Generation)
+1	Vash (The Next Generation)
+1	Sunad
+1	Vekor
+1	Tallera
+2	Science Vessel
+1	Jaglom Shrek
+1	Tomalak (Homefront III)
+1	Explain Your Presence
+1	Agyer
+1	Ambassador Spock
+1	Jean-Luc Picard (Engage)
+1	Kell (Engage)
+1	Kharic
+1	Khev
+1	Mareth
+1	Parem (Engage)
+1	Proconsul Neral
+2	T'Jev
+1	Tacil
+1	Toraan
+1	Deranas
+1	Tarvang
+1	Jacen
+1	Mengran
+1	Nefets
+Missions:
+1	Steal Technology
+1	Visit Tranquil Colony
+1	Advanced Combat Training
+1	Recover Prisoner
+1	Investigate Energy Readings
+1	Prepare War Game Scenario
+Seed+Dil:
+1	Chula: The Chandra
+1	Dal'Rok
+1	Flim-Flam Artist
+1	Friendly Fire
+1	Maglock
+1	Picking Up the Pieces
+1	Attention All Hands
+1	Armus - Skin of Evil
+1	Birth of "Junior"
+1	Radioactive Garbage Scow
+1	Virus
+1	Assign Mission Specialists
+1	Do You Smell Something Burning?
+1	Captain's Holiday
+1	Devastating Communique
+1	Undercover Agent
+1	Remat Detonator
+1	A Bad End
+1	Continuing Mission
+1	Lack of Preparation
+1	Romulan Outpost
+1	Nagilum: Test Subjects
+QsTent:
+Ref:
+Dyson:
+Flash:
+Tactics:
+Tribbles:
+Sites:
+Outside:
+Aside:
+1	D'Lors
+1	Palteth

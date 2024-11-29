@@ -1,0 +1,94 @@
+1	Interrogation
+2	Torture
+1	Ocett (Homefront II)
+3	Let's See What's Out There
+1	Ready Room Door
+1	Corak
+1	Gollek
+1	Joret Dal
+1	Goran
+1	Nador
+3	Holding Cell Door
+2	Awaiting Trial
+1	Tajor
+1	Lemec *VP
+2	Telle *VP
+1	Type-2 Galor
+1	Admiral Kennelly
+1	Andro
+2	Ansomah
+1	Belcalis
+1	Glinn Telak
+1	Gul Evek
+1	Human
+2	Jil Orra
+2	Lepel
+2	Mekar
+1	Vengar
+1	Vetar (Showdown: Four Lights)
+1	Daro
+1	Dolak
+1	Gul Madred
+1	Macet
+1	Reklar
+Missions:
+1	Recover Prisoner
+1	Locate Terrorist Leader
+1	Study Xenophobic Tendencies
+1	Covert Incursion
+1	Prevent Military Escalation II
+1	Bioweapon Ruse
+Seed+Dil:
+1	Cardassian Trap
+1	Female's Love Interest & Garbage Scow
+1	Male's Love Interest & Plague Ship
+1	Spatial Rift
+1	Q's Tent
+1	Cardassian Processing
+1	Attention All Hands
+1	Continuing Mission
+1	Alternate Universe Door
+1	Valuable Prisoner
+1	Faux Pas
+1	Crippling Injury
+1	Misinterpreted History
+1	Primal Urges
+1	Assign Support Personnel *VP
+1	Experience Bij!
+1	M-113 Creature
+1	The Squire's Rules
+1	Scientific Method *VP
+1	Dominion War Efforts *VP
+1	Unscientific Method
+1	Friendly Fire *VP
+1	Stratagem
+1	Extracted Confessions
+1	Secret Prison
+1	Latest Provocation
+1	Berserk Changeling
+1	Kazon Bomb
+1	The Clown: Playing Doctor
+1	Prepare the Prisoner
+QsTent:
+1	Interrogation
+1	Lower Decks
+1	Torture
+1	Dig
+1	Corak
+1	Tajor
+1	Telle *VP
+1	Type-2 Galor
+1	Taspar Egg
+1	Belcalis
+1	Cardassian Disruptor
+1	Cardassian PADD
+1	Daro
+Ref:
+Dyson:
+Flash:
+Tactics:
+Tribbles:
+Sites:
+Outside:
+1	Taken Prisoner
+Aside:

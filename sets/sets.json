@@ -1,0 +1,597 @@
+[
+  {
+    "id": "101",
+    "name": "Premiere",
+    "abbr": "P",
+    "code": "premiere",
+    "virtual": false
+  },
+  {
+    "id": "103",
+    "name": "Alternate Universe",
+    "abbr": "AU",
+    "code": "au",
+    "virtual": false
+  },
+  {
+    "id": "105",
+    "name": "Q Continuum",
+    "abbr": "QC",
+    "code": "qc",
+    "virtual": false
+  },
+  {
+    "id": "106",
+    "name": "Intro 2-Player Game",
+    "abbr": "2PG",
+    "code": "2pg",
+    "virtual": false
+  },
+  {
+    "id": "107",
+    "name": "First Anthology",
+    "abbr": "1A",
+    "code": "1anth",
+    "virtual": false
+  },
+  {
+    "id": "108",
+    "name": "Fajo Collection",
+    "abbr": "FAJ",
+    "code": "faj",
+    "virtual": false
+  },
+  {
+    "id": "109",
+    "name": "First Contact",
+    "abbr": "FC",
+    "code": "fc",
+    "virtual": false
+  },
+  {
+    "id": "110",
+    "name": "Away Team Pack",
+    "abbr": "ATP",
+    "code": "awayteam",
+    "virtual": false
+  },
+  {
+    "id": "111",
+    "name": "Official Tournament Sealed Deck",
+    "abbr": "OTSD",
+    "code": "otsd",
+    "virtual": false
+  },
+  {
+    "id": "112",
+    "name": "Deep Space 9",
+    "abbr": "DS9",
+    "code": "ds9",
+    "virtual": false
+  },
+  {
+    "id": "113",
+    "name": "Starter Deck II",
+    "abbr": "SDII",
+    "code": "sdII",
+    "virtual": false
+  },
+  {
+    "id": "114",
+    "name": "Enhanced First Contact",
+    "abbr": "EFC",
+    "code": "efc",
+    "virtual": false
+  },
+  {
+    "id": "115",
+    "name": "The Dominion",
+    "abbr": "Dom",
+    "code": "dom",
+    "virtual": false
+  },
+  {
+    "id": "116",
+    "name": "Blaze of Glory",
+    "abbr": "BoG",
+    "code": "bog",
+    "virtual": false
+  },
+  {
+    "id": "117",
+    "name": "Rules of Acquisition",
+    "abbr": "RoA",
+    "code": "roa",
+    "virtual": false
+  },
+  {
+    "id": "100",
+    "name": "Armada",
+    "abbr": "Arm",
+    "code": "armade",
+    "virtual": false
+  },
+  {
+    "id": "118",
+    "name": "Second Anthology",
+    "abbr": "2A",
+    "code": "2anth",
+    "virtual": false
+  },
+  {
+    "id": "119",
+    "name": "The Trouble with Tribbles",
+    "abbr": "TWT",
+    "code": "twt",
+    "virtual": false
+  },
+  {
+    "id": "198",
+    "name": "Trouble with Tribbles Starter Decks",
+    "abbr": "TWT:SD",
+    "code": "TWT",
+    "virtual": false
+  },
+  {
+    "id": "120",
+    "name": "Reflections",
+    "abbr": "Ref",
+    "code": "Ref",
+    "virtual": false
+  },
+  {
+    "id": "121",
+    "name": "Enhanced Premiere",
+    "abbr": "EP",
+    "code": "ep",
+    "virtual": false
+  },
+  {
+    "id": "122",
+    "name": "Mirror, Mirror",
+    "abbr": "MM",
+    "code": "mm",
+    "virtual": false
+  },
+  {
+    "id": "123",
+    "name": "Voyager",
+    "abbr": "Voy",
+    "code": "voy",
+    "virtual": false
+  },
+  {
+    "id": "124",
+    "name": "The Borg",
+    "abbr": "Borg",
+    "code": "borg",
+    "virtual": false
+  },
+  {
+    "id": "125",
+    "name": "Holodeck Adventures",
+    "abbr": "HA",
+    "code": "ha",
+    "virtual": false
+  },
+  {
+    "id": "126",
+    "name": "The Motion Pictures",
+    "abbr": "TMP",
+    "code": "tmp",
+    "virtual": false
+  },
+  {
+    "id": "127",
+    "name": "All Good Things",
+    "abbr": "AGT",
+    "code": "agt",
+    "virtual": false
+  },
+  {
+    "id": "128",
+    "name": "Enterprise Collection",
+    "abbr": "Ent",
+    "code": "enterprise",
+    "virtual": false
+  },
+  {
+    "id": "130",
+    "name": "Referee Reprints",
+    "abbr": "Ref",
+    "code": "referee",
+    "virtual": true
+  },
+  {
+    "id": "129",
+    "name": "Identity Crisis",
+    "abbr": "IC",
+    "code": "IC",
+    "virtual": true
+  },
+  {
+    "id": "132",
+    "name": "Virtual Promos",
+    "abbr": "VP",
+    "code": "VP",
+    "virtual": true
+  },
+  {
+    "id": "135",
+    "name": "Chain of Command",
+    "abbr": "CoC",
+    "code": "coc",
+    "virtual": true
+  },
+  {
+    "id": "138",
+    "name": "Life From Lifelessness",
+    "abbr": "LFL",
+    "code": "lfl",
+    "virtual": true
+  },
+  {
+    "id": "139",
+    "name": "Homefront",
+    "abbr": "HF",
+    "code": "HF",
+    "virtual": true
+  },
+  {
+    "id": "141",
+    "name": "Straight and Steady",
+    "abbr": "SaS",
+    "code": "SaS",
+    "virtual": true
+  },
+  {
+    "id": "143",
+    "name": "BaH!",
+    "abbr": "BaH!",
+    "code": "Bah!",
+    "virtual": true
+  },
+  {
+    "id": "149",
+    "name": "Shades of Gray",
+    "abbr": "SoG",
+    "code": "SoG",
+    "virtual": true
+  },
+  {
+    "id": "152",
+    "name": "Homefront II",
+    "abbr": "HF2",
+    "code": "HF2",
+    "virtual": true
+  },
+  {
+    "id": "153",
+    "name": "Resistance is Futile",
+    "abbr": "RiF",
+    "code": "RiF",
+    "virtual": true
+  },
+  {
+    "id": "155",
+    "name": "The Next Generation",
+    "abbr": "TNG",
+    "code": "TNG",
+    "virtual": true
+  },
+  {
+    "id": "156",
+    "name": "The Next Generation: Supplemental",
+    "abbr": "TNG+",
+    "code": "TNG+",
+    "virtual": true
+  },
+  {
+    "id": "159",
+    "name": "Homefront III",
+    "abbr": "HF3",
+    "code": "HF3",
+    "virtual": true
+  },
+  {
+    "id": "161",
+    "name": "Engage",
+    "abbr": "Eng",
+    "code": "ENGAGE",
+    "virtual": true
+  },
+  {
+    "id": "163",
+    "name": "The Sky's the Limit",
+    "abbr": "TStL",
+    "code": "tstl",
+    "virtual": true
+  },
+  {
+    "id": "165",
+    "name": "Homefront IV",
+    "abbr": "HF4",
+    "code": "HF4",
+    "virtual": true
+  },
+  {
+    "id": "167",
+    "name": "Emissary",
+    "abbr": "Emi",
+    "code": "Emissary",
+    "virtual": true
+  },
+  {
+    "id": "168",
+    "name": "Emissary: Supplemental",
+    "abbr": "Emi+",
+    "code": "Emissary+",
+    "virtual": true
+  },
+  {
+    "id": "169",
+    "name": "Homefront V",
+    "abbr": "HF5",
+    "code": "HF5",
+    "virtual": true
+  },
+  {
+    "id": "171",
+    "name": "Warp Pack: Emissary",
+    "abbr": "WP:E",
+    "code": "WPEmissary",
+    "virtual": true
+  },
+  {
+    "id": "172",
+    "name": "The Maquis",
+    "abbr": "Maq",
+    "code": "Maquis",
+    "virtual": true
+  },
+  {
+    "id": "174",
+    "name": "20th Anniversary Collection",
+    "abbr": "20th",
+    "code": "20th",
+    "virtual": true
+  },
+  {
+    "id": "176",
+    "name": "The Gamma Quadrant",
+    "abbr": "TGQ",
+    "code": "tgq",
+    "virtual": true
+  },
+  {
+    "id": "178",
+    "name": "Homefront VI",
+    "abbr": "HF6",
+    "code": "HF6",
+    "virtual": true
+  },
+  {
+    "id": "181",
+    "name": "Crossover",
+    "abbr": "Cross",
+    "code": "crossover",
+    "virtual": true
+  },
+  {
+    "id": "182",
+    "name": "Crossover: Supplemental",
+    "abbr": "Cross+",
+    "code": "crossovers",
+    "virtual": true
+  },
+  {
+    "id": "184",
+    "name": "Through the Looking Glass",
+    "abbr": "TtLG",
+    "code": "lookinggla",
+    "virtual": true
+  },
+  {
+    "id": "188",
+    "name": "Star Trek 50",
+    "abbr": "ST50",
+    "code": "50",
+    "virtual": true
+  },
+  {
+    "id": "191",
+    "name": "The Terran Empire",
+    "abbr": "Terran",
+    "code": "terran",
+    "virtual": true
+  },
+  {
+    "id": "192",
+    "name": "Broken Bow",
+    "abbr": "BB",
+    "code": "brokenbow",
+    "virtual": true
+  },
+  {
+    "id": "194",
+    "name": "Pre-Warp Pack",
+    "abbr": "P-WP",
+    "code": "PreWarp",
+    "virtual": true
+  },
+  {
+    "id": "195",
+    "name": "Live Long and Prosper",
+    "abbr": "LLaP",
+    "code": "llap",
+    "virtual": true
+  },
+  {
+    "id": "199",
+    "name": "Warp Pack: Holiday 2017",
+    "abbr": "WP:2017",
+    "code": "wp2017",
+    "virtual": true
+  },
+  {
+    "id": "200",
+    "name": "Cold Front",
+    "abbr": "CF",
+    "code": "coldfront",
+    "virtual": true
+  },
+  {
+    "id": "202",
+    "name": "Metamorphosis",
+    "abbr": "Meta",
+    "code": "metamorpho",
+    "virtual": true
+  },
+  {
+    "id": "204",
+    "name": "Coming of Age",
+    "abbr": "CoA",
+    "code": "comingofag",
+    "virtual": true
+  },
+  {
+    "id": "206",
+    "name": "Enterprise Collection Remastered",
+    "abbr": "ECR",
+    "code": "ecr",
+    "virtual": true
+  },
+  {
+    "id": "207",
+    "name": "The Gift",
+    "abbr": "Gift",
+    "code": "gift",
+    "virtual": true
+  },
+  {
+    "id": "209",
+    "name": "Equilibrium",
+    "abbr": "EQ",
+    "code": "equilibriu",
+    "virtual": true
+  },
+  {
+    "id": "212",
+    "name": "The Cage",
+    "abbr": "Cage",
+    "code": "Cage",
+    "virtual": true
+  },
+  {
+    "id": "215",
+    "name": "Borderless Promos",
+    "abbr": "BP",
+    "code": "BP",
+    "virtual": true
+  },
+  {
+    "id": "217",
+    "name": "Q Who?",
+    "abbr": "QWho",
+    "code": "qwho",
+    "virtual": true
+  },
+  {
+    "id": "219",
+    "name": "The Neutral Zone",
+    "abbr": "TNZ",
+    "code": "tnz",
+    "virtual": true
+  },
+  {
+    "id": "223",
+    "name": "A Private Little War",
+    "abbr": "APLW",
+    "code": "plw",
+    "virtual": true
+  },
+  {
+    "id": "227",
+    "name": "Dogs of War",
+    "abbr": "DoW",
+    "code": "dow",
+    "virtual": true
+  },
+  {
+    "id": "230",
+    "name": "Official Tournament Sealed Deck Remastered",
+    "abbr": "OTSD:R",
+    "code": "otsdr",
+    "virtual": true
+  },
+  {
+    "id": "233",
+    "name": "The Trial Never Ended",
+    "abbr": "TTNE",
+    "code": "ttne",
+    "virtual": true
+  },
+  {
+    "id": "234",
+    "name": "Second Star to the Right",
+    "abbr": "SSttR",
+    "code": "SSttR",
+    "virtual": true
+  },
+  {
+    "id": "236",
+    "name": "The Motion Pictures Remastered",
+    "abbr": "TMPR",
+    "code": "TMPR",
+    "virtual": true
+  },
+  {
+    "id": "238",
+    "name": "Paradise Lost",
+    "abbr": "PL",
+    "code": "PL",
+    "virtual": true
+  },
+  {
+    "id": "241",
+    "name": "Nemesis",
+    "abbr": "Nem",
+    "code": "NEM",
+    "virtual": true
+  },
+  {
+    "id": "244",
+    "name": "Ships of the Line",
+    "abbr": "SotL",
+    "code": "SotL",
+    "virtual": true
+  },
+  {
+    "id": "245",
+    "name": "Showdown: Four Lights",
+    "abbr": "SFL",
+    "code": "SFL",
+    "virtual": true
+  },
+  {
+    "id": "246",
+    "name": "Showdown: Four Lights Supplemental",
+    "abbr": "SFLS",
+    "code": "SFLS",
+    "virtual": true
+  },
+  {
+    "id": "249",
+    "name": "Lifesigns",
+    "abbr": "Ls",
+    "code": "Ls",
+    "virtual": true
+  },
+  {
+    "id": "251",
+    "name": "Alternate Universe: Twilight",
+    "abbr": "AUT",
+    "code": "AUT",
+    "virtual": true
+  }
+]
