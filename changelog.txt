@@ -1832,6 +1832,12 @@ NEW
     ->Changed
         Alternate Universe: Twilight
 
+5.1.3
+-----
+(Eberlems)
+    ->Add
+        Premiere Traditional
+
 ------------------------------
 Plugin former main maintainer - Scox
 Email: stccg1e.lackeyplugin@scox.se

@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>241025</dateYYMMDD>
+<dateYYMMDD>241210</dateYYMMDD>
 <removepath>sets/playtest.txt</removepath>
 <removepath>sets/setimages/general/aaminmarritza.jpg</removepath>
 <removepath>sets/setimages/general/32-VP_theviceroy.jpg</removepath>

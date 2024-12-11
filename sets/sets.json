@@ -593,5 +593,12 @@
     "abbr": "AUT",
     "code": "AUT",
     "virtual": true
+  },
+  {
+    "id": "252",
+    "name": "Premiere Traditional",
+    "abbr": "PT",
+    "code": "PT",
+    "virtual": true
   }
 ]
