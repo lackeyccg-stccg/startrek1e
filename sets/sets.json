@@ -1,12 +1,5 @@
 [
   {
-    "id": "101",
-    "name": "Premiere",
-    "abbr": "P",
-    "code": "premiere",
-    "virtual": false
-  },
-  {
     "id": "103",
     "name": "Alternate Universe",
     "abbr": "AU",
@@ -599,6 +592,13 @@
     "name": "Premiere Traditional",
     "abbr": "PT",
     "code": "PT",
+    "virtual": true
+  },
+  {
+    "id": "254",
+    "name": "Premiere Remastered",
+    "abbr": "PR",
+    "code": "PR",
     "virtual": true
   }
 ]

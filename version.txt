@@ -1,7 +1,7 @@
 <version>
-<lastupdateYYMMDD>241211</lastupdateYYMMDD>
+<lastupdateYYMMDD>250202</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek1e/playable/updatelist.txt</updateurl>
-<message>Plugin version 5.1.3 Premiere Traditional added https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
+<message>Plugin version 5.1.4 Premiere Remastered added https://raw.githubusercontent.com/eberlems/startrek1e/playable/changelog.txt</message>
 </version>

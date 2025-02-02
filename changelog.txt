@@ -1837,6 +1837,19 @@ NEW
 (Eberlems)
     ->Add
         Premiere Traditional
+        
+5.1.4
+-----
+(Eberlems)
+    ->Add
+        Premiere Remastered
+    ->Changed
+        Lore
+        Lore *VP
+        Oof!
+        Quinn
+        Quinn *VP
+        Strategema
 
 ------------------------------
 Plugin former main maintainer - Scox
